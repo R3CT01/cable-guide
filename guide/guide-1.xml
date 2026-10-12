@@ -216,7 +216,6 @@
 <programme start="20261013113900 +0000" stop="20261013120800 +0000" channel="90sKids.us@SD"><title>Hey Arnold!: Grandpa's Sister/Synchronized Swimming</title></programme>
 <programme start="20261013120800 +0000" stop="20261013123600 +0000" channel="90sKids.us@SD"><title>Aaahh!!! Real Monsters</title></programme>
 <programme start="20261013123600 +0000" stop="20261013130400 +0000" channel="90sKids.us@SD"><title>Aaahh!!! Real Monsters</title></programme>
-<programme start="20261012204200 +0000" stop="20261012211000 +0000" channel="90sKidsTV2.us@SD"><title>Kenan &amp; Kel</title></programme>
 <programme start="20261012211000 +0000" stop="20261012213800 +0000" channel="90sKidsTV2.us@SD"><title>Big Time Rush</title></programme>
 <programme start="20261012213800 +0000" stop="20261012220600 +0000" channel="90sKidsTV2.us@SD"><title>Big Time Rush</title></programme>
 <programme start="20261012220600 +0000" stop="20261012223400 +0000" channel="90sKidsTV2.us@SD"><title>Big Time Rush</title></programme>
@@ -307,7 +306,6 @@
 <programme start="20261013103000 +0000" stop="20261013113000 +0000" channel="AmericasNextTopModel.us@SD"><title>America's Next Top Model</title></programme>
 <programme start="20261013113000 +0000" stop="20261013123000 +0000" channel="AmericasNextTopModel.us@SD"><title>America's Next Top Model</title></programme>
 <programme start="20261013123000 +0000" stop="20261013133000 +0000" channel="AmericasNextTopModel.us@SD"><title>America's Next Top Model</title></programme>
-<programme start="20261012204200 +0000" stop="20261012211100 +0000" channel="AnimexHIDIVE.us@SD"><title>The Eminence in Shadow</title></programme>
 <programme start="20261012210000 +0000" stop="20261012213000 +0000" channel="AnimexHIDIVE.us@SD"><title>The Demon Girl Next Door</title></programme>
 <programme start="20261012211100 +0000" stop="20261012214100 +0000" channel="AnimexHIDIVE.us@SD"><title>Hell Mode: The Hardcore Gamer Dominates in Another World With Garbage Balancing</title></programme>
 <programme start="20261012213000 +0000" stop="20261012220000 +0000" channel="AnimexHIDIVE.us@SD"><title>The Demon Girl Next Door</title></programme>
@@ -465,7 +463,6 @@
 <programme start="20261013120000 +0000" stop="20261013123000 +0000" channel="BETThrowbacks.us@SD"><title>Moesha</title></programme>
 <programme start="20261013123000 +0000" stop="20261013130000 +0000" channel="BETThrowbacks.us@SD"><title>Moesha</title></programme>
 <programme start="20261013130000 +0000" stop="20261013133000 +0000" channel="BETThrowbacks.us@SD"><title>My Wife and Kids</title></programme>
-<programme start="20261012181500 +0000" stop="20261012211500 +0000" channel="BETVisionaries.us@SD"><title>Coach Carter</title></programme>
 <programme start="20261012211500 +0000" stop="20261013000000 +0000" channel="BETVisionaries.us@SD"><title>Selma</title></programme>
 <programme start="20261013000000 +0000" stop="20261013021500 +0000" channel="BETVisionaries.us@SD"><title>Love Jones</title></programme>
 <programme start="20261013021500 +0000" stop="20261013044500 +0000" channel="BETVisionaries.us@SD"><title>Down in the Delta</title></programme>
@@ -946,7 +943,6 @@
 <programme start="20261013104500 +0000" stop="20261013114500 +0000" channel="DCCMakingtheTeam.us@SD"><title>Dallas Cowboys Cheerleaders: Making the Team</title></programme>
 <programme start="20261013114500 +0000" stop="20261013124500 +0000" channel="DCCMakingtheTeam.us@SD"><title>Dallas Cowboys Cheerleaders: Making the Team</title></programme>
 <programme start="20261013124500 +0000" stop="20261013134500 +0000" channel="DCCMakingtheTeam.us@SD"><title>Dallas Cowboys Cheerleaders: Making the Team</title></programme>
-<programme start="20261012201500 +0000" stop="20261012211500 +0000" channel="DatingDisasters.us@SD"><title>Flavor of Love: Casting Special</title></programme>
 <programme start="20261012211500 +0000" stop="20261012221500 +0000" channel="DatingDisasters.us@SD"><title>Flavor of Love: In Flav We Trust</title></programme>
 <programme start="20261012221500 +0000" stop="20261012231500 +0000" channel="DatingDisasters.us@SD"><title>Rock of Love: Fifteen Weddings And Three Funerals</title></programme>
 <programme start="20261012231500 +0000" stop="20261013001500 +0000" channel="DatingDisasters.us@SD"><title>Rock of Love: Babes On Ice</title></programme>
@@ -1009,6 +1005,7 @@
 <programme start="20261013202900 +0000" stop="20261013212700 +0000" channel="Farscape.us@SD"><title>Farscape</title></programme>
 <programme start="20261013212700 +0000" stop="20261013222400 +0000" channel="Farscape.us@SD"><title>Farscape</title></programme>
 <programme start="20261013222400 +0000" stop="20261013232100 +0000" channel="Farscape.us@SD"><title>Farscape</title></programme>
+<programme start="20261013232100 +0000" stop="20261014001900 +0000" channel="Farscape.us@SD"><title>Farscape</title></programme>
 <programme start="20261012210000 +0000" stop="20261012220000 +0000" channel="FeelGoodDrama.us@SD"><title>Touched By An Angel</title></programme>
 <programme start="20261012220000 +0000" stop="20261012230000 +0000" channel="FeelGoodDrama.us@SD"><title>Touched By An Angel</title></programme>
 <programme start="20261012230000 +0000" stop="20261013000000 +0000" channel="FeelGoodDrama.us@SD"><title>Touched By An Angel</title></programme>
@@ -1124,7 +1121,7 @@
 <programme start="20261013215136 +0000" stop="20261013221947 +0000" channel="ForensicFiles.us@SD"><title>Forensic Files</title></programme>
 <programme start="20261013221947 +0000" stop="20261013224759 +0000" channel="ForensicFiles.us@SD"><title>Forensic Files</title></programme>
 <programme start="20261013224759 +0000" stop="20261013231610 +0000" channel="ForensicFiles.us@SD"><title>Forensic Files</title></programme>
-<programme start="20261012204600 +0000" stop="20261012211700 +0000" channel="ForeverKids.us@SD"><title>H2O: Just Add Water</title></programme>
+<programme start="20261013231610 +0000" stop="20261013234422 +0000" channel="ForensicFiles.us@SD"><title>Forensic Files</title></programme>
 <programme start="20261012211700 +0000" stop="20261012214800 +0000" channel="ForeverKids.us@SD"><title>H2O: Just Add Water</title></programme>
 <programme start="20261012214800 +0000" stop="20261012221800 +0000" channel="ForeverKids.us@SD"><title>Eerie, Indiana</title></programme>
 <programme start="20261012221800 +0000" stop="20261012224800 +0000" channel="ForeverKids.us@SD"><title>Eerie, Indiana</title></programme>
@@ -1208,7 +1205,6 @@
 <programme start="20261013120000 +0000" stop="20261013122800 +0000" channel="GarfieldandFriends.us@US"><title>Garfield and Friends</title></programme>
 <programme start="20261013122800 +0000" stop="20261013125700 +0000" channel="GarfieldandFriends.us@US"><title>Garfield Specials</title></programme>
 <programme start="20261013125700 +0000" stop="20261013132600 +0000" channel="GarfieldandFriends.us@US"><title>Garfield and Friends</title></programme>
-<programme start="20261012204500 +0000" stop="20261012211500 +0000" channel="Gunsmoke.us@SD"><title>Gunsmoke</title></programme>
 <programme start="20261012211500 +0000" stop="20261012214500 +0000" channel="Gunsmoke.us@SD"><title>Gunsmoke</title></programme>
 <programme start="20261012214500 +0000" stop="20261012221500 +0000" channel="Gunsmoke.us@SD"><title>Gunsmoke</title></programme>
 <programme start="20261012221500 +0000" stop="20261012224500 +0000" channel="Gunsmoke.us@SD"><title>Gunsmoke</title></programme>
@@ -1572,7 +1568,6 @@
 <programme start="20261013220007 +0000" stop="20261013223007 +0000" channel="MadeInHollywood.us@SD"><title>Moviefone TV</title></programme>
 <programme start="20261013223007 +0000" stop="20261013230007 +0000" channel="MadeInHollywood.us@SD"><title>Life Stories on Film</title></programme>
 <programme start="20261013230007 +0000" stop="20261013233007 +0000" channel="MadeInHollywood.us@SD"><title>Moviefone TV</title></programme>
-<programme start="20261012201500 +0000" stop="20261012211500 +0000" channel="Misteriossinresolver.us@SD"><title>Misterios sin resolver</title></programme>
 <programme start="20261012210914 +0000" stop="20261012220825 +0000" channel="Misteriossinresolver.us@SD"><title>Misterios sin resolver</title></programme>
 <programme start="20261012211500 +0000" stop="20261012221500 +0000" channel="Misteriossinresolver.us@SD"><title>Misterios sin resolver</title></programme>
 <programme start="20261012220825 +0000" stop="20261012230753 +0000" channel="Misteriossinresolver.us@SD"><title>Misterios sin resolver</title></programme>
@@ -1748,7 +1743,6 @@
 <programme start="20261013104000 +0000" stop="20261013114000 +0000" channel="ParamountPlusPicks.us@SD"><title>NCIS</title></programme>
 <programme start="20261013114000 +0000" stop="20261013124000 +0000" channel="ParamountPlusPicks.us@SD"><title>NCIS</title></programme>
 <programme start="20261013124000 +0000" stop="20261013134000 +0000" channel="ParamountPlusPicks.us@SD"><title>NCIS</title></programme>
-<programme start="20261012204800 +0000" stop="20261012211700 +0000" channel="PeppaPig.us@SD"><title>Peppa Pig</title></programme>
 <programme start="20261012211700 +0000" stop="20261012214600 +0000" channel="PeppaPig.us@SD"><title>Peppa Pig</title></programme>
 <programme start="20261012214600 +0000" stop="20261012221600 +0000" channel="PeppaPig.us@SD"><title>Peppa Pig</title></programme>
 <programme start="20261012221600 +0000" stop="20261012224600 +0000" channel="PeppaPig.us@SD"><title>Peppa Pig</title></programme>
@@ -1848,7 +1842,6 @@
 <programme start="20261013113024 +0000" stop="20261013120024 +0000" channel="PlutoTVAnime.us@US"><title>Ranma 1/2</title></programme>
 <programme start="20261013120024 +0000" stop="20261013123024 +0000" channel="PlutoTVAnime.us@US"><title>Ranma 1/2</title></programme>
 <programme start="20261013123024 +0000" stop="20261013130024 +0000" channel="PlutoTVAnime.us@US"><title>Ranma 1/2</title></programme>
-<programme start="20261012194500 +0000" stop="20261012211500 +0000" channel="PlutoTVAnimeMovies.us@SD"><title>A Wind Named Amnesia</title></programme>
 <programme start="20261012211500 +0000" stop="20261012231500 +0000" channel="PlutoTVAnimeMovies.us@SD"><title>Hunter x Hunter: Phantom Rouge</title></programme>
 <programme start="20261012231500 +0000" stop="20261013013000 +0000" channel="PlutoTVAnimeMovies.us@SD"><title>Street Fighter II: The Animated Movie</title></programme>
 <programme start="20261013013000 +0000" stop="20261013034500 +0000" channel="PlutoTVAnimeMovies.us@SD"><title>Street Fighter II: The Animated Movie</title></programme>
@@ -2370,7 +2363,6 @@
 <programme start="20261013103000 +0000" stop="20261013113000 +0000" channel="SupernaturalDrama.us@SD"><title>Charmed</title></programme>
 <programme start="20261013113000 +0000" stop="20261013123000 +0000" channel="SupernaturalDrama.us@SD"><title>Charmed</title></programme>
 <programme start="20261013123000 +0000" stop="20261013133000 +0000" channel="SupernaturalDrama.us@SD"><title>Charmed</title></programme>
-<programme start="20261012201500 +0000" stop="20261012211500 +0000" channel="TVLandDrama.us@SD"><title>In the Heat of the Night</title></programme>
 <programme start="20261012211500 +0000" stop="20261012221500 +0000" channel="TVLandDrama.us@SD"><title>In the Heat of the Night</title></programme>
 <programme start="20261012221500 +0000" stop="20261012231500 +0000" channel="TVLandDrama.us@SD"><title>Walker, Texas Ranger</title></programme>
 <programme start="20261012231500 +0000" stop="20261013001500 +0000" channel="TVLandDrama.us@SD"><title>Walker, Texas Ranger</title></programme>
@@ -2552,7 +2544,6 @@
 <programme start="20261013120000 +0000" stop="20261013123000 +0000" channel="TheAndyGriffithShow.us@SD"><title>The Andy Griffith Show</title></programme>
 <programme start="20261013123000 +0000" stop="20261013130000 +0000" channel="TheAndyGriffithShow.us@SD"><title>The Andy Griffith Show</title></programme>
 <programme start="20261013130000 +0000" stop="20261013133000 +0000" channel="TheAndyGriffithShow.us@SD"><title>The Andy Griffith Show</title></programme>
-<programme start="20261012201500 +0000" stop="20261012211500 +0000" channel="TheChallenge.us@SD"><title>The Challenge</title></programme>
 <programme start="20261012211500 +0000" stop="20261012221500 +0000" channel="TheChallenge.us@SD"><title>The Challenge</title></programme>
 <programme start="20261012221500 +0000" stop="20261012231500 +0000" channel="TheChallenge.us@SD"><title>The Challenge</title></programme>
 <programme start="20261012231500 +0000" stop="20261013001500 +0000" channel="TheChallenge.us@SD"><title>The Challenge</title></programme>
@@ -2569,7 +2560,6 @@
 <programme start="20261013101500 +0000" stop="20261013113000 +0000" channel="TheChallenge.us@SD"><title>The Challenge</title></programme>
 <programme start="20261013113000 +0000" stop="20261013123000 +0000" channel="TheChallenge.us@SD"><title>The Challenge</title></programme>
 <programme start="20261013123000 +0000" stop="20261013133000 +0000" channel="TheChallenge.us@SD"><title>The Challenge</title></programme>
-<programme start="20261012205139 +0000" stop="20261012211715 +0000" channel="TheConners.us@SD"><title>The Conners</title></programme>
 <programme start="20261012211715 +0000" stop="20261012214250 +0000" channel="TheConners.us@SD"><title>The Conners</title></programme>
 <programme start="20261012214250 +0000" stop="20261012220825 +0000" channel="TheConners.us@SD"><title>The Conners</title></programme>
 <programme start="20261012220825 +0000" stop="20261012223400 +0000" channel="TheConners.us@SD"><title>The Conners</title></programme>
@@ -2631,7 +2621,7 @@
 <programme start="20261013220025 +0000" stop="20261013222559 +0000" channel="TheConners.us@SD"><title>The Conners</title></programme>
 <programme start="20261013222559 +0000" stop="20261013225132 +0000" channel="TheConners.us@SD"><title>The Conners</title></programme>
 <programme start="20261013225132 +0000" stop="20261013231651 +0000" channel="TheConners.us@SD"><title>The Conners</title></programme>
-<programme start="20261012201500 +0000" stop="20261012211500 +0000" channel="TheLoveBoat.us@SD"><title>The Love Boat</title></programme>
+<programme start="20261013231651 +0000" stop="20261013234224 +0000" channel="TheConners.us@SD"><title>The Conners</title></programme>
 <programme start="20261012211500 +0000" stop="20261012221500 +0000" channel="TheLoveBoat.us@SD"><title>The Love Boat</title></programme>
 <programme start="20261012221500 +0000" stop="20261012231500 +0000" channel="TheLoveBoat.us@SD"><title>The Love Boat</title></programme>
 <programme start="20261012231500 +0000" stop="20261013001500 +0000" channel="TheLoveBoat.us@SD"><title>The Love Boat</title></programme>
@@ -2859,7 +2849,6 @@
 <programme start="20261013110000 +0000" stop="20261013120000 +0000" channel="ToughJobs.us@SD"><title>Ax Men</title></programme>
 <programme start="20261013120000 +0000" stop="20261013130000 +0000" channel="ToughJobs.us@SD"><title>Ax Men</title></programme>
 <programme start="20261013130000 +0000" stop="20261013140000 +0000" channel="ToughJobs.us@SD"><title>Ax Men</title></programme>
-<programme start="20261012201500 +0000" stop="20261012211500 +0000" channel="VH1QueensofReality.us@SD"><title>Basketball Wives LA</title></programme>
 <programme start="20261012211500 +0000" stop="20261012221500 +0000" channel="VH1QueensofReality.us@SD"><title>Basketball Wives LA</title></programme>
 <programme start="20261012221500 +0000" stop="20261012231500 +0000" channel="VH1QueensofReality.us@SD"><title>Basketball Wives LA</title></programme>
 <programme start="20261012231500 +0000" stop="20261013001500 +0000" channel="VH1QueensofReality.us@SD"><title>Basketball Wives LA</title></programme>
