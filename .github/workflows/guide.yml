@@ -21,7 +21,6 @@ jobs:
           python3 build_guide.py \
             --m3u https://iptv-org.github.io/iptv/countries/us.m3u \
             --m3u https://iptv-org.github.io/iptv/categories/news.m3u \
-            --xml https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz \
             --xml https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz \
             --xml https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz \
             --xml https://i.mjh.nz/PlutoTV/us.xml.gz \
