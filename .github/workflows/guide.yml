@@ -1,6 +1,6 @@
 # Put this file in your GitHub repo at .github/workflows/guide.yml
 # Also put build_guide.py in the repo root. Nothing else is needed.
-# Every 6 hours it rebuilds guide/guide-N.xml and commits it, so the plugin's guide stays current.
+# Every 6 hours it rebuilds guide/guide-1..8.xml (+ report.txt) and commits them.
 name: Update guide
 on:
   schedule:
@@ -11,6 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,12 +22,54 @@ jobs:
           python3 build_guide.py \
             --m3u https://iptv-org.github.io/iptv/countries/us.m3u \
             --m3u https://iptv-org.github.io/iptv/categories/news.m3u \
+            --files 8 \
+            --base-url https://raw.githubusercontent.com/R3CT01/cable-guide/main/guide \
+            --hours-ahead 24 \
+            --out guide \
             --xml https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz \
-            --xml https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_VOA1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_TBNPLUS1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_ASIANTELEVISION1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_viva-russia.ru.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz \
+            --xml https://epgshare01.online/epgshare01/epg_ripper_SA2.xml.gz \
             --xml https://i.mjh.nz/PlutoTV/us.xml.gz \
             --xml https://i.mjh.nz/Plex/us.xml.gz \
-            --hours-ahead 24 \
-            --out guide
+            --xml https://i.mjh.nz/Roku/all.xml.gz \
+            --xml https://i.mjh.nz/Stirr/all.xml.gz \
+            --xml https://i.mjh.nz/SamsungTVPlus/us.xml.gz
+          # Optional last resort (huge, may be slow): add
+          #   --xml https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
       - name: Commit
         run: |
           git config user.name "guide-bot"
