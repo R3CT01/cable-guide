@@ -1,8 +1,8 @@
-COVERAGE: 1032 of 2401 channels have a guide (43%)
+COVERAGE: 1028 of 2401 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
   us     705 / 1434  49%
-  in     171 / 257   67%
+  in     168 / 257   65%
   fr      24 / 40    60%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -25,10 +25,10 @@ BY COUNTRY (code: with guide / total)
   qa       4 / 11    36%
   id       4 / 11    36%
   ir       0 / 10    0%
-  au       2 / 10    20%
+  au       1 / 10    10%
 
 BY CATEGORY
-  News               351 / 1016  35%
+  News               347 / 1016  34%
   General            119 / 286   42%
   Entertainment       78 / 131   60%
   Religious           18 / 130   14%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1032)
+WITH GUIDE (1028)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -86,7 +86,6 @@ WITH GUIDE (1032)
   ABC KRGV-TV   [ABC.us@KRGVTV]
   ABC KSTP-TV (1080p)   [ABC.us@KSTPTV]
   ABC KXXV (720p)   [ABC.us@KXXV]
-  ABC News (720p)   [ABCNews.au@Sydney]
   ABC News Live (720p)   [ABCNewsLive.us@SD]
   ABC WBBJ-TV (432p)   [ABC.us@WBBJTV]
   ABC WBRZ-TV (480p)   [ABC.us@WBRZTV]
@@ -135,7 +134,6 @@ WITH GUIDE (1032)
   America's Voice News (720p)   [AmericasVoiceNews.us@SD]
   American Heroes Channel (720p)   [AmericanHeroesChannel.us@SD]
   AMG TV (1080p)   [AMGTV.us@SD]
-  Ananda Barta (720p)   [AnandaBarta.in@SD]
   ANB News (720p)   [ANBNews.in@SD]
   Animal Planet (United States) (720p)   [AnimalPlanet.us@East]
   Anime x HIDIVE   [AnimexHIDIVE.us@SD]
@@ -296,7 +294,6 @@ WITH GUIDE (1032)
   CNA (Singapore) (1080p) [Geo-blocked]   [CNA.sg@SD]
   CNBC (720p) [Geo-blocked]   [CNBC.us@SD]
   CNews (1080p)   [CNews.fr@SD]
-  Cnews Bharat (720p)   [CnewsBharat.in@SD]
   CNN (720p)   [CNN.us@SD]
   CNN HD (720p) [Geo-blocked]   [CNN.us@HD]
   CNN International (1080p)   [CNNInternational.us@Europe]
@@ -962,7 +959,6 @@ WITH GUIDE (1032)
   TNT (United States) West (720p) [Geo-blocked]   [TNT.us@West]
   TODAY All Day (1080p)   [TODAYAllDay.us@SD]
   ToonGoggles (720p)   [ToonGoggles.us@SD]
-  Top News Marathi (1080p)   [TopNewsMarathi.in@SD]
   Tosh.0 (United States)   [Tosh0.us@SD]
   Totally Turtles (United States)   [TotallyTurtles.us@US]
   Tough Jobs   [ToughJobs.us@SD]
@@ -1088,7 +1084,7 @@ WITH GUIDE (1032)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1369)
+NO GUIDE (1373)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1141,6 +1137,7 @@ NO GUIDE (1369)
   Aaj News (576p)   [AajNews.pk@SD]
   Abante TV (1080p)   [AbanteTV.ph@HD]
   Abb Takk (576p)   [AbbTakk.pk@SD]
+  ABC News (720p)   [ABCNews.au@Sydney]
   ABC News Live 1 (720p)   [ABCNewsLive1.us@SD]
   ABC News Live 10 (720p)   [ABCNewsLive10.us@SD]
   ABC News Live 2 (720p)   [ABCNewsLive2.us@SD]
@@ -1258,6 +1255,7 @@ NO GUIDE (1369)
   AMP 2 (720p)   [AMP2.us@SD]
   Amu TV   [AmuTV.us@SD]
   AMX Noticias (720p) [Not 24/7]   [AMXNoticias.mx@SD]
+  Ananda Barta (720p)   [AnandaBarta.in@SD]
   AnewZ TV   [AnewZTV.az@SD]
   Anger Management Channel (1080p)   [AngerManagementChannel.us@SD]
   Animation+ (1080p) [Geo-blocked]   [AnimationPlus.us@SD]
@@ -1462,6 +1460,7 @@ NO GUIDE (1369)
   CNA International (576p)   [CNAInternational.sg@SD]
   CNBC Mongolia (720p)   [CNBCMongolia.mn@SD]
   CNBC UK (1080p)   [CNBCUK.uk@SD]
+  Cnews Bharat (720p)   [CnewsBharat.in@SD]
   CNEWS PRIME (1080p)   [CNEWSPRIME.fr@HD]
   CNN Brasil (1080p)   [CNNBrasil.br@SD]
   CNN Chile (1080p)   [CNNChile.cl@SD]
@@ -2308,6 +2307,7 @@ NO GUIDE (1369)
   Toonami Aftermath West (480p)   [ToonamiAftermath.us@West]
   Tooncast (1080p)   [Tooncast.us@SD]
   Top News (720p)   [TopNews.th@SD]
+  Top News Marathi (1080p)   [TopNewsMarathi.in@SD]
   Top Stories by Newsy (720p)   [TopStoriesbyNewsy.us@SD]
   Tra Vinh TV (1080p)   [TraVinhTV.vn@SD]
   Trailers UK (1080p)   [Trailers.es@UK]
