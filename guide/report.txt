@@ -1,7 +1,7 @@
-COVERAGE: 1028 of 2401 channels have a guide (43%)
+COVERAGE: 1031 of 2405 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     705 / 1434  49%
+  us     707 / 1436  49%
   in     168 / 257   65%
   fr      24 / 40    60%
   pk       1 / 32    3%
@@ -17,10 +17,10 @@ BY COUNTRY (code: with guide / total)
   ca       5 / 17    29%
   cl       0 / 16    0%
   de       7 / 14    50%
+  ar       2 / 14    14%
   iq       1 / 14    7%
   ro       9 / 14    64%
   gr       5 / 13    38%
-  ar       2 / 13    15%
   pe       2 / 13    15%
   qa       4 / 11    36%
   id       4 / 11    36%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   au       1 / 10    10%
 
 BY CATEGORY
-  News               347 / 1016  34%
+  News               348 / 1018  34%
   General            119 / 286   42%
   Entertainment       78 / 131   60%
   Religious           18 / 130   14%
@@ -36,15 +36,15 @@ BY CATEGORY
   Movies              81 / 111   73%
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
+  Sports              44 / 70    63%
   Kids                40 / 69    58%
-  Sports              43 / 69    62%
   Music               29 / 64    45%
   Education           14 / 57    25%
   Documentary         33 / 46    72%
   Comedy              23 / 38    61%
   Culture              9 / 36    25%
   Classic             15 / 35    43%
-  Lifestyle           11 / 27    41%
+  Lifestyle           12 / 28    43%
   Business             7 / 23    30%
   Animation           13 / 22    59%
   Shop                 7 / 18    39%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1028)
+WITH GUIDE (1031)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -335,7 +335,7 @@ WITH GUIDE (1028)
   Digi 24 (720p)   [Digi24.ro@SD]
   Digi 24 HD (1080i)   [Digi24.ro@HD]
   Discovery Channel (United States) (1080p) [Geo-blocked]   [DiscoveryChannel.us@East]
-  Discovery Turbo (720p)   [DiscoveryTurbo.us@SD]
+  Discovery Turbo (United States) (720p)   [DiscoveryTurbo.us@SD]
   Disney Channel (United States) (720p) [Geo-blocked]   [DisneyChannel.us@East]
   Disney Junior (United States) (480p)   [DisneyJunior.us@East]
   Disney XD (United States) (720p)   [DisneyXD.us@East]
@@ -355,8 +355,9 @@ WITH GUIDE (1028)
   E! Keeping Up (1080p)   [EKeepingUp.us@SD]
   Ebony TV by Lionsgate (1080p)   [EbonyTVbyLionsgate.us@SD]
   Electric Now (720p)   [ElectricNow.us@SD]
-  ESPN (United States) (720p)   [ESPN.us@SD]
-  ESPN 2 (United States) (720p)   [ESPN2.us@SD]
+  ESPN (United States) (432p)   [ESPN.us@SD]
+  ESPN (United States) HD (720p)   [ESPN.us@HD]
+  ESPN 2 (United States) HD (720p)   [ESPN2.us@HD]
   ESPN Deportes HD (720p)   [ESPNDeportes.us@HD]
   ESPNU (720p)   [ESPNU.us@SD]
   ESPNU HD (720p)   [ESPNU.us@HD]
@@ -463,6 +464,7 @@ WITH GUIDE (1028)
   HBO Movies (720p)   [HBOMovies.us@East]
   Heartland (720p)   [Heartland.us@Eastern]
   Heartland Web   [Heartland.us@Web]
+  HGTV (United States) (720p)   [HGTV.us@East]
   Hi-YAH! (1080p)   [HiYAH.us@SD]
   Hindi Khabar (1080p)   [HindiKhabar.in@SD]
   History (United States) (720p)   [History.us@East]
@@ -690,7 +692,7 @@ WITH GUIDE (1028)
   NFL Network (720p)   [NFLNetwork.us@SD]
   NH (1080p)   [NH.nl@SD]
   NHK World-Japan (1080p)   [NHKWorldJapan.jp@SD]
-  NHK World-Japan HD (720p)   [NHKWorldJapan.jp@HD]
+  NHK World-Japan HD (1080p)   [NHKWorldJapan.jp@HD]
   NHL Network (1080p)   [NHLNetwork.us@SD]
   NHRA TV (1080p)   [NHRATV.us@SD]
   Nick Jr. (United States) (720p)   [NickJr.us@East]
@@ -1058,6 +1060,7 @@ WITH GUIDE (1028)
   Wu Tang Collection (720p)   [WuTangCollection.us@SD]
   WVVH-CD 18.1 (720p)   [WVVHCD181.us@HD]
   WWE Network (1080p)   [WWENetwork.us@SD]
+  Wydarzenia 24 (576i)   [Wydarzenia24.pl@SD]
   XITE 90's Throwback (1080p)   [XITE90sThrowback.us@SD]
   XITE Classic Country (720p)   [XITEClassicCountry.nl@SD]
   XITE Just Chill (1080p)   [XITEJustChill.nl@US]
@@ -1084,7 +1087,7 @@ WITH GUIDE (1028)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1373)
+NO GUIDE (1374)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1965,7 +1968,7 @@ NO GUIDE (1373)
   News18 Uttar Pradesh Uttarakhand (1080p)   [News18UttarPradeshUttarakhand.in@SD]
   News9Live (1080p)   [News9Live.in@SD]
   Newsmax Balkans (1080p)   [NewsmaxBalkans.ba@SD]
-  Newsmax Polska   [NewsmaxPolska.pl@SD]
+  Newsmax Polska (576i)   [NewsmaxPolska.pl@SD]
   Newsmax Spanish (1080p)   [NewsmaxSpanish.us@SD]
   NewsWorld (1080p)   [NewsWorld.hk@FAST]
   Nickelodeon en espanol   [Nickelodeonenespanol.us@SD]
@@ -2411,6 +2414,7 @@ NO GUIDE (1373)
   Vinh Long TV 1 (720p)   [VinhLongTV1.vn@SD]
   Vision Latina Network (1080p)   [VisionLatinaNetwork.us@SD]
   Visir (1080p)   [Visir.is@SD]
+  VIVE TV (1080p)   [VIVETV.ar@HD]
   VNP   [VNP.pe@SD]
   VoA TV (1080p)   [VoATV.us@SD]
   VoA TV Persian (1080p)   [VoATVPersian.us@SD]
