@@ -1,4 +1,4 @@
-COVERAGE: 1031 of 2405 channels have a guide (43%)
+COVERAGE: 1031 of 2406 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
   us     707 / 1436  49%
@@ -6,7 +6,7 @@ BY COUNTRY (code: with guide / total)
   fr      24 / 40    60%
   pk       1 / 32    3%
   br       3 / 27    11%
-  ru       6 / 26    23%
+  ru       5 / 26    19%
   es       2 / 24    8%
   uk      14 / 23    61%
   ua       3 / 23    13%
@@ -22,13 +22,13 @@ BY COUNTRY (code: with guide / total)
   ro       9 / 14    64%
   gr       5 / 13    38%
   pe       2 / 13    15%
+  au       2 / 11    18%
   qa       4 / 11    36%
   id       4 / 11    36%
   ir       0 / 10    0%
-  au       1 / 10    10%
 
 BY CATEGORY
-  News               348 / 1018  34%
+  News               348 / 1019  34%
   General            119 / 286   42%
   Entertainment       78 / 131   60%
   Religious           18 / 130   14%
@@ -36,7 +36,7 @@ BY CATEGORY
   Movies              81 / 111   73%
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
-  Sports              44 / 70    63%
+  Sports              45 / 71    63%
   Kids                40 / 69    58%
   Music               29 / 64    45%
   Education           14 / 57    25%
@@ -419,6 +419,7 @@ WITH GUIDE (1031)
   Fox Deportes (720p)   [FoxDeportes.us@SD]
   Fox News Channel (1080p)   [FoxNewsChannel.us@SD]
   Fox Soul (1080p)   [FoxSoul.us@SD]
+  Fox Sports News (1080p)   [FoxSportsNews.au@SD]
   Fox Weather (720p)   [FoxWeather.us@SD]
   France 24 (1080p)   [France24.fr@French]
   France 24 Arabic (1080p)   [France24.fr@Arabic]
@@ -833,7 +834,6 @@ WITH GUIDE (1031)
   Roar WSBT-TV (1080p)   [Roar.us@WSBTTV]
   RPP TV (1080p)   [RPPTV.pe@SD]
   RT (720p)   [RT.ru@SD]
-  RT Arabic (1080p) [Geo-blocked]   [RTArabic.ru@SD]
   RT HD (1080p)   [RT.ru@HD]
   RTR-Planeta US (720p) [Geo-blocked]   [RTRPlaneta.ru@US]
   Russia-24 (1080p)   [Russia24.ru@SD]
@@ -1087,7 +1087,7 @@ WITH GUIDE (1031)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1374)
+NO GUIDE (1375)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -2144,6 +2144,7 @@ NO GUIDE (1374)
   Rozana Spokesman (1080p)   [RozanaSpokesman.in@SD]
   Roze News (576p)   [RozeNews.pk@SD]
   RSelvaTV (720p)   [RSelvaTV.pe@SD]
+  RT Arabic (1080p) [Geo-blocked]   [RTArabic.ru@SD]
   RT Balkan (1080p)   [RTBalkan.ru@SD]
   RT DE (1080p) [Not 24/7]   [RTDE.de@SD]
   RT en Espanol (1080p)   [RTenEspanol.ru@SD]
