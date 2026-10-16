@@ -1,8 +1,8 @@
-COVERAGE: 1032 of 2406 channels have a guide (43%)
+COVERAGE: 1031 of 2406 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
   us     707 / 1436  49%
-  in     168 / 257   65%
+  in     167 / 257   65%
   fr      24 / 40    60%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   ir       0 / 10    0%
 
 BY CATEGORY
-  News               349 / 1019  34%
+  News               348 / 1019  34%
   General            119 / 286   42%
   Entertainment       78 / 131   60%
   Religious           18 / 130   14%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1032)
+WITH GUIDE (1031)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -811,7 +811,6 @@ WITH GUIDE (1032)
   RDX Goa (720p) [Geo-blocked]   [RDXGoa.in@SD]
   Real America's Voice (1080p)   [RealAmericasVoice.us@SD]
   Real America's Voice KPVM-LD   [RealAmericasVoice.us@KPVMLD]
-  Real News Kerala (1080p) [Not 24/7]   [RealNewsKerala.in@SD]
   Real Wild (1080p)   [RealWild.uk@SD]
   Record News (720p)   [RecordNews.br@SD]
   Reporter (720p)   [Reporter.ua@SD]
@@ -1088,7 +1087,7 @@ WITH GUIDE (1032)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1374)
+NO GUIDE (1375)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -2124,6 +2123,7 @@ NO GUIDE (1374)
   RCTV3 (480p)   [RCTV3.us@SD]
   RCV TV (712p)   [RCVTV.hn@SD]
   RDN (1080p) [Not 24/7]   [RDN.do@SD]
+  Real News Kerala (1080p) [Not 24/7]   [RealNewsKerala.in@SD]
   Realitatea TV (406p)   [RealitateaTV.md@SD]
   Red Apple 21 (480p) [Not 24/7]   [RedApple21.us@SD]
   Red Bull TV US (1080p)   [RedBullTV.at@US]
