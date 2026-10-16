@@ -1,4 +1,4 @@
-COVERAGE: 1031 of 2406 channels have a guide (43%)
+COVERAGE: 1032 of 2406 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
   us     707 / 1436  49%
@@ -6,7 +6,7 @@ BY COUNTRY (code: with guide / total)
   fr      24 / 40    60%
   pk       1 / 32    3%
   br       3 / 27    11%
-  ru       5 / 26    19%
+  ru       6 / 26    23%
   es       2 / 24    8%
   uk      14 / 23    61%
   ua       3 / 23    13%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   ir       0 / 10    0%
 
 BY CATEGORY
-  News               348 / 1019  34%
+  News               349 / 1019  34%
   General            119 / 286   42%
   Entertainment       78 / 131   60%
   Religious           18 / 130   14%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1031)
+WITH GUIDE (1032)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -834,6 +834,7 @@ WITH GUIDE (1031)
   Roar WSBT-TV (1080p)   [Roar.us@WSBTTV]
   RPP TV (1080p)   [RPPTV.pe@SD]
   RT (720p)   [RT.ru@SD]
+  RT Arabic (1080p) [Geo-blocked]   [RTArabic.ru@SD]
   RT HD (1080p)   [RT.ru@HD]
   RTR-Planeta US (720p) [Geo-blocked]   [RTRPlaneta.ru@US]
   Russia-24 (1080p)   [Russia24.ru@SD]
@@ -1087,7 +1088,7 @@ WITH GUIDE (1031)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1375)
+NO GUIDE (1374)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -2144,7 +2145,6 @@ NO GUIDE (1375)
   Rozana Spokesman (1080p)   [RozanaSpokesman.in@SD]
   Roze News (576p)   [RozeNews.pk@SD]
   RSelvaTV (720p)   [RSelvaTV.pe@SD]
-  RT Arabic (1080p) [Geo-blocked]   [RTArabic.ru@SD]
   RT Balkan (1080p)   [RTBalkan.ru@SD]
   RT DE (1080p) [Not 24/7]   [RTDE.de@SD]
   RT en Espanol (1080p)   [RTenEspanol.ru@SD]
