@@ -1,4 +1,4 @@
-COVERAGE: 1031 of 2406 channels have a guide (43%)
+COVERAGE: 1025 of 2407 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
   us     707 / 1436  49%
@@ -7,7 +7,7 @@ BY COUNTRY (code: with guide / total)
   pk       1 / 32    3%
   br       3 / 27    11%
   ru       6 / 26    23%
-  es       2 / 24    8%
+  es       0 / 24    0%
   uk      14 / 23    61%
   ua       3 / 23    13%
   tr      13 / 23    57%
@@ -22,13 +22,13 @@ BY COUNTRY (code: with guide / total)
   ro       9 / 14    64%
   gr       5 / 13    38%
   pe       2 / 13    15%
-  au       2 / 11    18%
+  au       2 / 12    17%
   qa       4 / 11    36%
   id       4 / 11    36%
   ir       0 / 10    0%
 
 BY CATEGORY
-  News               348 / 1019  34%
+  News               343 / 1020  34%
   General            119 / 286   42%
   Entertainment       78 / 131   60%
   Religious           18 / 130   14%
@@ -40,7 +40,7 @@ BY CATEGORY
   Kids                40 / 69    58%
   Music               29 / 64    45%
   Education           14 / 57    25%
-  Documentary         33 / 46    72%
+  Documentary         32 / 46    70%
   Comedy              23 / 38    61%
   Culture              9 / 36    25%
   Classic             15 / 35    43%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1031)
+WITH GUIDE (1025)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -62,7 +62,6 @@ WITH GUIDE (1031)
   24 TV (720p)   [24TV.tr@SD]
   360 (720p) [Not 24/7]   [360.tr@SD]
   3ABN Proclaim! Network   [3ABNProclaimNetwork.us@SD]
-  3CatInfo (1080p)   [3CatInfo.es@SD]
   48 Hours (1080p)   [48Hours.us@US]
   50 Cent Action (720p)   [50CentAction.us@SD]
   70s Cinema   [70sCinema.us@SD]
@@ -143,7 +142,7 @@ WITH GUIDE (1031)
   Are We There Yet? (1080p)   [AreWeThereYet.us@SD]
   Argus News (576p)   [ArgusNews.in@SD]
   Arirang TV (1080p)   [ArirangTV.kr@SD]
-  Arirang TV HD (720p)   [ArirangTV.kr@HD]
+  Arirang TV HD (1080p)   [ArirangTV.kr@HD]
   Armenia 1 America (1080p)   [Armenia1.am@America]
   AS TV (900p)   [ASTV.tr@SD]
   Asharq News (1080p)   [AsharqNews.sa@SD]
@@ -563,7 +562,6 @@ WITH GUIDE (1031)
   Lone Star (1080p)   [LoneStar.us@SD]
   Love & Hip Hop   [LoveHipHop.us@SD]
   Love Pets (1080p)   [LovePets.ca@US]
-  Love The Planet (1080p)   [LoveThePlanet.es@EN]
   Lucky Dog (720p)   [LuckyDog.us@SD]
   M Nadu TV (576p)   [MNaduTV.in@SD]
   M1 (Hungary) HD   [M1.hu@HD]
@@ -912,10 +910,6 @@ WITH GUIDE (1031)
   Telemundo WCAU (1080p)   [Telemundo.us@WCAU]
   Telemundo West (2160p)   [Telemundo.us@West]
   Telemundo WTMO-CD (720p)   [Telemundo.us@WTMOCD]
-  Telesur (1080p)   [Telesur.ve@SD]
-  Telesur English (480p)   [Telesur.ve@English]
-  Telesur English HD (1080p)   [Telesur.ve@EnglishHD]
-  Telesur HD (1080p)   [Telesur.ve@HD]
   Tennis Channel (1080p)   [TennisChannel.us@SD]
   Tennis Channel +2 (720p)   [TennisChannel.us@Plus2]
   Tennis Channel 2 (1080p)   [TennisChannel2.us@SD]
@@ -1087,7 +1081,7 @@ WITH GUIDE (1031)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1375)
+NO GUIDE (1382)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1126,6 +1120,7 @@ NO GUIDE (1375)
   3Cat Exclusiu 1 (1080p) [Geo-blocked]   [3CatExclusiu1.es@SD]
   3Cat Exclusiu 2 (1080p) [Geo-blocked]   [3CatExclusiu2.es@SD]
   3Cat Exclusiu 3 (1080p) [Geo-blocked]   [3CatExclusiu3.es@SD]
+  3CatInfo (1080p)   [3CatInfo.es@SD]
   4 SiDES TV (1080p)   [4SiDESTV.in@SD]
   4Dmas Noticias TV (1080p) [Not 24/7]   [4DmasNoticiasTV.py@SD]
   4TV News (576p)   [4TVNews.in@SD]
@@ -1825,6 +1820,7 @@ NO GUIDE (1375)
   Logos TV Salud (720p) [Not 24/7]   [LogosTVSalud.es@SD]
   Lolwe TV (576p) [Not 24/7]   [LolweTV.ke@SD]
   Love Nature en Espanol (1080p)   [LoveNatureenEspanol.us@SD]
+  Love The Planet (1080p)   [LoveThePlanet.es@EN]
   LoveWorld USA (720p)   [LoveWorldUSA.ng@SD]
   LRT Radijas (1080p)   [LRTRadijas.lt@SD]
   M News (1080p)   [MNews.pk@SD]
@@ -2208,6 +2204,7 @@ NO GUIDE (1375)
   Skwad Play (1080p)   [SkwadPlay.us@SD]
   Sky News Arabia Vertical (1080p)   [SkyNewsArabiaVertical.ae@HD]
   Sky News Arabia Vertical SD (1280p) [Not 24/7]   [SkyNewsArabiaVertical.ae@SD]
+  Sky News Extra   [SkyNewsExtra.au@SD]
   Sky News Extra 1 (540p)   [SkyNewsExtra1.au@SD]
   Sky News Extra 2 (540p) [Not 24/7]   [SkyNewsExtra2.au@SD]
   Sky News Extra 3 (1080p)   [SkyNewsExtra3.au@SD]
@@ -2268,6 +2265,10 @@ NO GUIDE (1375)
   Telemundo Corpus Christi (720p)   [TelemundoCorpusChristi.us@SD]
   Telemundo Telenovelas Clasicas   [TelemundoTelenovelasClasicas.us@SD]
   Telenews TV   [TelenewsTV.do@SD]
+  Telesur (1080p)   [Telesur.ve@SD]
+  Telesur English (480p)   [Telesur.ve@English]
+  Telesur English HD (1080p)   [Telesur.ve@EnglishHD]
+  Telesur HD (1080p)   [Telesur.ve@HD]
   Television del Este (1080p) [Not 24/7]   [TelevisiondelEste.do@SD]
   TeleXitos (1080p)   [TeleXitos.us@SD]
   Temecula TV (1080p)   [TemeculaTV.us@SD]
