@@ -1,7 +1,7 @@
-COVERAGE: 1025 of 2407 channels have a guide (43%)
+COVERAGE: 1024 of 2407 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     707 / 1436  49%
+  us     706 / 1436  49%
   in     167 / 257   65%
   fr      24 / 40    60%
   pk       1 / 32    3%
@@ -17,10 +17,10 @@ BY COUNTRY (code: with guide / total)
   ca       5 / 17    29%
   cl       0 / 16    0%
   de       7 / 14    50%
-  ar       2 / 14    14%
   iq       1 / 14    7%
   ro       9 / 14    64%
   gr       5 / 13    38%
+  ar       2 / 13    15%
   pe       2 / 13    15%
   au       2 / 12    17%
   qa       4 / 11    36%
@@ -37,7 +37,7 @@ BY CATEGORY
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
   Sports              45 / 71    63%
-  Kids                40 / 69    58%
+  Kids                39 / 69    57%
   Music               29 / 64    45%
   Education           14 / 57    25%
   Documentary         32 / 46    70%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1025)
+WITH GUIDE (1024)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -335,7 +335,6 @@ WITH GUIDE (1025)
   Digi 24 HD (1080i)   [Digi24.ro@HD]
   Discovery Channel (United States) (1080p) [Geo-blocked]   [DiscoveryChannel.us@East]
   Discovery Turbo (United States) (720p)   [DiscoveryTurbo.us@SD]
-  Disney Channel (United States) (720p) [Geo-blocked]   [DisneyChannel.us@East]
   Disney Junior (United States) (480p)   [DisneyJunior.us@East]
   Disney XD (United States) (720p)   [DisneyXD.us@East]
   Doctor Who Classic (1080p)   [DoctorWhoClassic.us@US]
@@ -979,7 +978,7 @@ WITH GUIDE (1025)
   TV4 (United States) (360p)   [TV4.us@SD]
   TV45 (1080p)   [TV45.in@SD]
   TV5 Kannada (576p)   [TV5Kannada.in@SD]
-  TV8 (Moldova)   [TV8.md@SD]
+  TV8 (Moldova) [Not 24/7]   [TV8.md@SD]
   TV9 Bangla (720p)   [TV9Bangla.in@SD]
   TV9 Bharatvarsh (720p)   [TV9Bharatvarsh.in@SD]
   TV9 Gujarati (720p)   [TV9Gujarati.in@SD]
@@ -1081,7 +1080,7 @@ WITH GUIDE (1025)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1382)
+NO GUIDE (1383)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1293,6 +1292,7 @@ NO GUIDE (1382)
   Aznews TV (720p) [Not 24/7]   [AznewsTV.se@SD]
   Backstage (1080p)   [Backstage.us@SD]
   Baku.TV   [BakuTV.az@SD]
+  Balafon TV [Geo-blocked]   [BalafonTV.cm@SD]
   BandNews (1080p)   [BandNews.br@SD]
   Baraka Television (720p) [Not 24/7]   [BarakaTelevision.cd@SD]
   Bark TV (1080p)   [BarkTV.us@SD]
@@ -1489,7 +1489,6 @@ NO GUIDE (1382)
   Crime 360 (720p)   [Crime360.us@SD]
   Crimea 24   [Crimea24.ru@SD]
   Crimenes Imperfectos   [CrimenesImperfectos.us@SD]
-  Cronica TV (1080p)   [CronicaTV.ar@SD]
   CRTV News   [CRTVNews.cm@SD]
   Cruz TV   [CruzTV.us@SD]
   CSat TV (1080p) [Not 24/7]   [CSatTV.us@SD]
@@ -1823,6 +1822,7 @@ NO GUIDE (1382)
   Love The Planet (1080p)   [LoveThePlanet.es@EN]
   LoveWorld USA (720p)   [LoveWorldUSA.ng@SD]
   LRT Radijas (1080p)   [LRTRadijas.lt@SD]
+  Lucas & Friends   [LucasFriends.us@SD]
   M News (1080p)   [MNews.pk@SD]
   M-Net Info   [MNetInfo.mk@SD]
   M95 Television Marbella (1080p) [Not 24/7]   [M95TelevisionMarbella.es@SD]
