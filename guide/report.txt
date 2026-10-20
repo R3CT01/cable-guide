@@ -1,8 +1,8 @@
-COVERAGE: 1030 of 2405 channels have a guide (43%)
+COVERAGE: 1029 of 2402 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     705 / 1435  49%
-  in     167 / 257   65%
+  us     704 / 1434  49%
+  in     167 / 256   65%
   fr      24 / 40    60%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -22,13 +22,13 @@ BY COUNTRY (code: with guide / total)
   gr       5 / 13    38%
   ar       2 / 13    15%
   pe       2 / 13    15%
-  au       3 / 12    25%
+  au       3 / 11    27%
   qa       4 / 11    36%
   id       4 / 11    36%
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               349 / 1019  34%
+  News               349 / 1017  34%
   General            119 / 286   42%
   Entertainment       78 / 131   60%
   Religious           18 / 130   14%
@@ -37,10 +37,10 @@ BY CATEGORY
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
   Sports              45 / 71    63%
-  Kids                39 / 69    57%
+  Kids                38 / 68    56%
   Music               29 / 64    45%
   Education           14 / 57    25%
-  Documentary         33 / 46    72%
+  Documentary         33 / 45    73%
   Comedy              23 / 38    61%
   Culture              9 / 36    25%
   Classic             15 / 35    43%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1030)
+WITH GUIDE (1029)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -337,7 +337,6 @@ WITH GUIDE (1030)
   Discovery Channel (United States) (1080p) [Geo-blocked]   [DiscoveryChannel.us@East]
   Discovery Turbo (United States) (720p)   [DiscoveryTurbo.us@SD]
   Disney Junior (United States) (480p)   [DisneyJunior.us@East]
-  Disney XD (United States) (720p)   [DisneyXD.us@East]
   Doctor Who Classic (1080p)   [DoctorWhoClassic.us@US]
   Documentary+ (1080p)   [DocumentaryPlus.us@US]
   Dog the Bounty Hunter (1080p)   [DogtheBountyHunter.us@US]
@@ -1086,7 +1085,7 @@ WITH GUIDE (1030)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1375)
+NO GUIDE (1373)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1715,7 +1714,6 @@ NO GUIDE (1375)
   Iman TV (480p)   [ImanTV.us@SD]
   In the Kitchen (720p)   [IntheKitchen.us@SD]
   India Ahead (576p)   [IndiaAhead.in@SD]
-  India TV Aap Ki Adalat (1080p) [Geo-blocked]   [IndiaTVAapKiAdalat.in@SD]
   Indywood TV (720p)   [IndywoodTV.in@SD]
   Informatia TV   [InformatiaTV.ro@SD]
   Instant Saga   [InstantSaga.us@US]
@@ -2179,7 +2177,6 @@ NO GUIDE (1375)
   Sahara 24 (1080p)   [Sahara24.mr@HD]
   Samachar Plus 24x7 (576p)   [SamacharPlus24x7.in@SD]
   Sanskar USA (1080p)   [SanskarUSA.in@SD]
-  SBS WorldWatch   [SBSWorldWatch.au@Sydney]
   SBT News (720p)   [SBTNews.br@SD]
   SC Currents   [SCCurrents.us@SD]
   Schwab Network (1080p)   [SchwabNetwork.us@SD]
