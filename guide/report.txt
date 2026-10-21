@@ -1,7 +1,7 @@
-COVERAGE: 1029 of 2402 channels have a guide (43%)
+COVERAGE: 1029 of 2405 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     704 / 1434  49%
+  us     704 / 1436  49%
   in     167 / 256   65%
   fr      24 / 40    60%
   pk       1 / 32    3%
@@ -28,25 +28,25 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               349 / 1017  34%
-  General            119 / 286   42%
-  Entertainment       78 / 131   60%
+  News               349 / 1018  34%
+  General            118 / 285   41%
+  Entertainment       78 / 132   59%
   Religious           18 / 130   14%
   Series             104 / 122   85%
   Movies              80 / 110   73%
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
-  Sports              45 / 71    63%
+  Sports              46 / 72    64%
   Kids                38 / 68    56%
-  Music               29 / 64    45%
+  Music               29 / 65    45%
   Education           14 / 57    25%
   Documentary         33 / 45    73%
   Comedy              23 / 38    61%
   Culture              9 / 36    25%
   Classic             15 / 35    43%
   Lifestyle           12 / 28    43%
+  Animation           13 / 23    57%
   Business             7 / 23    30%
-  Animation           13 / 22    59%
   Shop                 7 / 18    39%
   Outdoor              7 / 16    44%
   Cooking              9 / 14    64%
@@ -133,6 +133,7 @@ WITH GUIDE (1029)
   America's Voice (720p)   [AmericasVoice.us@SD]
   America's Voice News (720p)   [AmericasVoiceNews.us@SD]
   American Heroes Channel (720p)   [AmericanHeroesChannel.us@SD]
+  American Ninja Warrior (1080p)   [AmericanNinjaWarrior.us@SD]
   AMG TV (1080p)   [AMGTV.us@SD]
   ANB News (720p)   [ANBNews.in@SD]
   Animal Planet (United States) (720p)   [AnimalPlanet.us@East]
@@ -391,7 +392,6 @@ WITH GUIDE (1029)
   Food Network (United States) (720p)   [FoodNetwork.us@East]
   Forensic Files   [ForensicFiles.us@SD]
   Forever Kids   [ForeverKids.us@SD]
-  Fox (United States) (720p)   [Fox.us@East]
   Fox (United States) KBSI (720p) [Not 24/7]   [Fox.us@KBSI]
   Fox (United States) KCPQ (720p)   [Fox.us@KCPQ]
   Fox (United States) KDFW (1080p)   [Fox.us@KDFW]
@@ -494,7 +494,7 @@ WITH GUIDE (1029)
   India TV Speed News (1080p)   [IndiaTVSpeedNews.in@HD]
   India Voice (576p)   [IndiaVoice.in@SD]
   INews (720p)   [INews.in@SD]
-  iNews HD (1080p)   [iNews.id@HD]
+  iNews HD (720p)   [iNews.id@HD]
   INFAST (1080p)   [INFAST.nl@SD]
   INH 24x7 (396p)   [INH24x7.in@SD]
   Ink Master   [InkMaster.us@SD]
@@ -764,14 +764,14 @@ WITH GUIDE (1029)
   Pluto TV Novelas   [PlutoTVNovelas.us@US]
   Pluto TV Paranormal (United States)   [PlutoTVParanormal.us@US]
   Pluto TV Reaction   [PlutoTVReaction.us@SD]
-  Pluto TV Reality (United States)   [PlutoTVReality.us@US]
-  Pluto TV Romance (United States)   [PlutoTVRomance.us@US]
+  Pluto TV Reality   [PlutoTVReality.us@US]
+  Pluto TV Romance   [PlutoTVRomance.us@US]
   Pluto TV Sci-Fi (United States)   [PlutoTVSciFi.us@US]
-  Pluto TV Science (United States)   [PlutoTVScience.us@US]
+  Pluto TV Science   [PlutoTVScience.us@US]
   Pluto TV Spotlight   [PlutoTVSpotlight.us@SD]
   Pluto TV Staff Picks   [PlutoTVStaffPicks.us@SD]
   Pluto TV Terror   [PlutoTVTerror.us@SD]
-  Pluto TV Thrillers (United States)   [PlutoTVThrillers.us@US]
+  Pluto TV Thrillers   [PlutoTVThrillers.us@US]
   Pluto TV Trending Now   [PlutoTVTrendingNow.us@SD]
   Pluto TV True Crime (United States)   [PlutoTVTrueCrime.us@US]
   Pluto TV Westerns (United States)   [PlutoTVWesterns.us@US]
@@ -1085,7 +1085,7 @@ WITH GUIDE (1029)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1373)
+NO GUIDE (1376)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1134,6 +1134,7 @@ NO GUIDE (1373)
   9 Plus News (1080p)   [9PlusNews.in@SD]
   92 News HD (720p)   [92NewsHD.pk@SD]
   99TV (720p)   [99TV.in@SD]
+  A2 CNN   [A2CNN.al@SD]
   A24 (1080p)   [A24.ar@SD]
   Aaj News (576p)   [AajNews.pk@SD]
   Abante TV (1080p)   [AbanteTV.ph@HD]
@@ -1342,6 +1343,8 @@ NO GUIDE (1373)
   BM&C News (720p)   [BMCNews.br@SD]
   BMC-HD TV (720p)   [BMCHDTV.us@SD]
   BN Channel (1080p)   [BNChannel.id@SD]
+  Botflix Radioo (1080p)   [BotflixRadioo.us@HD]
+  Botflix TV (1080p)   [BotflixTV.us@HD]
   BPTV (360p)   [BPTV.us@SD]
   BPX TV Radio   [BPXTVRadio.us@SD]
   BR8 TV   [BR8TV.br@SD]
