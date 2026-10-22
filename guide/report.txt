@@ -1,7 +1,7 @@
-COVERAGE: 1029 of 2405 channels have a guide (43%)
+COVERAGE: 1031 of 2409 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     704 / 1436  49%
+  us     706 / 1440  49%
   in     167 / 256   65%
   fr      24 / 40    60%
   pk       1 / 32    3%
@@ -28,12 +28,12 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               349 / 1018  34%
+  News               350 / 1019  34%
   General            118 / 285   41%
-  Entertainment       78 / 132   59%
+  Entertainment       79 / 133   59%
   Religious           18 / 130   14%
   Series             104 / 122   85%
-  Movies              80 / 110   73%
+  Movies              80 / 112   71%
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
   Sports              46 / 72    64%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1029)
+WITH GUIDE (1031)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -298,6 +298,7 @@ WITH GUIDE (1029)
   CNN (720p)   [CNN.us@SD]
   CNN HD (720p) [Geo-blocked]   [CNN.us@HD]
   CNN International (1080p)   [CNNInternational.us@Europe]
+  CNN International Latin America (1080p)   [CNNInternational.us@LatinAmerica]
   CNN International North America (1080p)   [CNNInternational.us@NorthAmerica]
   CNN News 18 (1080p)   [CNNNews18.in@SD]
   CNN Originals (1080p)   [CNNOriginals.us@SD]
@@ -358,7 +359,6 @@ WITH GUIDE (1029)
   ESPN (United States) HD (720p)   [ESPN.us@HD]
   ESPN 2 (United States) HD (720p)   [ESPN2.us@HD]
   ESPN Deportes HD (720p)   [ESPNDeportes.us@HD]
-  ESPNU (720p)   [ESPNU.us@SD]
   ESPNU HD (720p)   [ESPNU.us@HD]
   Estrella Games (1080p)   [EstrellaGames.us@SD]
   Estrella News (1080p)   [EstrellaNews.us@SD]
@@ -417,6 +417,7 @@ WITH GUIDE (1029)
   Fox Deportes (720p)   [FoxDeportes.us@SD]
   Fox News Channel (1080p)   [FoxNewsChannel.us@SD]
   Fox Soul (1080p)   [FoxSoul.us@SD]
+  Fox Sports 2 (United States) (720p)   [FoxSports2.us@HD]
   Fox Sports News (1080p)   [FoxSportsNews.au@SD]
   Fox Weather (720p)   [FoxWeather.us@SD]
   France 24 (1080p)   [France24.fr@French]
@@ -433,6 +434,7 @@ WITH GUIDE (1029)
   Fun Roads (720p)   [FunRoads.us@SD]
   Funny AF   [FunnyAF.us@SD]
   Fuse (1080p)   [Fuse.us@East]
+  FX (720p)   [FX.us@East]
   Game Show Central (720p)   [GameShowCentral.us@SD]
   Game Show Network (720p) [Not 24/7]   [GameShowNetwork.us@East]
   Garfield and Friends   [GarfieldandFriends.us@US]
@@ -452,7 +454,7 @@ WITH GUIDE (1029)
   Gunsmoke   [Gunsmoke.us@SD]
   Haber Global (720p) [Not 24/7]   [HaberGlobal.tr@SD]
   Halk TV SD (1080p)   [HalkTV.tr@SD]
-  Hallmark Channel (1080p)   [HallmarkChannel.us@East]
+  Hallmark Channel (720p) [Geo-blocked]   [HallmarkChannel.us@East]
   Hallmark Movies & More (1080p)   [HallmarkMoviesMore.us@SD]
   Happy Days (United States)   [HappyDays.us@SD]
   HappyKids (1080p)   [HappyKids.us@SD]
@@ -1085,7 +1087,7 @@ WITH GUIDE (1029)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1376)
+NO GUIDE (1378)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1257,6 +1259,7 @@ NO GUIDE (1376)
   Amu TV   [AmuTV.us@SD]
   AMX Noticias (720p) [Not 24/7]   [AMXNoticias.mx@SD]
   Ananda Barta (720p)   [AnandaBarta.in@SD]
+  Aneflix Live (720p)   [AneflixLive.us@HD]
   AnewZ TV   [AnewZTV.az@SD]
   Anger Management Channel (1080p)   [AngerManagementChannel.us@SD]
   Animation+ (1080p) [Geo-blocked]   [AnimationPlus.us@SD]
@@ -1859,6 +1862,7 @@ NO GUIDE (1376)
   Medi1TV Arabic (1080p)   [Medi1TVArabic.ma@SD]
   Medi1TV Maghreb (1080p)   [Medi1TVMaghreb.ma@SD]
   MediBizTV (720p)   [MediBizTV.in@SD]
+  Mega Extreno HD (720p)   [MegaExtrenoHD.us@HD]
   Meganoticias Ahora (1080p)   [MeganoticiasAhora.cl@SD]
   Mekameleen TV (1080p)   [MekameleenTV.tr@SD]
   Mercurio Noticias   [MercurioNoticias.ar@SD]
