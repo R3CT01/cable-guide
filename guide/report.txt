@@ -1,9 +1,9 @@
-COVERAGE: 996 of 2407 channels have a guide (41%)
+COVERAGE: 994 of 2407 channels have a guide (41%)
 
 BY COUNTRY (code: with guide / total)
   us     697 / 1437  49%
   in     144 / 258   56%
-  fr      24 / 40    60%
+  fr      22 / 40    55%
   pk       1 / 32    3%
   br       3 / 27    11%
   ru       6 / 26    23%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               324 / 1020  32%
+  News               322 / 1020  32%
   General            117 / 284   41%
   Entertainment       76 / 132   58%
   Religious           18 / 130   14%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (996)
+WITH GUIDE (994)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -365,9 +365,7 @@ WITH GUIDE (996)
   Euronews English (720p)   [EuronewsEnglish.fr@SD]
   Euronews English HD   [EuronewsEnglish.fr@HD]
   Euronews Greek (720p)   [EuronewsGreek.fr@SD]
-  Euronews Italian (720p)   [EuronewsItalian.fr@SD]
   Euronews Romania (576p)   [EuronewsRomania.ro@SD]
-  Euronews Russian (720p)   [EuronewsRussian.fr@SD]
   Europe 1 TV (1080p)   [Europe1TV.fr@HD]
   EWTN (United States) (720p) [Geo-blocked]   [EWTN.us@English]
   EWTN (United States) Spanish (720p) [Geo-blocked]   [EWTN.us@Spanish]
@@ -1052,7 +1050,7 @@ WITH GUIDE (996)
   Zee Rajasthan (720p)   [ZeeRajasthan.in@SD]
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
 
-NO GUIDE (1411)
+NO GUIDE (1413)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1567,7 +1565,9 @@ NO GUIDE (1411)
   Euronews Georgia   [EuronewsGeorgia.ge@SD]
   Euronews German (720p)   [EuronewsGerman.fr@SD]
   Euronews Hungarian (720p)   [EuronewsHungarian.fr@SD]
+  Euronews Italian (720p)   [EuronewsItalian.fr@SD]
   Euronews Portuguese (720p)   [EuronewsPortuguese.fr@SD]
+  Euronews Russian (720p)   [EuronewsRussian.fr@SD]
   Euronews Spanish (1080p)   [EuronewsSpanish.fr@SD]
   Exitosa TV (1080p)   [ExitosaTV.pe@SD]
   Expressen TV (1080p)   [ExpressenTV.se@SD]
