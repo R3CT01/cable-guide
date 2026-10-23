@@ -1,7 +1,7 @@
-COVERAGE: 1002 of 2407 channels have a guide (42%)
+COVERAGE: 996 of 2407 channels have a guide (41%)
 
 BY COUNTRY (code: with guide / total)
-  us     703 / 1437  49%
+  us     697 / 1437  49%
   in     144 / 258   56%
   fr      24 / 40    60%
   pk       1 / 32    3%
@@ -30,21 +30,21 @@ BY COUNTRY (code: with guide / total)
 BY CATEGORY
   News               324 / 1020  32%
   General            117 / 284   41%
-  Entertainment       78 / 132   59%
+  Entertainment       76 / 132   58%
   Religious           18 / 130   14%
   Series             104 / 122   85%
-  Movies              80 / 112   71%
+  Movies              79 / 112   71%
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
-  Sports              46 / 72    64%
+  Sports              45 / 72    62%
   Kids                37 / 67    55%
   Music               29 / 65    45%
-  Education           14 / 57    25%
-  Documentary         32 / 44    73%
-  Comedy              23 / 38    61%
+  Education           13 / 57    23%
+  Documentary         31 / 44    70%
+  Comedy              22 / 38    58%
   Culture              9 / 36    25%
   Classic             15 / 35    43%
-  Lifestyle           12 / 28    43%
+  Lifestyle           11 / 28    39%
   Animation           13 / 23    57%
   Business             7 / 22    32%
   Shop                 7 / 18    39%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1002)
+WITH GUIDE (996)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -206,7 +206,6 @@ WITH GUIDE (1002)
   Big Ten Network (720p)   [BigTenNetwork.us@SD]
   BIG TV (720p)   [BIGTV.in@SD]
   Binge   [Binge.us@SD]
-  Biz TV (1080p)   [BizTV.us@SD]
   Black Family Sitcoms   [BlackFamilySitcoms.us@SD]
   Black Ink Crew   [BlackInkCrew.us@SD]
   Blaze Live (720p)   [BlazeLive.us@SD]
@@ -310,7 +309,6 @@ WITH GUIDE (1002)
   Cosmos Tv   [CosmosTv.ar@HD]
   Cosmos Tv SD   [CosmosTv.ar@SD]
   Court TV (1080p)   [CourtTV.us@SD]
-  Create (1080p)   [Create.us@SD]
   Create WMPT   [Create.us@WMPT]
   Crime + Investigation (720p)   [CrimePlusInvestigation.us@SD]
   Crunchyroll (720p)   [Crunchyroll.us@SD]
@@ -539,7 +537,6 @@ WITH GUIDE (1002)
   KTOO 360TV KTOO-TV   [KTOO360TV.us@KTOOTV]
   KTV (South Korea) (1080p)   [KTV.kr@SD]
   KVTN-DT 25.1 (720p)   [KVTNDT251.us@HD]
-  Laff (576p)   [Laff.us@SD]
   LATV (1080p) [Geo-blocked]   [LATV.us@SD]
   Law & Crime (720p)   [LawCrime.us@SD]
   LCI HD (1080p)   [LCI.fr@HD]
@@ -589,7 +586,6 @@ WITH GUIDE (1002)
   More True Crime   [MoreTrueCrime.us@SD]
   More TV Drama   [MoreTVDrama.us@SD]
   More TV Sitcoms   [MoreTVSitcoms.us@SD]
-  Movies! (480p)   [Movies.us@SD]
   Movies! KPVM-LD   [Movies.us@KPVMLD]
   MovieSphere (1080p)   [MovieSphere.us@US]
   MovieSphere Gold WFXT (1080p)   [MovieSphereGold.us@WFXT]
@@ -808,7 +804,6 @@ WITH GUIDE (1002)
   RFD-TV   [RFDTV.us@SD]
   Ridiculousness (United States)   [Ridiculousness.us@SD]
   RiffTrax (720p)   [RiffTrax.us@US]
-  Right Now TV (720p)   [RightNowTV.us@SD]
   Roar (1080p)   [Roar.us@SD]
   Roar KCWX (720p) [Not 24/7]   [Roar.us@KCWX]
   Roar KOKI-TV (1080p)   [Roar.us@KOKITV]
@@ -919,7 +914,6 @@ WITH GUIDE (1002)
   The Jamie Oliver Channel (1080p)   [TheJamieOliverChannel.us@SD]
   The Judge Judy Channel (720p)   [TheJudgeJudyChannel.us@SD]
   The Love Boat   [TheLoveBoat.us@SD]
-  The Nest (1080p)   [TheNest.us@SD]
   The New Detectives (United States)   [TheNewDetectives.us@US]
   The Pet Collective (720p)   [ThePetCollective.us@US]
   The Price Is Right   [ThePriceIsRight.us@HD]
@@ -1058,7 +1052,7 @@ WITH GUIDE (1002)
   Zee Rajasthan (720p)   [ZeeRajasthan.in@SD]
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
 
-NO GUIDE (1405)
+NO GUIDE (1411)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1314,6 +1308,7 @@ NO GUIDE (1405)
   Big TV 24x7 (1080p)   [BigTV24x7.in@SD]
   Billiard TV (1080p) [Geo-blocked]   [BilliardTV.us@SD]
   Bilyonaryo News Channel (1080p) [Geo-blocked]   [BilyonaryoNewsChannel.ph@SD]
+  Biz TV (1080p)   [BizTV.us@SD]
   Black News Channel (1080p)   [BlackNewsChannel.us@SD]
   Bloomberg TV Live Event (720p)   [BloombergTV.us@LiveEvent]
   Bloomberg TV Politics Live Event (720p)   [BloombergTV.us@PoliticsLiveEvent]
@@ -1464,6 +1459,7 @@ NO GUIDE (1405)
   Cornerstone TV (720p)   [CornerstoneTV.us@SD]
   COStv   [COStv.us@SD]
   CP24 (576p)   [CP24.ca@SD]
+  Create (1080p)   [Create.us@SD]
   CreaTV Channel 15 (720p)   [CreaTVChannel15.us@SD]
   CreaTV Channel 27 (720p)   [CreaTVChannel27.us@SD]
   CreaTV Channel 28 (720p)   [CreaTVChannel28.us@SD]
@@ -1754,6 +1750,7 @@ NO GUIDE (1405)
   LA36 (1080p)   [LA36.us@SD]
   LaC News 24 (720p)   [LaCNews24.it@SD]
   Lacrosse TV (720p)   [LacrosseTV.us@SD]
+  Laff (576p)   [Laff.us@SD]
   Lahore News (720p) [Not 24/7]   [LahoreNews.pk@SD]
   Lahore Rang (1080p)   [LahoreRang.pk@SD]
   Lake Havasu City 4   [LakeHavasuCity4.us@SD]
@@ -1876,6 +1873,7 @@ NO GUIDE (1405)
   Monroe Community Media Public Access Channel   [MonroeCommunityMediaPublicAccessChannel.us@SD]
   Monroe County TV (1080p)   [MonroeCountyTV.us@SD]
   Montgomery Channel   [MontgomeryChannel.us@SD]
+  Movies! (480p)   [Movies.us@SD]
   MRTV News   [MRTVNews.mm@SD]
   MRVTV Channel 44 (720p)   [MRVTVChannel44.us@SD]
   MRVTV Channel 45 (720p)   [MRVTVChannel45.us@SD]
@@ -2130,6 +2128,7 @@ NO GUIDE (1405)
   REV'N Action (720p) [Geo-blocked]   [REVNAction.us@SD]
   Revry News (720p) [Not 24/7]   [RevryNews.us@SD]
   Revry Queer (720p)   [RevryQueer.us@SD]
+  Right Now TV (720p)   [RightNowTV.us@SD]
   RNN (720p) [Not 24/7]   [RNN.do@SD]
   RNN DOS (720p) [Not 24/7]   [RNN.do@DOS]
   Rocky Hill Channel 16 (480p)   [RockyHillChannel16.us@SD]
@@ -2276,6 +2275,7 @@ NO GUIDE (1405)
   The Hill TV (1080p) [Geo-blocked]   [TheHillTV.us@SD]
   The Loop (1080p)   [TheLoop.us@SD]
   The Monterey Channel (720p)   [TheMontereyChannel.us@SD]
+  The Nest (1080p)   [TheNest.us@SD]
   The Now Network (480p) [Not 24/7]   [TheNowNetwork.us@SD]
   The Peninsula Channel (720p)   [ThePeninsulaChannel.us@SD]
   The Point Televsion Network (1080p)   [ThePointTelevsionNetwork.us@SD]
