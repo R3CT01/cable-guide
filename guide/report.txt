@@ -1,8 +1,8 @@
-COVERAGE: 1006 of 2409 channels have a guide (42%)
+COVERAGE: 1002 of 2407 channels have a guide (42%)
 
 BY COUNTRY (code: with guide / total)
-  us     706 / 1440  49%
-  in     144 / 256   56%
+  us     703 / 1437  49%
+  in     144 / 258   56%
   fr      24 / 40    60%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -28,25 +28,25 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               325 / 1019  32%
-  General            118 / 285   41%
-  Entertainment       79 / 133   59%
+  News               324 / 1020  32%
+  General            117 / 284   41%
+  Entertainment       78 / 132   59%
   Religious           18 / 130   14%
   Series             104 / 122   85%
   Movies              80 / 112   71%
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
   Sports              46 / 72    64%
-  Kids                38 / 68    56%
+  Kids                37 / 67    55%
   Music               29 / 65    45%
   Education           14 / 57    25%
-  Documentary         33 / 45    73%
+  Documentary         32 / 44    73%
   Comedy              23 / 38    61%
   Culture              9 / 36    25%
   Classic             15 / 35    43%
   Lifestyle           12 / 28    43%
   Animation           13 / 23    57%
-  Business             7 / 23    30%
+  Business             7 / 22    32%
   Shop                 7 / 18    39%
   Outdoor              7 / 16    44%
   Cooking              9 / 14    64%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1006)
+WITH GUIDE (1002)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -350,7 +350,7 @@ WITH GUIDE (1006)
   DW Russian (1080p)   [DW.de@Russian]
   DY 365 (360p)   [DY365.in@SD]
   Dynasty   [Dynasty.us@SD]
-  E! (United States) East (1080p)   [E.us@East]
+  E! East (1080p)   [E.us@East]
   E! Keeping Up (1080p)   [EKeepingUp.us@SD]
   Ebony TV by Lionsgate (1080p)   [EbonyTVbyLionsgate.us@SD]
   Electric Now (720p)   [ElectricNow.us@SD]
@@ -362,7 +362,6 @@ WITH GUIDE (1006)
   Estrella Games (1080p)   [EstrellaGames.us@SD]
   Estrella News (1080p)   [EstrellaNews.us@SD]
   Estrella TV (1080p)   [EstrellaTV.us@SD]
-  Estrella TV WMBC-TV (720p)   [EstrellaTV.us@WMBCTV]
   Euro TV (Greece) (432p)   [EuroTV.gr@SD]
   Euronews (720p)   [Euronews.pl@FAST]
   Euronews English (720p)   [EuronewsEnglish.fr@SD]
@@ -586,7 +585,6 @@ WITH GUIDE (1006)
   MLB (720p)   [MLB.us@SD]
   MNT WCIV (1080p)   [MNT.us@WCIV]
   MNT WFLD (1080p)   [MNT.us@WFLD]
-  MNT WWOR-TV   [MNT.us@WWORTV]
   Moon TV (576p)   [MoonTV.in@SD]
   More True Crime   [MoreTrueCrime.us@SD]
   More TV Drama   [MoreTVDrama.us@SD]
@@ -687,7 +685,6 @@ WITH GUIDE (1006)
   NHL Network (1080p)   [NHLNetwork.us@SD]
   NHRA TV (1080p)   [NHRATV.us@SD]
   Nick Jr. (United States) (720p)   [NickJr.us@East]
-  Nick Jr. (United States) East HD (720p)   [NickJr.us@EastHD]
   Nick Jr. Pluto TV (720p)   [NickJrPlutoTV.us@US]
   Nickelodeon (United States) (720p)   [Nickelodeon.us@East]
   Nickelodeon Pluto TV (720p)   [NickelodeonPlutoTV.us@SD]
@@ -768,7 +765,7 @@ WITH GUIDE (1006)
   Pluto TV Westerns (United States)   [PlutoTVWesterns.us@US]
   PokerGo   [PokerGo.us@US]
   Polimer News (576p)   [PolimerNews.in@SD]
-  Polsat News (1080p)   [PolsatNews.pl@SD]
+  Polsat News (1080p) [Geo-blocked]   [PolsatNews.pl@SD]
   Polsat News 2 (1080p) [Geo-blocked]   [PolsatNews2.pl@SD]
   Portlandia (720p)   [Portlandia.us@SD]
   Positiv TV (1080p)   [PositivTV.us@SD]
@@ -967,7 +964,6 @@ WITH GUIDE (1006)
   TV27 News (360p)   [TV27News.in@SD]
   TV4 (United States) (360p)   [TV4.us@SD]
   TV45 (1080p)   [TV45.in@SD]
-  TV8 (Moldova) [Not 24/7]   [TV8.md@SD]
   TV9 Bangla (720p)   [TV9Bangla.in@SD]
   TV9 Bharatvarsh (720p)   [TV9Bharatvarsh.in@SD]
   TVN24 (720p) [Not 24/7]   [TVN24.do@SD]
@@ -1062,7 +1058,7 @@ WITH GUIDE (1006)
   Zee Rajasthan (720p)   [ZeeRajasthan.in@SD]
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
 
-NO GUIDE (1403)
+NO GUIDE (1405)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1113,6 +1109,7 @@ NO GUIDE (1403)
   99TV (720p)   [99TV.in@SD]
   A2 CNN   [A2CNN.al@SD]
   A24 (1080p)   [A24.ar@SD]
+  Aagaaz Times (1080p)   [AagaazTimes.in@SD]
   Aaj News (576p)   [AajNews.pk@SD]
   Abante TV (1080p)   [AbanteTV.ph@HD]
   Abb Takk (576p)   [AbbTakk.pk@SD]
@@ -1251,6 +1248,7 @@ NO GUIDE (1403)
   ARTN TV (1080p) [Not 24/7]   [ARTNTV.us@SD]
   ARY News   [ARYNews.pk@SD]
   Asharq Radio (1080p)   [AsharqRadio.sa@SD]
+  Ashwaveega News 24x7 (720p)   [AshwaveegaNews24x7.in@SD]
   Asian Culture TV (1080p)   [AsianCultureTV.us@HD]
   Asianet Suvarna News (1080p) [Not 24/7]   [AsianetSuvarnaNews.in@SD]
   Asom Live 24 (576p)   [AsomLive24.in@SD]
@@ -1356,7 +1354,6 @@ NO GUIDE (1403)
   Canal 38 (720p)   [Canal38.br@SD]
   Canal Caribe   [CanalCaribe.cu@SD]
   Canal de la Fe (720p)   [CanaldelaFe.us@SD]
-  Canal E (720p)   [CanalE.ar@SD]
   Canal I (1080p)   [CanalI.ve@SD]
   Canal Metropolitano de Noticias   [CanalMetropolitanodeNoticias.br@SD]
   Canal PyC (720p)   [CanalPyC.co@SD]
@@ -1466,7 +1463,7 @@ NO GUIDE (1403)
   Corfu Channel (720p)   [CorfuChannel.gr@SD]
   Cornerstone TV (720p)   [CornerstoneTV.us@SD]
   COStv   [COStv.us@SD]
-  CP24 (720p)   [CP24.ca@SD]
+  CP24 (576p)   [CP24.ca@SD]
   CreaTV Channel 15 (720p)   [CreaTVChannel15.us@SD]
   CreaTV Channel 27 (720p)   [CreaTVChannel27.us@SD]
   CreaTV Channel 28 (720p)   [CreaTVChannel28.us@SD]
@@ -1888,6 +1885,7 @@ NO GUIDE (1403)
   MTV en Espanol   [MTVenEspanol.us@SD]
   MTV Uutiset (720p)   [MTVUutiset.fi@SD]
   MTV2 (720p)   [MTV2.us@East]
+  Multivision Federal   [MultivisionFederal.ar@SD]
   Muslim Network TV   [MuslimNetworkTV.us@SD]
   My-Ukraina TV (1080p)   [MyUkrainaTV.ua@SD]
   Nabaa TV (720p) [Not 24/7]   [NabaaTV.lb@SD]
