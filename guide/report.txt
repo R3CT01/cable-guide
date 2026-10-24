@@ -1,8 +1,8 @@
-COVERAGE: 1008 of 2417 channels have a guide (42%)
+COVERAGE: 1003 of 2417 channels have a guide (41%)
 
 BY COUNTRY (code: with guide / total)
   us     703 / 1437  49%
-  in     150 / 267   56%
+  in     145 / 267   54%
   fr      24 / 40    60%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               330 / 1030  32%
+  News               325 / 1030  32%
   General            117 / 284   41%
   Entertainment       78 / 132   59%
   Religious           18 / 130   14%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1008)
+WITH GUIDE (1003)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -154,7 +154,6 @@ WITH GUIDE (1008)
   Assam Talks (576p)   [AssamTalks.in@SD]
   Astra TV (1080p)   [AstraTV.gr@SD]
   At Home with Family Handyman (720p)   [AtHomewithFamilyHandyman.us@SD]
-  ATN Samachar (1080p)   [ATNSamachar.in@SD]
   AWE Plus (720p)   [AWEPlus.us@SD]
   AWE Plus KPVM-LD   [AWEPlus.us@KPVMLD]
   AXS TV (720p)   [AXSTV.us@SD]
@@ -164,7 +163,6 @@ WITH GUIDE (1008)
   BabyFirst Spanish (1080p)   [BabyFirst.us@Spanish]
   BabyTV Latin America (1080p)   [BabyTV.uk@LatinAmerica]
   Bada Khabar (576p)   [BadaKhabar.in@SD]
-  Bangla Jago (720p)   [BanglaJago.in@SD]
   Bansal News (720p)   [BansalNews.in@SD]
   Bar Rescue   [BarRescue.us@SD]
   Battlestar Galactica   [BattlestarGalactica.us@SD]
@@ -200,7 +198,6 @@ WITH GUIDE (1008)
   BFM Normandie (1080p)   [BFMNormandie.fr@SD]
   BFM TV (1080p)   [BFMTV.fr@SD]
   BFM2 (1080p)   [BFM2.fr@HD]
-  Bharat AtoZ (720p)   [BharatAtoZ.in@SD]
   Bharat Express (576p)   [BharatExpress.in@SD]
   Bharat Samachar (576p)   [BharatSamachar.in@SD]
   Bharat Update (576p)   [BharatUpdate.in@SD]
@@ -665,7 +662,6 @@ WITH GUIDE (1008)
   News Live Bangla (576p)   [NewsLiveBangla.in@SD]
   News Marathi 24x7 (720p)   [NewsMarathi24x7.in@SD]
   News Nation (1080p)   [NewsNation.in@SD]
-  News Nation 81 (1080p)   [NewsNation81.in@SD]
   News State Punjab Haryana Himachal (1080p)   [NewsStatePunjabHaryanaHimachal.in@SD]
   News Tamil 24x7 (576p)   [NewsTamil24x7.in@SD]
   News12 New Jersey [Geo-blocked]   [News12NewJersey.us@SD]
@@ -1009,7 +1005,6 @@ WITH GUIDE (1008)
   VICE TV (1080p)   [VICETV.us@SD]
   VIP News (360p)   [VIPNews.in@SD]
   Vistaar News (1080p)   [VistaarNews.in@SD]
-  VR Live (720p)   [VRLive.in@SD]
   VTV (Maldives)   [VTV.mv@SD]
   WACX 55.1 (720p)   [WACX551.us@SD]
   Wanted: Dead or Alive (720p)   [WantedDeadorAlive.us@SD]
@@ -1064,7 +1059,7 @@ WITH GUIDE (1008)
   Zee Rajasthan (720p)   [ZeeRajasthan.in@SD]
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
 
-NO GUIDE (1409)
+NO GUIDE (1414)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1264,6 +1259,7 @@ NO GUIDE (1409)
   ATL 26   [ATL26.us@SD]
   Atlanta Channel (720p)   [AtlantaChannel.us@SD]
   Atlas (480p)   [Atlas.us@SD]
+  ATN Samachar (1080p)   [ATNSamachar.in@SD]
   ATV+ (1080p)   [ATVPlus.pe@SD]
   ATXN1 (1080p)   [ATXN1.us@SD]
   ATXN2 (1080p)   [ATXN2.us@SD]
@@ -1281,6 +1277,7 @@ NO GUIDE (1409)
   Baku.TV   [BakuTV.az@SD]
   Balafon TV [Geo-blocked]   [BalafonTV.cm@SD]
   BandNews (1080p)   [BandNews.br@SD]
+  Bangla Jago (720p)   [BanglaJago.in@SD]
   Baraka Television (720p) [Not 24/7]   [BarakaTelevision.cd@SD]
   Bark TV (1080p)   [BarkTV.us@SD]
   BATV (480p)   [BATV.us@SD]
@@ -1313,6 +1310,7 @@ NO GUIDE (1409)
   BFM Marseille (1080p)   [BFMMarseille.fr@SD]
   BFM Tech & Co (1080p)   [BFMTechCo.fr@SD]
   BFM Var (1080p)   [BFMVar.fr@SD]
+  Bharat AtoZ (720p)   [BharatAtoZ.in@SD]
   BHTV10 (720p)   [BHTV10.us@SD]
   BHTV35 (720p)   [BHTV35.us@SD]
   BIG Civic Channel   [BIGCivicChannel.us@SD]
@@ -1932,6 +1930,7 @@ NO GUIDE (1409)
   News Central   [NewsCentral.ng@SD]
   News Daily 24 (576p)   [NewsDaily24.in@SD]
   News Leader (576p)   [NewsLeader.in@SD]
+  News Nation 81 (1080p)   [NewsNation81.in@SD]
   News of the World (720p)   [NewsoftheWorld.us@Global]
   News of the World Arabic (720p)   [NewsoftheWorld.us@Arabic]
   News of the World Spanish (1080p)   [NewsoftheWorld.us@Spanish]
@@ -2429,6 +2428,7 @@ NO GUIDE (1409)
   VoA TV Persian (1080p)   [VoATVPersian.us@SD]
   Voice of Lebanon (1080p)   [VoiceofLebanon.lb@SD]
   Vouli TV (1080p) [Not 24/7]   [VouliTV.cy@SD]
+  VR Live (720p)   [VRLive.in@SD]
   VSCTV (1080p)   [VSCTV.us@SD]
   VSH News (576p)   [VSHNews.pk@SD]
   VSiN (720p)   [VSiN.us@SD]
