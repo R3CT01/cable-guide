@@ -1,7 +1,7 @@
-COVERAGE: 1001 of 2417 channels have a guide (41%)
+COVERAGE: 1002 of 2417 channels have a guide (41%)
 
 BY COUNTRY (code: with guide / total)
-  us     702 / 1438  49%
+  us     703 / 1438  49%
   in     145 / 267   54%
   fr      24 / 40    60%
   pk       1 / 32    3%
@@ -37,7 +37,7 @@ BY CATEGORY
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
   Sports              46 / 72    64%
-  Kids                36 / 67    54%
+  Kids                37 / 67    55%
   Music               29 / 65    45%
   Education           14 / 57    25%
   Documentary         32 / 44    73%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1001)
+WITH GUIDE (1002)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -862,6 +862,7 @@ WITH GUIDE (1001)
   Story Television KPVM-LD   [StoryTelevision.us@KPVMLD]
   Story Television WCIU-TV   [StoryTelevision.us@WCIUTV]
   SUMtv Latino (1080p)   [SUMtvLatino.us@SD]
+  Super Simple Songs (1080p)   [SuperSimpleSongs.us@SD]
   Supernatural Drama   [SupernaturalDrama.us@SD]
   Survivor (1080p)   [Survivor.us@SD]
   Suvarna News SD (576p)   [SuvarnaNews.in@SD]
@@ -1057,7 +1058,7 @@ WITH GUIDE (1001)
   Zee Rajasthan (720p)   [ZeeRajasthan.in@SD]
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
 
-NO GUIDE (1416)
+NO GUIDE (1415)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -2241,7 +2242,6 @@ NO GUIDE (1416)
   SUMtv English (1080p)   [SUMtvEnglish.us@SD]
   Suno News HD (1080p)   [SunoNewsHD.pk@SD]
   SunuLabel TV (480p) [Not 24/7]   [SunuLabelTV.sn@SD]
-  Super Simple Songs (1080p)   [SuperSimpleSongs.us@SD]
   Swamiji TV American (1080p) [Not 24/7]   [SwamijiTVAmerican.at@SD]
   Swaraj Express SMBC (576p)   [SwarajExpressSMBC.in@SD]
   Swatantra TV (1080p)   [SwatantraTV.in@SD]
