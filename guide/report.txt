@@ -1,7 +1,7 @@
-COVERAGE: 1003 of 2417 channels have a guide (41%)
+COVERAGE: 1001 of 2417 channels have a guide (41%)
 
 BY COUNTRY (code: with guide / total)
-  us     703 / 1437  49%
+  us     702 / 1438  49%
   in     145 / 267   54%
   fr      24 / 40    60%
   pk       1 / 32    3%
@@ -15,7 +15,7 @@ BY COUNTRY (code: with guide / total)
   it       4 / 19    21%
   do       1 / 18    6%
   ca       5 / 17    29%
-  cl       0 / 16    0%
+  cl       0 / 15    0%
   de       7 / 14    50%
   iq       1 / 14    7%
   ro       9 / 14    64%
@@ -24,12 +24,12 @@ BY COUNTRY (code: with guide / total)
   pe       2 / 13    15%
   au       3 / 11    27%
   qa       4 / 11    36%
-  id       4 / 11    36%
+  id       3 / 10    30%
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               325 / 1030  32%
-  General            117 / 284   41%
+  News               324 / 1029  31%
+  General            117 / 285   41%
   Entertainment       78 / 132   59%
   Religious           18 / 130   14%
   Series             104 / 122   85%
@@ -37,7 +37,7 @@ BY CATEGORY
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
   Sports              46 / 72    64%
-  Kids                37 / 67    55%
+  Kids                36 / 67    54%
   Music               29 / 65    45%
   Education           14 / 57    25%
   Documentary         32 / 44    73%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1003)
+WITH GUIDE (1001)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -431,7 +431,7 @@ WITH GUIDE (1003)
   Fun Roads (720p)   [FunRoads.us@SD]
   Funny AF   [FunnyAF.us@SD]
   Fuse (1080p)   [Fuse.us@East]
-  FX (720p)   [FX.us@East]
+  FX (United States) (720p)   [FX.us@East]
   Game Show Central (720p)   [GameShowCentral.us@SD]
   Game Show Network (720p) [Not 24/7]   [GameShowNetwork.us@East]
   Garfield and Friends   [GarfieldandFriends.us@US]
@@ -492,7 +492,6 @@ WITH GUIDE (1003)
   India TV Speed News (1080p)   [IndiaTVSpeedNews.in@HD]
   India Voice (576p)   [IndiaVoice.in@SD]
   INews (720p)   [INews.in@SD]
-  iNews HD (720p)   [iNews.id@HD]
   INFAST (1080p)   [INFAST.nl@SD]
   INH 24x7 (396p)   [INH24x7.in@SD]
   Ink Master   [InkMaster.us@SD]
@@ -863,7 +862,6 @@ WITH GUIDE (1003)
   Story Television KPVM-LD   [StoryTelevision.us@KPVMLD]
   Story Television WCIU-TV   [StoryTelevision.us@WCIUTV]
   SUMtv Latino (1080p)   [SUMtvLatino.us@SD]
-  Super Simple Songs (1080p)   [SuperSimpleSongs.us@SD]
   Supernatural Drama   [SupernaturalDrama.us@SD]
   Survivor (1080p)   [Survivor.us@SD]
   Suvarna News SD (576p)   [SuvarnaNews.in@SD]
@@ -1059,12 +1057,11 @@ WITH GUIDE (1003)
   Zee Rajasthan (720p)   [ZeeRajasthan.in@SD]
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
 
-NO GUIDE (1414)
+NO GUIDE (1416)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
-  24 Horas (Chile) (1080p)   [24Horas.cl@SD]
-  24 Horas (Spain) (720p)   [24Horas.es@SD]
+  24 Horas (720p)   [24Horas.es@SD]
   24 Horas Canarias (1080p)   [24HorasCanarias.es@SD]
   24 Horas Catalunya (720p)   [24HorasCatalunya.es@SD]
   24 Kanal (720p)   [24Kanal.ua@SD]
@@ -1556,6 +1553,7 @@ NO GUIDE (1414)
   El Sembrador Nueva Evangelizacion ESNE   [ElSembradorNuevaEvangelizacionESNE.us@SD]
   Elbeshara GTV (1080p) [Not 24/7]   [ElbesharaGTV.us@SD]
   Elevation Church Network (1080p)   [ElevationChurchNetwork.us@HD]
+  Elyssa TV (1080p)   [ElyssaTV.tn@HD]
   Entertainment Tonight (1080p)   [EntertainmentTonight.us@SD]
   EntrepreneurTV (720p)   [EntrepreneurTV.us@SD]
   ERT News HD (1080p)   [ERTNews.gr@HD]
@@ -1581,6 +1579,7 @@ NO GUIDE (1414)
   Expressen TV (1080p)   [ExpressenTV.se@SD]
   Extra ProNews (576p)   [ExtraProNews.gr@SD]
   Extrema TV (United States) (720p)   [ExtremaTV.us@SD]
+  Fairground AI Creator TV (1080p)   [FairgroundAICreatorTV.us@SD]
   Faith TV (1080p)   [FaithTV.us@SD]
   Fashion Finds (720p)   [FashionFinds.us@SD]
   Fast TV (720p)   [FastTV.us@SD]
@@ -2242,6 +2241,7 @@ NO GUIDE (1414)
   SUMtv English (1080p)   [SUMtvEnglish.us@SD]
   Suno News HD (1080p)   [SunoNewsHD.pk@SD]
   SunuLabel TV (480p) [Not 24/7]   [SunuLabelTV.sn@SD]
+  Super Simple Songs (1080p)   [SuperSimpleSongs.us@SD]
   Swamiji TV American (1080p) [Not 24/7]   [SwamijiTVAmerican.at@SD]
   Swaraj Express SMBC (576p)   [SwarajExpressSMBC.in@SD]
   Swatantra TV (1080p)   [SwatantraTV.in@SD]
