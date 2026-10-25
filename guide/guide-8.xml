@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="build_guide">
+<channel id="WorldPokerTour.us@US"><display-name>World Poker Tour (1080p)</display-name></channel>
+<channel id="WuTangCollection.us@SD"><display-name>Wu Tang Collection (720p)</display-name></channel>
 <channel id="Wydarzenia24.pl@SD"><display-name>Wydarzenia 24 (576i)</display-name></channel>
 <channel id="XITE90sThrowback.us@SD"><display-name>XITE 90's Throwback (1080p)</display-name></channel>
 <channel id="XITEClassicCountry.nl@SD"><display-name>XITE Classic Country (720p)</display-name></channel>
@@ -31,16 +33,53 @@
 <channel id="ntv.al@SD"><display-name>ntv (720p)</display-name></channel>
 <channel id="truTV.us@East"><display-name>truTV (720p)</display-name></channel>
 <channel id="truTV.us@West"><display-name>truTV West (720p) [Geo-blocked]</display-name></channel>
-<programme start="20261025140000 +0000" stop="20261025144000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
-<programme start="20261025144000 +0000" stop="20261025145000 +0000" channel="Wydarzenia24.pl@SD"><title>Pogoda</title></programme>
-<programme start="20261025145000 +0000" stop="20261025152500 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia 15:50</title></programme>
-<programme start="20261025152500 +0000" stop="20261025160000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
-<programme start="20261025170000 +0000" stop="20261025174000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
-<programme start="20261025174000 +0000" stop="20261025175000 +0000" channel="Wydarzenia24.pl@SD"><title>Pogoda</title></programme>
-<programme start="20261025175000 +0000" stop="20261025181500 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia 18:50</title></programme>
-<programme start="20261025181500 +0000" stop="20261025183000 +0000" channel="Wydarzenia24.pl@SD"><title>Gość \"Wydarzeń\</title></programme>
+<programme start="20261025173000 +0000" stop="20261025191500 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261025190000 +0000" stop="20261025204100 +0000" channel="WorldPokerTour.us@US"><title>World Poker Tour</title></programme>
+<programme start="20261025191500 +0000" stop="20261025210000 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261025204100 +0000" stop="20261025233900 +0000" channel="WorldPokerTour.us@US"><title>World Poker Tour</title></programme>
+<programme start="20261025210000 +0000" stop="20261025224500 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261025224500 +0000" stop="20261026003000 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261025233900 +0000" stop="20261026012800 +0000" channel="WorldPokerTour.us@US"><title>World Poker Tour</title></programme>
+<programme start="20261026003000 +0000" stop="20261026021500 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261026012800 +0000" stop="20261026030000 +0000" channel="WorldPokerTour.us@US"><title>World Poker Tour</title></programme>
+<programme start="20261026021500 +0000" stop="20261026040000 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261026040000 +0000" stop="20261026054500 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261026054500 +0000" stop="20261026073000 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261026073000 +0000" stop="20261026091500 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261026091500 +0000" stop="20261026110000 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261026110000 +0000" stop="20261026124500 +0000" channel="WorldPokerTour.us@US"><title>WPT Classics</title></programme>
+<programme start="20261025183300 +0000" stop="20261025202000 +0000" channel="WuTangCollection.us@SD"><title>Commando the Ninja</title></programme>
+<programme start="20261025183306 +0000" stop="20261025202023 +0000" channel="WuTangCollection.us@SD"><title>Commando the Ninja</title></programme>
+<programme start="20261025202000 +0000" stop="20261025220700 +0000" channel="WuTangCollection.us@SD"><title>Trinity Goes East</title></programme>
+<programme start="20261025202023 +0000" stop="20261025220748 +0000" channel="WuTangCollection.us@SD"><title>Trinity Goes East</title></programme>
+<programme start="20261025220700 +0000" stop="20261025230300 +0000" channel="WuTangCollection.us@SD"><title>Lone Wolf and Cub</title></programme>
+<programme start="20261025220748 +0000" stop="20261025230351 +0000" channel="WuTangCollection.us@SD"><title>Lone Wolf and Cub</title></programme>
+<programme start="20261025230300 +0000" stop="20261026004400 +0000" channel="WuTangCollection.us@SD"><title>Shaolin Youth Posse</title></programme>
+<programme start="20261025230351 +0000" stop="20261026004416 +0000" channel="WuTangCollection.us@SD"><title>Shaolin Youth Posse</title></programme>
+<programme start="20261026004400 +0000" stop="20261026022200 +0000" channel="WuTangCollection.us@SD"><title>Thundering Mantis aka Mantis Fist Fighter</title></programme>
+<programme start="20261026004416 +0000" stop="20261026022206 +0000" channel="WuTangCollection.us@SD"><title>Thundering Mantis aka Mantis Fist Fighter</title></programme>
+<programme start="20261026022200 +0000" stop="20261026040000 +0000" channel="WuTangCollection.us@SD"><title>My Name Called Bruce</title></programme>
+<programme start="20261026022206 +0000" stop="20261026040000 +0000" channel="WuTangCollection.us@SD"><title>My Name Called Bruce</title></programme>
+<programme start="20261026040000 +0000" stop="20261026045300 +0000" channel="WuTangCollection.us@SD"><title>Lone Wolf and Cub</title></programme>
+<programme start="20261026040000 +0000" stop="20261026045350 +0000" channel="WuTangCollection.us@SD"><title>Lone Wolf and Cub</title></programme>
+<programme start="20261026045300 +0000" stop="20261026055300 +0000" channel="WuTangCollection.us@SD"><title>Wu Tang Collection</title></programme>
+<programme start="20261026045350 +0000" stop="20261026055350 +0000" channel="WuTangCollection.us@SD"><title>Wu Tang Collection</title></programme>
+<programme start="20261026055300 +0000" stop="20261026063500 +0000" channel="WuTangCollection.us@SD"><title>Wu Tang Collection</title></programme>
+<programme start="20261026055350 +0000" stop="20261026063501 +0000" channel="WuTangCollection.us@SD"><title>Wu Tang Collection</title></programme>
+<programme start="20261026063500 +0000" stop="20261026081400 +0000" channel="WuTangCollection.us@SD"><title>Kung Fu Genius</title></programme>
+<programme start="20261026063501 +0000" stop="20261026081416 +0000" channel="WuTangCollection.us@SD"><title>Kung Fu Genius</title></programme>
+<programme start="20261026081400 +0000" stop="20261026093500 +0000" channel="WuTangCollection.us@SD"><title>Snake Shadow, Lama Fist</title></programme>
+<programme start="20261026081416 +0000" stop="20261026093543 +0000" channel="WuTangCollection.us@SD"><title>Snake Shadow, Lama Fist</title></programme>
+<programme start="20261026093500 +0000" stop="20261026105000 +0000" channel="WuTangCollection.us@SD"><title>Warriors of Budo</title></programme>
+<programme start="20261026093543 +0000" stop="20261026105055 +0000" channel="WuTangCollection.us@SD"><title>Warriors of Budo</title></programme>
+<programme start="20261026105000 +0000" stop="20261026123000 +0000" channel="WuTangCollection.us@SD"><title>Fly Dragon Mountain</title></programme>
+<programme start="20261026105055 +0000" stop="20261026123025 +0000" channel="WuTangCollection.us@SD"><title>Fly Dragon Mountain</title></programme>
+<programme start="20261026123000 +0000" stop="20261026133000 +0000" channel="WuTangCollection.us@SD"><title>Wu Tang Collection</title></programme>
+<programme start="20261026123025 +0000" stop="20261026133025 +0000" channel="WuTangCollection.us@SD"><title>Wu Tang Collection</title></programme>
+<programme start="20261026133000 +0000" stop="20261026143000 +0000" channel="WuTangCollection.us@SD"><title>Wu Tang Collection</title></programme>
+<programme start="20261026133025 +0000" stop="20261026143025 +0000" channel="WuTangCollection.us@SD"><title>Wu Tang Collection</title></programme>
+<programme start="20261026143000 +0000" stop="20261026153000 +0000" channel="WuTangCollection.us@SD"><title>Wu Tang Collection</title></programme>
+<programme start="20261026143025 +0000" stop="20261026153025 +0000" channel="WuTangCollection.us@SD"><title>Wu Tang Collection</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
@@ -73,8 +112,16 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
-<programme start="20261025120000 +0000" stop="20261025160000 +0000" channel="XITE90sThrowback.us@SD"><title>Wake Up With The 90s</title></programme>
-<programme start="20261025160000 +0000" stop="20261025180000 +0000" channel="XITE90sThrowback.us@SD"><title>You Go 90s!</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
+<programme start="20261026110000 +0000" stop="20261026114000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
+<programme start="20261026114000 +0000" stop="20261026115000 +0000" channel="Wydarzenia24.pl@SD"><title>Pogoda</title></programme>
+<programme start="20261026115000 +0000" stop="20261026123000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia 12:50</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia</title></programme>
+<programme start="20261026143000 +0000" stop="20261026145000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia 24</title></programme>
+<programme start="20261026145000 +0000" stop="20261026152000 +0000" channel="Wydarzenia24.pl@SD"><title>Wydarzenia 15:50</title></programme>
 <programme start="20261025180000 +0000" stop="20261025220000 +0000" channel="XITE90sThrowback.us@SD"><title>Fly 90s Afternoon</title></programme>
 <programme start="20261025220000 +0000" stop="20261026000000 +0000" channel="XITE90sThrowback.us@SD"><title>90s 4 Ever</title></programme>
 <programme start="20261026000000 +0000" stop="20261026020000 +0000" channel="XITE90sThrowback.us@SD"><title>Back 2 The 90s</title></programme>
@@ -82,8 +129,7 @@
 <programme start="20261026040000 +0000" stop="20261026060000 +0000" channel="XITE90sThrowback.us@SD"><title>All Night 90s</title></programme>
 <programme start="20261026060000 +0000" stop="20261026100000 +0000" channel="XITE90sThrowback.us@SD"><title>90s Nightshift</title></programme>
 <programme start="20261026100000 +0000" stop="20261026120000 +0000" channel="XITE90sThrowback.us@SD"><title>90s Mornings</title></programme>
-<programme start="20261025120000 +0000" stop="20261025160000 +0000" channel="XITEClassicCountry.nl@SD"><title>Country Gems All Day</title></programme>
-<programme start="20261025160000 +0000" stop="20261025180000 +0000" channel="XITEClassicCountry.nl@SD"><title>High Noon Country</title></programme>
+<programme start="20261026120000 +0000" stop="20261026160000 +0000" channel="XITE90sThrowback.us@SD"><title>Wake Up With The 90s</title></programme>
 <programme start="20261025180000 +0000" stop="20261025220000 +0000" channel="XITEClassicCountry.nl@SD"><title>Strictly Country Classics</title></programme>
 <programme start="20261025220000 +0000" stop="20261026000000 +0000" channel="XITEClassicCountry.nl@SD"><title>Essential Country Evenings</title></programme>
 <programme start="20261026000000 +0000" stop="20261026020000 +0000" channel="XITEClassicCountry.nl@SD"><title>Country Icons At Night</title></programme>
@@ -91,8 +137,7 @@
 <programme start="20261026040000 +0000" stop="20261026060000 +0000" channel="XITEClassicCountry.nl@SD"><title>Country All Night'er</title></programme>
 <programme start="20261026060000 +0000" stop="20261026100000 +0000" channel="XITEClassicCountry.nl@SD"><title>Genuine Country Classics</title></programme>
 <programme start="20261026100000 +0000" stop="20261026120000 +0000" channel="XITEClassicCountry.nl@SD"><title>A-1 Country Mornings</title></programme>
-<programme start="20261025120000 +0000" stop="20261025160000 +0000" channel="XITEJustChill.nl@US"><title>Easy Morning Vibes</title></programme>
-<programme start="20261025160000 +0000" stop="20261025180000 +0000" channel="XITEJustChill.nl@US"><title>Laidback Lounge</title></programme>
+<programme start="20261026120000 +0000" stop="20261026160000 +0000" channel="XITEClassicCountry.nl@SD"><title>Country Gems All Day</title></programme>
 <programme start="20261025180000 +0000" stop="20261025220000 +0000" channel="XITEJustChill.nl@US"><title>Blissful Break</title></programme>
 <programme start="20261025220000 +0000" stop="20261026000000 +0000" channel="XITEJustChill.nl@US"><title>Lean Back Hits</title></programme>
 <programme start="20261026000000 +0000" stop="20261026020000 +0000" channel="XITEJustChill.nl@US"><title>Evening Chillout</title></programme>
@@ -100,7 +145,7 @@
 <programme start="20261026040000 +0000" stop="20261026060000 +0000" channel="XITEJustChill.nl@US"><title>Nighttime Unwind</title></programme>
 <programme start="20261026060000 +0000" stop="20261026100000 +0000" channel="XITEJustChill.nl@US"><title>Late Night Chill</title></programme>
 <programme start="20261026100000 +0000" stop="20261026120000 +0000" channel="XITEJustChill.nl@US"><title>Mellow Music Sunrise</title></programme>
-<programme start="20261025140000 +0000" stop="20261025180000 +0000" channel="XITENuevoLatino.us@SD"><title>Nonstop Latin Hits</title></programme>
+<programme start="20261026120000 +0000" stop="20261026160000 +0000" channel="XITEJustChill.nl@US"><title>Easy Morning Vibes</title></programme>
 <programme start="20261025180000 +0000" stop="20261025200000 +0000" channel="XITENuevoLatino.us@SD"><title>Todo Latin Hits</title></programme>
 <programme start="20261025200000 +0000" stop="20261026000000 +0000" channel="XITENuevoLatino.us@SD"><title>Latin Hits Mega-Mix</title></programme>
 <programme start="20261026000000 +0000" stop="20261026020000 +0000" channel="XITENuevoLatino.us@SD"><title>Baile Latino</title></programme>
@@ -108,7 +153,8 @@
 <programme start="20261026040000 +0000" stop="20261026060000 +0000" channel="XITENuevoLatino.us@SD"><title>Sangre Latina Videos</title></programme>
 <programme start="20261026060000 +0000" stop="20261026080000 +0000" channel="XITENuevoLatino.us@SD"><title>Fiesta Latina</title></programme>
 <programme start="20261026080000 +0000" stop="20261026120000 +0000" channel="XITENuevoLatino.us@SD"><title>Latin Night Hits</title></programme>
-<programme start="20261025120000 +0000" stop="20261025160000 +0000" channel="XITEReggaeVibes.nl@HD"><title>One Love Mornings</title></programme>
+<programme start="20261026120000 +0000" stop="20261026140000 +0000" channel="XITENuevoLatino.us@SD"><title>Latin Sunrise</title></programme>
+<programme start="20261026140000 +0000" stop="20261026180000 +0000" channel="XITENuevoLatino.us@SD"><title>Nonstop Latin Hits</title></programme>
 <programme start="20261025160000 +0000" stop="20261025200000 +0000" channel="XITEReggaeVibes.nl@HD"><title>Jamrock Afternoon</title></programme>
 <programme start="20261025200000 +0000" stop="20261026000000 +0000" channel="XITEReggaeVibes.nl@HD"><title>Reggae Sunshine</title></programme>
 <programme start="20261026000000 +0000" stop="20261026020000 +0000" channel="XITEReggaeVibes.nl@HD"><title>Caribbean Riddim</title></programme>
@@ -116,8 +162,7 @@
 <programme start="20261026040000 +0000" stop="20261026060000 +0000" channel="XITEReggaeVibes.nl@HD"><title>Jammin' All Night</title></programme>
 <programme start="20261026060000 +0000" stop="20261026100000 +0000" channel="XITEReggaeVibes.nl@HD"><title>Island Roots</title></programme>
 <programme start="20261026100000 +0000" stop="20261026120000 +0000" channel="XITEReggaeVibes.nl@HD"><title>Jamaican Sunrise</title></programme>
-<programme start="20261025120000 +0000" stop="20261025160000 +0000" channel="XITERockxMetal.nl@US"><title>Full Throttle Rock</title></programme>
-<programme start="20261025160000 +0000" stop="20261025180000 +0000" channel="XITERockxMetal.nl@US"><title>Rock Out At Noon</title></programme>
+<programme start="20261026120000 +0000" stop="20261026160000 +0000" channel="XITEReggaeVibes.nl@HD"><title>One Love Mornings</title></programme>
 <programme start="20261025180000 +0000" stop="20261025220000 +0000" channel="XITERockxMetal.nl@US"><title>Rock Unstoppable</title></programme>
 <programme start="20261025220000 +0000" stop="20261026000000 +0000" channel="XITERockxMetal.nl@US"><title>Amplified Anthems</title></programme>
 <programme start="20261026000000 +0000" stop="20261026020000 +0000" channel="XITERockxMetal.nl@US"><title>Rockin' Into The Night</title></programme>
@@ -125,8 +170,7 @@
 <programme start="20261026040000 +0000" stop="20261026060000 +0000" channel="XITERockxMetal.nl@US"><title>Lucid Rock Dreams</title></programme>
 <programme start="20261026060000 +0000" stop="20261026100000 +0000" channel="XITERockxMetal.nl@US"><title>Rock All Night</title></programme>
 <programme start="20261026100000 +0000" stop="20261026120000 +0000" channel="XITERockxMetal.nl@US"><title>Rise &amp; Rock</title></programme>
-<programme start="20261025120000 +0000" stop="20261025160000 +0000" channel="XITESiempreLatino.us@SD"><title>Latin Morning Vibes</title></programme>
-<programme start="20261025160000 +0000" stop="20261025180000 +0000" channel="XITESiempreLatino.us@SD"><title>Latin Icons At Noon</title></programme>
+<programme start="20261026120000 +0000" stop="20261026160000 +0000" channel="XITERockxMetal.nl@US"><title>Full Throttle Rock</title></programme>
 <programme start="20261025180000 +0000" stop="20261025220000 +0000" channel="XITESiempreLatino.us@SD"><title>Clásicos Latinos</title></programme>
 <programme start="20261025220000 +0000" stop="20261026000000 +0000" channel="XITESiempreLatino.us@SD"><title>Leyendas Latinas</title></programme>
 <programme start="20261026000000 +0000" stop="20261026010000 +0000" channel="XITESiempreLatino.us@SD"><title>Latin Music Evolution</title></programme>
@@ -135,36 +179,23 @@
 <programme start="20261026040000 +0000" stop="20261026060000 +0000" channel="XITESiempreLatino.us@SD"><title>Iconic Latin Throwbacks</title></programme>
 <programme start="20261026060000 +0000" stop="20261026100000 +0000" channel="XITESiempreLatino.us@SD"><title>Latin Toda la Noche</title></programme>
 <programme start="20261026100000 +0000" stop="20261026120000 +0000" channel="XITESiempreLatino.us@SD"><title>Esencia Latina</title></programme>
-<programme start="20261025151433 +0000" stop="20261025153847 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
-<programme start="20261025153847 +0000" stop="20261025160307 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
-<programme start="20261025160307 +0000" stop="20261025162728 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
-<programme start="20261025162728 +0000" stop="20261025165148 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
-<programme start="20261025165148 +0000" stop="20261025171609 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
-<programme start="20261025171609 +0000" stop="20261025174030 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
-<programme start="20261025174030 +0000" stop="20261025180428 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
-<programme start="20261025180428 +0000" stop="20261025182825 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
-<programme start="20261025182825 +0000" stop="20261025185227 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
-<programme start="20261025185227 +0000" stop="20261025191623 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
-<programme start="20261025191623 +0000" stop="20261025194020 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
-<programme start="20261025194020 +0000" stop="20261025200418 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
+<programme start="20261026120000 +0000" stop="20261026160000 +0000" channel="XITESiempreLatino.us@SD"><title>Latin Morning Vibes</title></programme>
 <programme start="20261025200418 +0000" stop="20261025202815 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
 <programme start="20261025202815 +0000" stop="20261025205212 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
 <programme start="20261025205212 +0000" stop="20261025211619 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
 <programme start="20261025211619 +0000" stop="20261025214016 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="YahooFinance.us@SD"><title>Built Different with Ian Schwartzman</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="YahooFinance.us@SD"><title>Built Different with Ian Schwartzman</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="YahooFinance.us@SD"><title>The Big Idea</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="YahooFinance.us@SD"><title>The Big Idea</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
-<programme start="20261025170000 +0000" stop="20261025172500 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
-<programme start="20261025170000 +0000" stop="20261025172522 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
-<programme start="20261025170000 +0000" stop="20261025172523 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
-<programme start="20261025172500 +0000" stop="20261025173000 +0000" channel="YahooFinance.us@SD"><title>Best of Yahoo Finance</title></programme>
-<programme start="20261025172522 +0000" stop="20261025173000 +0000" channel="YahooFinance.us@SD"><title>Yahoo Finance</title></programme>
-<programme start="20261025172523 +0000" stop="20261025173000 +0000" channel="YahooFinance.us@SD"><title>Best of Yahoo Finance</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
-<programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
+<programme start="20261025214016 +0000" stop="20261025215855 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
+<programme start="20261025215855 +0000" stop="20261025222310 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
+<programme start="20261025222310 +0000" stop="20261025224729 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
+<programme start="20261025224729 +0000" stop="20261025231149 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
+<programme start="20261025231149 +0000" stop="20261025233604 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
+<programme start="20261025233604 +0000" stop="20261026000023 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
+<programme start="20261026000023 +0000" stop="20261026002444 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
+<programme start="20261026002444 +0000" stop="20261026004905 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
+<programme start="20261026004905 +0000" stop="20261026011325 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
+<programme start="20261026011325 +0000" stop="20261026013747 +0000" channel="XploreTV.us@SD"><title>Hearts of Heroes</title></programme>
+<programme start="20261026013747 +0000" stop="20261026020159 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
+<programme start="20261026020159 +0000" stop="20261026022611 +0000" channel="XploreTV.us@SD"><title>The Henry Ford's Innovation Nation</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="YahooFinance.us@SD"><title>The Daily Wolf with Scott Melker</title></programme>
 <programme start="20261025190000 +0000" stop="20261025200000 +0000" channel="YahooFinance.us@SD"><title>Market Movers</title></programme>
 <programme start="20261025200000 +0000" stop="20261025203000 +0000" channel="YahooFinance.us@SD"><title>Trader Talk</title></programme>
@@ -179,9 +210,8 @@
 <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
 <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
 <programme start="20261026020000 +0000" stop="20261026022500 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
-<programme start="20261026020000 +0000" stop="20261026022523 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
+<programme start="20261026020000 +0000" stop="20261026022522 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
 <programme start="20261026022500 +0000" stop="20261026023000 +0000" channel="YahooFinance.us@SD"><title>Best of Yahoo Finance</title></programme>
-<programme start="20261026022523 +0000" stop="20261026023000 +0000" channel="YahooFinance.us@SD"><title>Best of Yahoo Finance</title></programme>
 <programme start="20261026023000 +0000" stop="20261026030000 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
 <programme start="20261026030000 +0000" stop="20261026033000 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
 <programme start="20261026033000 +0000" stop="20261026043000 +0000" channel="YahooFinance.us@SD"><title>Market Movers</title></programme>
@@ -197,8 +227,13 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="YahooFinance.us@SD"><title>The Big Idea</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="YahooFinance.us@SD"><title>In the Loop</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="YahooFinance.us@SD"><title>The Big Idea</title></programme>
-<programme start="20261025130000 +0000" stop="20261025160000 +0000" channel="YesNetwork.us@SD"><title>NBA Basketball</title></programme>
-<programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="YesNetwork.us@SD"><title>The Fantasy Footballers</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="YahooFinance.us@SD"><title>Built Different with Ian Schwartzman</title></programme>
+<programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="YahooFinance.us@SD"><title>Market Movers</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="YahooFinance.us@SD"><title>Power Players with Brian Sozzi</title></programme>
+<programme start="20261026123000 +0000" stop="20261026133000 +0000" channel="YahooFinance.us@SD"><title>The 8:30</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="YahooFinance.us@SD"><title>Sozzi Unleashed</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="YahooFinance.us@SD"><title>Morning Brew Daily</title></programme>
+<programme start="20261026143000 +0000" stop="20261026153000 +0000" channel="YahooFinance.us@SD"><title>The 8:30</title></programme>
 <programme start="20261025170000 +0000" stop="20261025200000 +0000" channel="YesNetwork.us@SD"><title>NBA Basketball</title></programme>
 <programme start="20261025200000 +0000" stop="20261025213000 +0000" channel="YesNetwork.us@SD"><title>Yankeeography</title></programme>
 <programme start="20261025213000 +0000" stop="20261025220000 +0000" channel="YesNetwork.us@SD"><title>Live: Brooklyn Nets Pregame</title></programme>
@@ -211,11 +246,9 @@
 <programme start="20261026063000 +0000" stop="20261026070000 +0000" channel="YesNetwork.us@SD"><title>Brooklyn Nets Magazine</title></programme>
 <programme start="20261026070000 +0000" stop="20261026100000 +0000" channel="YesNetwork.us@SD"><title>NBA Basketball</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="YesNetwork.us@SD"><title>Breaking Par</title></programme>
-<programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
-<programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
-<programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
-<programme start="20261025170000 +0000" stop="20261025180000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
-<programme start="20261025180000 +0000" stop="20261025190000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="YesNetwork.us@SD"><title>Breaking Par</title></programme>
+<programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="YesNetwork.us@SD"><title>Bronx Buds</title></programme>
+<programme start="20261026120000 +0000" stop="20261026150000 +0000" channel="YesNetwork.us@SD"><title>NBA Basketball</title></programme>
 <programme start="20261025190000 +0000" stop="20261025200000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
 <programme start="20261025200000 +0000" stop="20261025210000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
 <programme start="20261025210000 +0000" stop="20261025220000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
@@ -227,31 +260,28 @@
 <programme start="20261026030000 +0000" stop="20261026040000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
 <programme start="20261026040000 +0000" stop="20261026050000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
 <programme start="20261026050000 +0000" stop="20261026060000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
-<programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
-<programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
-<programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
-<programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
+<programme start="20261026060000 +0000" stop="20261026070000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
+<programme start="20261026070000 +0000" stop="20261026080000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
+<programme start="20261026080000 +0000" stop="20261026090000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
+<programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
+<programme start="20261026100000 +0000" stop="20261026110000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
+<programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="YoMTV.us@SD"><title>Yo! MTV</title></programme>
+<programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
 <programme start="20261025200000 +0000" stop="20261025203000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
 <programme start="20261025203000 +0000" stop="20261025210000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
 <programme start="20261025210000 +0000" stop="20261025213000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
-<programme start="20261025213000 +0000" stop="20261025220000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261025220000 +0000" stop="20261025223000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261025223000 +0000" stop="20261025230000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261025230000 +0000" stop="20261025233000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261025233000 +0000" stop="20261026000000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261026003000 +0000" stop="20261026010000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261025213000 +0000" stop="20261025220000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
+<programme start="20261025220000 +0000" stop="20261025223000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
+<programme start="20261025223000 +0000" stop="20261025230000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
+<programme start="20261025230000 +0000" stop="20261025233000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
+<programme start="20261025233000 +0000" stop="20261026000000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
+<programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
+<programme start="20261026003000 +0000" stop="20261026010000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
+<programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
+<programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
+<programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh</title></programme>
 <programme start="20261026023000 +0000" stop="20261026030000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
 <programme start="20261026030000 +0000" stop="20261026033000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
 <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
@@ -268,17 +298,15 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="Zee24Ghanta.in@SD"><title>Ek Tana 24 / Pjuor Katha</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="Zee24Ghanta.in@SD"><title>Bangla@8</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="Zee24Ghanta.in@SD"><title>Bangla@8</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="Zee24Ghanta.in@SD"><title>Ja Bolbo Satti Bolbo</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="Zee24Ghanta.in@SD"><title>Ja Bolbo Satti Bolbo</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="Zee24Ghanta.in@SD"><title>10 Khaborer Boss</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="Zee24Ghanta.in@SD"><title>Ja Bolbo Satti Bolbo</title></programme>
-<programme start="20261025173000 +0000" stop="20261025173000 +0000" channel="Zee24Ghanta.in@SD"><title>Ja Bolbo Satti Bolbo</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="Zee24Ghanta.in@SD"><title>Eke Eke 11</title></programme>
-<programme start="20261025180000 +0000" stop="20261025182959 +0000" channel="Zee24Ghanta.in@SD"><title>Eke Eke 11</title></programme>
-<programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="Zee24Ghanta.in@SD"><title>Khabor Saradin</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="YuGiOh.us@SD"><title>Yu-Gi-Oh!</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="Zee24Ghanta.in@SD"><title>Ja Bolbo Satti Bolbo</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="Zee24Ghanta.in@SD"><title>Ja Bolbo Satti Bolbo</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="Zee24Ghanta.in@SD"><title>News</title></programme>
@@ -311,15 +339,15 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="Zee24Ghanta.in@SD"><title>Bangla@8</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="Zee24Ghanta.in@SD"><title>3 Te 3Minute 3 Khabor</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="Zee24Ghanta.in@SD"><title>Dupurer Bachhi</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="Zee24Kalak.in@SD"><title>Samachar Gujarat</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="Zee24Kalak.in@SD"><title>Control Room</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="Zee24Kalak.in@SD"><title>Viral No Vantol</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="Zee24Kalak.in@SD"><title>Fatafat Samachar</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="Zee24Kalak.in@SD"><title>Prime Time Report</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="Zee24Kalak.in@SD"><title>Sach- Dr. Shubhash Chandra Show</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="Zee24Kalak.in@SD"><title>Viral Khabar</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="Zee24Kalak.in@SD"><title>Savdhan Gujarat</title></programme>
-<programme start="20261025180000 +0000" stop="20261025182959 +0000" channel="Zee24Kalak.in@SD"><title>Viral No Vantol</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="Zee24Ghanta.in@SD"><title>Ja Bolbo Satti Bolbo</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="Zee24Ghanta.in@SD"><title>Chatpat 24</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="Zee24Ghanta.in@SD"><title>Panchter Panch</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="Zee24Ghanta.in@SD"><title>Khaborer Marpaych</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="Zee24Ghanta.in@SD"><title>Kolkatar 6 show</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="Zee24Ghanta.in@SD"><title>Ja Bolbo Satti Bolbo</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="Zee24Ghanta.in@SD"><title>Ja Bolbo Satti Bolbo</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="Zee24Ghanta.in@SD"><title>Ek Tana 24 / Pjuor Katha</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="Zee24Ghanta.in@SD"><title>Bangla@8</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="Zee24Kalak.in@SD"><title>Prime Time Report</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="Zee24Kalak.in@SD"><title>Viral Khabar</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="Zee24Kalak.in@SD"><title>Savdhan Gujarat</title></programme>
@@ -352,15 +380,15 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="Zee24Kalak.in@SD"><title>Super Hit Geet</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="Zee24Kalak.in@SD"><title>3 Vagye Mahanagar Ni Vat</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="Zee24Kalak.in@SD"><title>Viral Khabar</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="Zee24Taas.in@SD"><title>गावोगावी 24 तास</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="Zee24Taas.in@SD"><title>स्टोरी ऑफ द डे</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="Zee24Taas.in@SD"><title>स्टोरी ऑफ द डे</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="Zee24Taas.in@SD"><title>24 Taas Prime</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="Zee24Taas.in@SD"><title>महाराष्ट्र सुपर फास्ट</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="Zee24Taas.in@SD"><title>10 च्या टॉप 10 बातम्या</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="Zee24Taas.in@SD"><title>सुपरफास्ट 24 तास</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="Zee24Taas.in@SD"><title>मुंबई फास्ट</title></programme>
-<programme start="20261025180000 +0000" stop="20261025182959 +0000" channel="Zee24Taas.in@SD"><title>स्टोरी ऑफ द डे</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="Zee24Kalak.in@SD"><title>Gujarati Geet</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="Zee24Kalak.in@SD"><title>Gujarati Geet</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="Zee24Kalak.in@SD"><title>5 Vagye Tamara Shaher Ni Vat</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="Zee24Kalak.in@SD"><title>Reels Ni Ramzat</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="Zee24Kalak.in@SD"><title>Fatafat Samachar</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="Zee24Kalak.in@SD"><title>Gujarat Gatha</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="Zee24Kalak.in@SD"><title>Fatafat Samachar</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="Zee24Kalak.in@SD"><title>Samachar Gujarat</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="Zee24Kalak.in@SD"><title>Janta Ni Vat</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="Zee24Taas.in@SD"><title>24 Taas Prime</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="Zee24Taas.in@SD"><title>इनसाईड स्टोरी</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="Zee24Taas.in@SD"><title>सुपरफास्ट 24 तास</title></programme>
@@ -393,15 +421,15 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="Zee24Taas.in@SD"><title>हितगुज</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="Zee24Taas.in@SD"><title>दुपारी 3 च्या बातम्या</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="Zee24Taas.in@SD"><title>हितगुज</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + ज्ञान डोज़</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + टेकक्लूसिव</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + स्पिल द चाय</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + रील वाली न्यूज़</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + पुरानी फाइल्स</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="ZeeBharat.in@SD"><title>सच / क्रीएटर्स डे आऊट</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + हैंगआउट</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + रील वाली न्यूज़</title></programme>
-<programme start="20261025180000 +0000" stop="20261025182959 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + ऑफिस ऑफिस</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="Zee24Taas.in@SD"><title>4 Chya Batmya</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="Zee24Taas.in@SD"><title>टॉप 50 न्यूज</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="Zee24Taas.in@SD"><title>5 च्या बातम्या</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="Zee24Taas.in@SD"><title>झटपट अ‍ॅन्ड पिकपाणी</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="Zee24Taas.in@SD"><title>6 च्या बातम्या</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="Zee24Taas.in@SD"><title>महाराष्ट्र सुपर फास्ट</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="Zee24Taas.in@SD"><title>आपला जिल्हा आपली बातमी</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="Zee24Taas.in@SD"><title>गावोगावी 24 तास</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="Zee24Taas.in@SD"><title>स्टोरी ऑफ द डे</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + तारा सितारा</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + 18 प्लस</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + पुरानी फाइल्स</title></programme>
@@ -434,15 +462,15 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + द फ्रंट रो</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + ज्ञान डोज़</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + सेहत टॉकीज़</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar jharkhand</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>News Special</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>News Special</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Mera Desh Mera Pradesh</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>News Special</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar bihar</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar jharkhand</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar Bihar Jharkhand</title></programme>
-<programme start="20261025180000 +0000" stop="20261025182959 +0000" channel="ZeeBiharJharkhand.in@SD"><title>News Special</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + आउट ऑफ द बॉक्स</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + टेकक्लूसिव</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + मीम रिएक्शन</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + ओपन माइक</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + ज्ञान डोज़</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + पुरानी फाइल्स</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + मीम रिएक्शन</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + ज्ञान डोज़</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="ZeeBharat.in@SD"><title>न्यूज़ हॉटस्पॉट + बहन शो</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar Bihar Jharkhand</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar Bihar Jharkhand</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar Bihar Jharkhand</title></programme>
@@ -475,11 +503,15 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar Bihar Jharkhand</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>100 Sahar 100 Khabar</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>News Special</title></programme>
-<programme start="20261025133000 +0000" stop="20261025143000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
-<programme start="20261025143000 +0000" stop="20261025153000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
-<programme start="20261025153000 +0000" stop="20261025163000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
-<programme start="20261025163000 +0000" stop="20261025173000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
-<programme start="20261025173000 +0000" stop="20261025182959 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar bihar</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar jharkhand</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Panchayat</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>News Special</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>News @ 6</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>News Special</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar bihar</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Khabar jharkhand</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="ZeeBiharJharkhand.in@SD"><title>Baat-Bebak</title></programme>
 <programme start="20261025183000 +0000" stop="20261025193000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
 <programme start="20261025193000 +0000" stop="20261025203000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
 <programme start="20261025203000 +0000" stop="20261025213000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
@@ -496,17 +528,11 @@
 <programme start="20261026073000 +0000" stop="20261026083000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
 <programme start="20261026083000 +0000" stop="20261026093000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
 <programme start="20261026093000 +0000" stop="20261026103000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
-<programme start="20261025135800 +0000" stop="20261025142800 +0000" channel="ZeeKannadaNews.in@SD"><title>Chithramanjari</title></programme>
-<programme start="20261025142800 +0000" stop="20261025145800 +0000" channel="ZeeKannadaNews.in@SD"><title>DNA</title></programme>
-<programme start="20261025145800 +0000" stop="20261025152800 +0000" channel="ZeeKannadaNews.in@SD"><title>DNA</title></programme>
-<programme start="20261025152800 +0000" stop="20261025155800 +0000" channel="ZeeKannadaNews.in@SD"><title>Zee Prime @ 9 Live</title></programme>
-<programme start="20261025155800 +0000" stop="20261025162800 +0000" channel="ZeeKannadaNews.in@SD"><title>Zee Focus</title></programme>
-<programme start="20261025162800 +0000" stop="20261025165800 +0000" channel="ZeeKannadaNews.in@SD"><title>Sach</title></programme>
-<programme start="20261025165800 +0000" stop="20261025172800 +0000" channel="ZeeKannadaNews.in@SD"><title>Prime Crime</title></programme>
-<programme start="20261025172800 +0000" stop="20261025175800 +0000" channel="ZeeKannadaNews.in@SD"><title>DND Muztang</title></programme>
-<programme start="20261025175800 +0000" stop="20261025181500 +0000" channel="ZeeKannadaNews.in@SD"><title>Special News</title></programme>
-<programme start="20261025181500 +0000" stop="20261025182800 +0000" channel="ZeeKannadaNews.in@SD"><title>Explainer</title></programme>
-<programme start="20261025182800 +0000" stop="20261025182959 +0000" channel="ZeeKannadaNews.in@SD"><title>ZEE Samvada</title></programme>
+<programme start="20261026103000 +0000" stop="20261026113000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
+<programme start="20261026113000 +0000" stop="20261026123000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
+<programme start="20261026123000 +0000" stop="20261026133000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
+<programme start="20261026133000 +0000" stop="20261026143000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
+<programme start="20261026143000 +0000" stop="20261026153000 +0000" channel="ZeeDelhiNCRHaryana.in@SD"><title>Zee Delhi NCR Haryana</title></programme>
 <programme start="20261025183000 +0000" stop="20261025185800 +0000" channel="ZeeKannadaNews.in@SD"><title>ZEE Samvada</title></programme>
 <programme start="20261025185800 +0000" stop="20261025192800 +0000" channel="ZeeKannadaNews.in@SD"><title>ZEE Samvada</title></programme>
 <programme start="20261025192800 +0000" stop="20261025195800 +0000" channel="ZeeKannadaNews.in@SD"><title>Good News</title></programme>
@@ -539,16 +565,15 @@
 <programme start="20261026085800 +0000" stop="20261026092800 +0000" channel="ZeeKannadaNews.in@SD"><title>Dnd Astro Watch</title></programme>
 <programme start="20261026092800 +0000" stop="20261026095800 +0000" channel="ZeeKannadaNews.in@SD"><title>Mega Suddi Live</title></programme>
 <programme start="20261026095800 +0000" stop="20261026102800 +0000" channel="ZeeKannadaNews.in@SD"><title>Mega Suddi Live</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Special Report</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>News Special</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Aapki Awaz</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Aapki Awaz</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>MPCG Special</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>MPCG Special</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>MPCG Special</title></programme>
-<programme start="20261025173000 +0000" stop="20261025173000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>MPCG Special</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>MPCG Special</title></programme>
-<programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>MPCG Special</title></programme>
+<programme start="20261026102800 +0000" stop="20261026105800 +0000" channel="ZeeKannadaNews.in@SD"><title>HL Samagra Varthe Janamata Live</title></programme>
+<programme start="20261026105800 +0000" stop="20261026112800 +0000" channel="ZeeKannadaNews.in@SD"><title>HL Samagra Varthe Janamata Live</title></programme>
+<programme start="20261026112800 +0000" stop="20261026115800 +0000" channel="ZeeKannadaNews.in@SD"><title>News @ 5 Pm</title></programme>
+<programme start="20261026115800 +0000" stop="20261026122800 +0000" channel="ZeeKannadaNews.in@SD"><title>Dnd Kalagnana</title></programme>
+<programme start="20261026122800 +0000" stop="20261026125800 +0000" channel="ZeeKannadaNews.in@SD"><title>HL Zee Samvada Live</title></programme>
+<programme start="20261026125800 +0000" stop="20261026132800 +0000" channel="ZeeKannadaNews.in@SD"><title>HL Zee Samvada Live</title></programme>
+<programme start="20261026132800 +0000" stop="20261026135800 +0000" channel="ZeeKannadaNews.in@SD"><title>Desha Pradesha Live</title></programme>
+<programme start="20261026135800 +0000" stop="20261026142800 +0000" channel="ZeeKannadaNews.in@SD"><title>Chitramanjari Live</title></programme>
+<programme start="20261026142800 +0000" stop="20261026145800 +0000" channel="ZeeKannadaNews.in@SD"><title>Prime News Live</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>News Special</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Good Morning MPCG</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>MPCG Superfast</title></programme>
@@ -581,16 +606,15 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Aapki Awaz MP</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Aapki Awaz CG</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Prime Time @ 9</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
-<programme start="20261025173000 +0000" stop="20261025173000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
-<programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Special Report</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>MP Dastak</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Jurm</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>MPCG Superfast</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Khabar Din Bhar</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Aapki Awaz</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Aapki Awaz</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>Special Report</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="ZeeMadhyaPradeshChhattisgarh.in@SD"><title>News Special</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="ZeeNews.in@SD"><title>Namaste Zee</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="ZeeNews.in@SD"><title>Namaste Zee</title></programme>
@@ -623,15 +647,15 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="ZeeNews.in@SD"><title>Deshhit</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="ZeeNews.in@SD"><title>Deshhit</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="ZeeNews.in@SD"><title>Daily News &amp; Analysis</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="ZeeRajasthan.in@SD"><title>खबरन गाँव री</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="ZeeRajasthan.in@SD"><title>स्पेशल रिपोर्ट</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="ZeeRajasthan.in@SD"><title>पिंक सिटी</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="ZeeRajasthan.in@SD"><title>देश हमारा</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="ZeeRajasthan.in@SD"><title>हमारा शहर</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="ZeeRajasthan.in@SD"><title>सच- सुभाष चंद्र शो</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="ZeeRajasthan.in@SD"><title>राजस्थान सूपरफास्ट</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="ZeeRajasthan.in@SD"><title>गुड नाइट राजस्थान</title></programme>
-<programme start="20261025180000 +0000" stop="20261025182959 +0000" channel="ZeeRajasthan.in@SD"><title>नेशनल कॉंटेंट</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="ZeeNews.in@SD"><title>Daily News &amp; Analysis</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="ZeeNews.in@SD"><title>Badi Khabar</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="ZeeNews.in@SD"><title>Rahasya</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="ZeeNews.in@SD"><title>Deshhit</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="ZeeNews.in@SD"><title>Deshhit</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="ZeeNews.in@SD"><title>News Bulletin</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="ZeeRajasthan.in@SD"><title>विशेष</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="ZeeRajasthan.in@SD"><title>8 का अटैक</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="ZeeRajasthan.in@SD"><title>5 का पंच</title></programme>
@@ -664,15 +688,15 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="ZeeRajasthan.in@SD"><title>2 का दम</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="ZeeRajasthan.in@SD"><title>राजस्थान सूपरफास्ट</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="ZeeRajasthan.in@SD"><title>स्पेशल रिपोर्ट</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="ZeeTeluguNews.in@SD"><title>లైవ్</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="ZeeTeluguNews.in@SD"><title>గణేష్ ఇమ్మర్షన్-2026</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="ZeeTeluguNews.in@SD"><title>లైవ్</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="ZeeTeluguNews.in@SD"><title>గణేష్ ఇమ్మర్షన్-2026</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="ZeeTeluguNews.in@SD"><title>లైవ్</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="ZeeTeluguNews.in@SD"><title>గణేష్ ఇమ్మర్షన్-2026</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="ZeeTeluguNews.in@SD"><title>లైవ్</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="ZeeTeluguNews.in@SD"><title>గణేష్ ఇమ్మర్షన్-2026</title></programme>
-<programme start="20261025180000 +0000" stop="20261025182959 +0000" channel="ZeeTeluguNews.in@SD"><title>లైవ్</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="ZeeRajasthan.in@SD"><title>आपणो राजस्थान</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="ZeeRajasthan.in@SD"><title>आपणो राजस्थान</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="ZeeRajasthan.in@SD"><title>5 का पंच</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="ZeeRajasthan.in@SD"><title>सिटी 60</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="ZeeRajasthan.in@SD"><title>आपका शहर आपकी खबर</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="ZeeRajasthan.in@SD"><title>स्पेशल रिपोर्ट</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="ZeeRajasthan.in@SD"><title>आपणो राजस्थान</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="ZeeRajasthan.in@SD"><title>खबरन गाँव री</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="ZeeRajasthan.in@SD"><title>8 का अटैक</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="ZeeTeluguNews.in@SD"><title>గణేష్ ఇమ్మర్షన్-2026</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="ZeeTeluguNews.in@SD"><title>లైవ్</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="ZeeTeluguNews.in@SD"><title>గణేష్ ఇమ్మర్షన్-2026</title></programme>
@@ -705,13 +729,15 @@
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="ZeeTeluguNews.in@SD"><title>పొలిటికల్ ఇన్నర్ న్యూస్</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="ZeeTeluguNews.in@SD"><title>న్యూస్ ఎట్ 3పీఎం</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="ZeeTeluguNews.in@SD"><title>స్పెషల్ ఫోకస్</title></programme>
-<programme start="20261025134500 +0000" stop="20261025154500 +0000" channel="beINSPORTSXTRA.us@SD"><title>Ekstraklasa (Polish League) 2026/27</title></programme>
-<programme start="20261025154500 +0000" stop="20261025160000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Best of beIN Sports</title></programme>
-<programme start="20261025160000 +0000" stop="20261025161500 +0000" channel="beINSPORTSXTRA.us@SD"><title>Ligue 1 Highlight Show</title></programme>
-<programme start="20261025160000 +0000" stop="20261025181500 +0000" channel="beINSPORTSXTRA.us@SD"><title>Ligue 1 2026/27</title></programme>
-<programme start="20261025161500 +0000" stop="20261025183000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Ekstraklasa (Polish League) 2026/27</title></programme>
-<programme start="20261025181500 +0000" stop="20261025183000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Best of beIN Sports</title></programme>
-<programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Ligue 1 Highlight Show 2026/27</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="ZeeTeluguNews.in@SD"><title>న్యూస్ ఎట్ 4 పీఎం</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="ZeeTeluguNews.in@SD"><title>కమర్షియల్</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="ZeeTeluguNews.in@SD"><title>న్యూస్ ఎట్ 5 పీఎం</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="ZeeTeluguNews.in@SD"><title>పొలిటికల్ ఇన్నర్ న్యూస్</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="ZeeTeluguNews.in@SD"><title>రూరల్ న్యూస్ ఎట్ 6 పీఎం</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="ZeeTeluguNews.in@SD"><title>కమర్షియల్</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="ZeeTeluguNews.in@SD"><title>న్యూస్ ఎట్ 7 పీఎం</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="ZeeTeluguNews.in@SD"><title>డీఎన్ఏ విత్ భరత్</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="ZeeTeluguNews.in@SD"><title>డీఎన్ఏ విత్ భరత్</title></programme>
 <programme start="20261025183000 +0000" stop="20261025193000 +0000" channel="beINSPORTSXTRA.us@SD"><title>2026 Reaction Sports</title></programme>
 <programme start="20261025190000 +0000" stop="20261025210000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Lo Mejor de Africa</title></programme>
 <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="beINSPORTSXTRA.us@SD"><title>2026 Longines Global Champions Tour</title></programme>
@@ -720,19 +746,22 @@
 <programme start="20261025210000 +0000" stop="20261025230000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Lo Mejor de Copa Libertadores</title></programme>
 <programme start="20261025213000 +0000" stop="20261025220000 +0000" channel="beINSPORTSXTRA.us@SD"><title>2026 FIBA 3x3 U23 World Cup</title></programme>
 <programme start="20261025220000 +0000" stop="20261025230000 +0000" channel="beINSPORTSXTRA.us@SD"><title>GT World Challenge Europe</title></programme>
-<programme start="20261025230000 +0000" stop="20261026010000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Copa Sudamericana - Semifinal (2nd Leg)</title></programme>
+<programme start="20261025230000 +0000" stop="20261025233000 +0000" channel="beINSPORTSXTRA.us@SD"><title>El Mejor Box de la Historia Ep. 6</title></programme>
+<programme start="20261025230000 +0000" stop="20261026010000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Copa Sudamericana</title></programme>
+<programme start="20261025233000 +0000" stop="20261026000000 +0000" channel="beINSPORTSXTRA.us@SD"><title>El Mejor Box de la Historia Ep. 7</title></programme>
+<programme start="20261026000000 +0000" stop="20261026020000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Partidazos del PSG</title></programme>
 <programme start="20261026010000 +0000" stop="20261026030000 +0000" channel="beINSPORTSXTRA.us@SD"><title>IFSC World Climbing Series</title></programme>
+<programme start="20261026020000 +0000" stop="20261026040000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Lo Mejor de Copa Libertadores</title></programme>
 <programme start="20261026030000 +0000" stop="20261026060000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Naiza Fighting Championship</title></programme>
 <programme start="20261026060000 +0000" stop="20261026080000 +0000" channel="beINSPORTSXTRA.us@SD"><title>IFSC World Climbing Series</title></programme>
 <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="beINSPORTSXTRA.us@SD"><title>T100 Triathlon World Tour</title></programme>
 <programme start="20261026083000 +0000" stop="20261026090000 +0000" channel="beINSPORTSXTRA.us@SD"><title>2026 UIPM Obstacle World Championships</title></programme>
 <programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="beINSPORTSXTRA.us@SD"><title>2026 Pro Footvolley Tour</title></programme>
 <programme start="20261026100000 +0000" stop="20261026110000 +0000" channel="beINSPORTSXTRA.us@SD"><title>2026 Pro Footvolley Tour</title></programme>
-<programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="bonappetit.us@SD"><title>Epicurious Hour</title></programme>
-<programme start="20261025150000 +0000" stop="20261025160000 +0000" channel="bonappetit.us@SD"><title>The Cozy Test Kitchen</title></programme>
-<programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="bonappetit.us@SD"><title>The Cozy Test Kitchen</title></programme>
-<programme start="20261025170000 +0000" stop="20261025180000 +0000" channel="bonappetit.us@SD"><title>Dish It Out</title></programme>
-<programme start="20261025180000 +0000" stop="20261025190000 +0000" channel="bonappetit.us@SD"><title>Cocktail Hour</title></programme>
+<programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="beINSPORTSXTRA.us@SD"><title>X-Games - Reaction Sports 2022</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="beINSPORTSXTRA.us@SD"><title>2026 FEI Eventing Nations Cup</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="beINSPORTSXTRA.us@SD"><title>FEI Eventing Nations Cup</title></programme>
+<programme start="20261026130000 +0000" stop="20261026183000 +0000" channel="beINSPORTSXTRA.us@SD"><title>Premier Padel Kuwait</title></programme>
 <programme start="20261025190000 +0000" stop="20261025200000 +0000" channel="bonappetit.us@SD"><title>Dinner</title></programme>
 <programme start="20261025200000 +0000" stop="20261025210000 +0000" channel="bonappetit.us@SD"><title>Epicurious Hour</title></programme>
 <programme start="20261025210000 +0000" stop="20261025220000 +0000" channel="bonappetit.us@SD"><title>Epicurious Hour</title></programme>
@@ -749,15 +778,10 @@
 <programme start="20261026080000 +0000" stop="20261026090000 +0000" channel="bonappetit.us@SD"><title>Taste Panel</title></programme>
 <programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="bonappetit.us@SD"><title>Taste Panel</title></programme>
 <programme start="20261026100000 +0000" stop="20261026110000 +0000" channel="bonappetit.us@SD"><title>Epicurious 101</title></programme>
-<programme start="20261025141800 +0000" stop="20261025144700 +0000" channel="iCarly.us@SD"><title>Victorious: The Bird Scene</title></programme>
-<programme start="20261025144700 +0000" stop="20261025151600 +0000" channel="iCarly.us@SD"><title>Victorious: Stage Fighting</title></programme>
-<programme start="20261025151600 +0000" stop="20261025154500 +0000" channel="iCarly.us@SD"><title>Victorious: Beck's Big Break</title></programme>
-<programme start="20261025154500 +0000" stop="20261025161400 +0000" channel="iCarly.us@SD"><title>Victorious: Tori the Zombie</title></programme>
-<programme start="20261025161400 +0000" stop="20261025164300 +0000" channel="iCarly.us@SD"><title>Victorious: Jade Dumps Beck</title></programme>
-<programme start="20261025164300 +0000" stop="20261025171200 +0000" channel="iCarly.us@SD"><title>Victorious: The Birthweek Song</title></programme>
-<programme start="20261025171200 +0000" stop="20261025174100 +0000" channel="iCarly.us@SD"><title>Victorious: Robarazzi</title></programme>
-<programme start="20261025174100 +0000" stop="20261025181000 +0000" channel="iCarly.us@SD"><title>Victorious: A Film by Dale Squires</title></programme>
-<programme start="20261025181000 +0000" stop="20261025183900 +0000" channel="iCarly.us@SD"><title>Victorious: Rex Dies</title></programme>
+<programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="bonappetit.us@SD"><title>Epicurious 101</title></programme>
+<programme start="20261026120000 +0000" stop="20261026130000 +0000" channel="bonappetit.us@SD"><title>Made to Order</title></programme>
+<programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="bonappetit.us@SD"><title>Made to Order</title></programme>
+<programme start="20261026140000 +0000" stop="20261026150000 +0000" channel="bonappetit.us@SD"><title>Fundamental French Cooking</title></programme>
 <programme start="20261025183900 +0000" stop="20261025190700 +0000" channel="iCarly.us@SD"><title>Victorious: The Diddly-Bops</title></programme>
 <programme start="20261025190700 +0000" stop="20261025193500 +0000" channel="iCarly.us@SD"><title>Victorious: Cat's New Boyfriend</title></programme>
 <programme start="20261025193500 +0000" stop="20261025200300 +0000" channel="iCarly.us@SD"><title>Victorious: Sleepover at Sikowitz's</title></programme>
@@ -775,14 +799,19 @@
 <programme start="20261026021700 +0000" stop="20261026034100 +0000" channel="iCarly.us@SD"><title>iCarly</title></programme>
 <programme start="20261026034100 +0000" stop="20261026043700 +0000" channel="iCarly.us@SD"><title>iCarly</title></programme>
 <programme start="20261026043700 +0000" stop="20261026050500 +0000" channel="iCarly.us@SD"><title>iCarly</title></programme>
-<programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Daily Mass</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Inspirational</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Music</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Angelus</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Pentecost</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Live: Daily Mass</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Live: Daily Mass</title></programme>
-<programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Live: Holy Hour</title></programme>
+<programme start="20261026050500 +0000" stop="20261026053300 +0000" channel="iCarly.us@SD"><title>iCarly</title></programme>
+<programme start="20261026053300 +0000" stop="20261026060100 +0000" channel="iCarly.us@SD"><title>iCarly</title></programme>
+<programme start="20261026060100 +0000" stop="20261026062900 +0000" channel="iCarly.us@SD"><title>iCarly</title></programme>
+<programme start="20261026062900 +0000" stop="20261026065700 +0000" channel="iCarly.us@SD"><title>iCarly</title></programme>
+<programme start="20261026065700 +0000" stop="20261026072500 +0000" channel="iCarly.us@SD"><title>iCarly</title></programme>
+<programme start="20261026072500 +0000" stop="20261026075200 +0000" channel="iCarly.us@SD"><title>Sam &amp; Cat</title></programme>
+<programme start="20261026075200 +0000" stop="20261026081900 +0000" channel="iCarly.us@SD"><title>Sam &amp; Cat</title></programme>
+<programme start="20261026081900 +0000" stop="20261026084600 +0000" channel="iCarly.us@SD"><title>Sam &amp; Cat</title></programme>
+<programme start="20261026084600 +0000" stop="20261026091300 +0000" channel="iCarly.us@SD"><title>Sam &amp; Cat</title></programme>
+<programme start="20261026091300 +0000" stop="20261026094000 +0000" channel="iCarly.us@SD"><title>Sam &amp; Cat</title></programme>
+<programme start="20261026094000 +0000" stop="20261026100700 +0000" channel="iCarly.us@SD"><title>Sam &amp; Cat</title></programme>
+<programme start="20261026100700 +0000" stop="20261026103400 +0000" channel="iCarly.us@SD"><title>Sam &amp; Cat</title></programme>
+<programme start="20261026103400 +0000" stop="20261026110100 +0000" channel="iCarly.us@SD"><title>Sam &amp; Cat</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Live: Divine Mercy</title></programme>
 <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>JCN Productions</title></programme>
 <programme start="20261025193000 +0000" stop="20261025203000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Living in Faith</title></programme>
@@ -799,50 +828,15 @@
 <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Holy Hour</title></programme>
 <programme start="20261026040000 +0000" stop="20261026100000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Holy Hour</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Holy Hour</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="ntv.al@SD"><title>Jesse Stirling's Meetings With Remarkable People</title></programme>
-<programme start="20261025140000 +0000" stop="20261025145000 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
-<programme start="20261025141000 +0000" stop="20261025150000 +0000" channel="ntv.al@SD"><title>Mysteriöse Phänomene – Rätsel von oben</title></programme>
-<programme start="20261025143000 +0000" stop="20261025145700 +0000" channel="ntv.al@SD"><title>Desher Khobor</title></programme>
-<programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="ntv.al@SD"><title>NTV Week in Review</title></programme>
-<programme start="20261025145000 +0000" stop="20261025145500 +0000" channel="ntv.al@SD"><title>Nasıl Azaltırım?</title></programme>
-<programme start="20261025145500 +0000" stop="20261025150000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
-<programme start="20261025145700 +0000" stop="20261025150000 +0000" channel="ntv.al@SD"><title>Adhan-e-Asr</title></programme>
-<programme start="20261025150000 +0000" stop="20261025151000 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
-<programme start="20261025150000 +0000" stop="20261025151500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
-<programme start="20261025150000 +0000" stop="20261025152500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
-<programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="ntv.al@SD"><title>Issues and Answers</title></programme>
-<programme start="20261025150000 +0000" stop="20261025163000 +0000" channel="ntv.al@SD"><title>Music Night</title></programme>
-<programme start="20261025151000 +0000" stop="20261025160000 +0000" channel="ntv.al@SD"><title>Nicht von dieser Welt</title></programme>
-<programme start="20261025151500 +0000" stop="20261025152500 +0000" channel="ntv.al@SD"><title>Spor</title></programme>
-<programme start="20261025152500 +0000" stop="20261025153000 +0000" channel="ntv.al@SD"><title>Uzman Bakışı</title></programme>
-<programme start="20261025152500 +0000" stop="20261025153500 +0000" channel="ntv.al@SD"><title>Spor</title></programme>
-<programme start="20261025153000 +0000" stop="20261025155500 +0000" channel="ntv.al@SD"><title>0'dan 100'e</title></programme>
-<programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="ntv.al@SD"><title>ప్రైమ్ టైమ్ న్యూస్</title></programme>
-<programme start="20261025153000 +0000" stop="20261025163000 +0000" channel="ntv.al@SD"><title>Question Period</title></programme>
-<programme start="20261025153500 +0000" stop="20261025154000 +0000" channel="ntv.al@SD"><title>Uzman Bakışı</title></programme>
-<programme start="20261025154000 +0000" stop="20261025155500 +0000" channel="ntv.al@SD"><title>Müze Ziyaretçisi</title></programme>
-<programme start="20261025155500 +0000" stop="20261025160000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
-<programme start="20261025160000 +0000" stop="20261025161000 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
-<programme start="20261025160000 +0000" stop="20261025161500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
-<programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="ntv.al@SD"><title>స్టోరీబోర్డ్</title></programme>
-<programme start="20261025161000 +0000" stop="20261025170000 +0000" channel="ntv.al@SD"><title>Nicht von dieser Welt</title></programme>
-<programme start="20261025161500 +0000" stop="20261025165500 +0000" channel="ntv.al@SD"><title>Anadoludakiler</title></programme>
-<programme start="20261025163000 +0000" stop="20261025165000 +0000" channel="ntv.al@SD"><title>NTV NEWS-Shondhar Khobor</title></programme>
-<programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="ntv.al@SD"><title>The West Block</title></programme>
-<programme start="20261025165000 +0000" stop="20261025170000 +0000" channel="ntv.al@SD"><title>Adhan-e-Maghrib</title></programme>
-<programme start="20261025165500 +0000" stop="20261025170000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
-<programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="ntv.al@SD"><title>Edge of Creation: Adventures in Artful Travel</title></programme>
-<programme start="20261025170000 +0000" stop="20261025175500 +0000" channel="ntv.al@SD"><title>Ana Haber</title></programme>
-<programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="ntv.al@SD"><title>Biggane Anandho</title></programme>
-<programme start="20261025175500 +0000" stop="20261025180000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
-<programme start="20261025180000 +0000" stop="20261025180500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
-<programme start="20261025180000 +0000" stop="20261025181000 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
-<programme start="20261025180000 +0000" stop="20261025181700 +0000" channel="ntv.al@SD"><title>Praner Cheye Priyo</title></programme>
-<programme start="20261025180000 +0000" stop="20261025182959 +0000" channel="ntv.al@SD"><title>మూవీ మిక్చర్</title></programme>
-<programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="ntv.al@SD"><title>Terror Nova</title></programme>
+<programme start="20261026103000 +0000" stop="20261026113000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Rosary</title></programme>
+<programme start="20261026113000 +0000" stop="20261026123000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Special Programs</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>St. Patrick Productions</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>St. Patrick Productions</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Rosary</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>St. Patrick Productions</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="iHolyfieldTV.us@WHPSCD"><title>Culture</title></programme>
 <programme start="20261025180500 +0000" stop="20261025185500 +0000" channel="ntv.al@SD"><title>Mete Çubukçu ile Pasaport</title></programme>
 <programme start="20261025181000 +0000" stop="20261025190000 +0000" channel="ntv.al@SD"><title>ntv Wissen</title></programme>
-<programme start="20261025181700 +0000" stop="20261025182200 +0000" channel="ntv.al@SD"><title>Adhan-e-Isha</title></programme>
 <programme start="20261025182200 +0000" stop="20261025190000 +0000" channel="ntv.al@SD"><title>Praner Cheye Priyo</title></programme>
 <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="ntv.al@SD"><title>Terror Nova</title></programme>
 <programme start="20261025183000 +0000" stop="20261025193000 +0000" channel="ntv.al@SD"><title>ఎన్‌టీవీ స్పెషల్</title></programme>
@@ -869,11 +863,9 @@
 <programme start="20261025215500 +0000" stop="20261025220000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
 <programme start="20261025220000 +0000" stop="20261025223000 +0000" channel="ntv.al@SD"><title>Adventures Unknown</title></programme>
 <programme start="20261025220000 +0000" stop="20261025223500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
-<programme start="20261025220000 +0000" stop="20261025224000 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
 <programme start="20261025223000 +0000" stop="20261025230000 +0000" channel="ntv.al@SD"><title>Health Explored With Mike Wahl</title></programme>
 <programme start="20261025223500 +0000" stop="20261025225500 +0000" channel="ntv.al@SD"><title>0'dan 100'e</title></programme>
 <programme start="20261025223500 +0000" stop="20261025232500 +0000" channel="ntv.al@SD"><title>Anwälte der Toten – Die schlimmsten Serienkiller der Welt</title></programme>
-<programme start="20261025224000 +0000" stop="20261025225500 +0000" channel="ntv.al@SD"><title>Müze Ziyaretçisi</title></programme>
 <programme start="20261025225500 +0000" stop="20261025230000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
 <programme start="20261025230000 +0000" stop="20261025233000 +0000" channel="ntv.al@SD"><title>ఎన్‌టీవీ స్పెషల్</title></programme>
 <programme start="20261025230000 +0000" stop="20261025235500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
@@ -896,58 +888,44 @@
 <programme start="20261026013000 +0000" stop="20261026030000 +0000" channel="ntv.al@SD"><title>Sharthopor</title></programme>
 <programme start="20261026014000 +0000" stop="20261026022500 +0000" channel="ntv.al@SD"><title>Anwälte der Toten – Die schlimmsten Serienkiller der Welt</title></programme>
 <programme start="20261026015500 +0000" stop="20261026020000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
-<programme start="20261026020000 +0000" stop="20261026021500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
 <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="ntv.al@SD"><title>Eternally Yours</title></programme>
 <programme start="20261026020000 +0000" stop="20261026025500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
-<programme start="20261026021500 +0000" stop="20261026025500 +0000" channel="ntv.al@SD"><title>Sinan Canan İle Açık Beyin</title></programme>
 <programme start="20261026022500 +0000" stop="20261026031000 +0000" channel="ntv.al@SD"><title>Anwälte der Toten – Die schlimmsten Serienkiller der Welt</title></programme>
 <programme start="20261026023000 +0000" stop="20261026030000 +0000" channel="ntv.al@SD"><title>Eternally Yours</title></programme>
 <programme start="20261026025500 +0000" stop="20261026030000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
 <programme start="20261026030000 +0000" stop="20261026033000 +0000" channel="ntv.al@SD"><title>CTV National News With Heather Butts</title></programme>
 <programme start="20261026030000 +0000" stop="20261026035000 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
-<programme start="20261026030000 +0000" stop="20261026035500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
 <programme start="20261026031000 +0000" stop="20261026035000 +0000" channel="ntv.al@SD"><title>Anwälte der Toten – Die schlimmsten Serienkiller der Welt</title></programme>
 <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="ntv.al@SD"><title>Biggane Anandho</title></programme>
 <programme start="20261026035000 +0000" stop="20261026035500 +0000" channel="ntv.al@SD"><title>Paranın Nabzı</title></programme>
 <programme start="20261026035000 +0000" stop="20261026043500 +0000" channel="ntv.al@SD"><title>Anwälte der Toten – Die schlimmsten Serienkiller der Welt</title></programme>
 <programme start="20261026035500 +0000" stop="20261026040000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
 <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="ntv.al@SD"><title>Kurulus Osman Gazi</title></programme>
-<programme start="20261026040000 +0000" stop="20261026043500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
 <programme start="20261026040000 +0000" stop="20261026063000 +0000" channel="ntv.al@SD"><title>Güne Başlarken</title></programme>
 <programme start="20261026043000 +0000" stop="20261026050000 +0000" channel="ntv.al@SD"><title>Kajins</title></programme>
 <programme start="20261026043000 +0000" stop="20261026053000 +0000" channel="ntv.al@SD"><title>48 Hours</title></programme>
-<programme start="20261026043500 +0000" stop="20261026045500 +0000" channel="ntv.al@SD"><title>Gece Gündüz</title></programme>
 <programme start="20261026043500 +0000" stop="20261026050000 +0000" channel="ntv.al@SD"><title>Auslandsreport</title></programme>
-<programme start="20261026045500 +0000" stop="20261026050000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
 <programme start="20261026050000 +0000" stop="20261026050500 +0000" channel="ntv.al@SD"><title>Praner Cheye Priyo</title></programme>
 <programme start="20261026050000 +0000" stop="20261026053000 +0000" channel="ntv.al@SD"><title>బి-అలర్ట్</title></programme>
-<programme start="20261026050000 +0000" stop="20261026055500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
 <programme start="20261026050000 +0000" stop="20261026080000 +0000" channel="ntv.al@SD"><title>Deutschland am Morgen</title></programme>
 <programme start="20261026050500 +0000" stop="20261026051000 +0000" channel="ntv.al@SD"><title>Adhan-a-Fajr</title></programme>
 <programme start="20261026051000 +0000" stop="20261026060000 +0000" channel="ntv.al@SD"><title>Praner Cheye Priyo</title></programme>
 <programme start="20261026053000 +0000" stop="20261026060000 +0000" channel="ntv.al@SD"><title>న్యూస్ ఆన్‌లైన్</title></programme>
 <programme start="20261026053000 +0000" stop="20261026063000 +0000" channel="ntv.al@SD"><title>Property Brothers: Forever Home</title></programme>
-<programme start="20261026055500 +0000" stop="20261026060000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
-<programme start="20261026060000 +0000" stop="20261026061500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
 <programme start="20261026060000 +0000" stop="20261026063000 +0000" channel="ntv.al@SD"><title>Quranul Kareem</title></programme>
-<programme start="20261026061500 +0000" stop="20261026065000 +0000" channel="ntv.al@SD"><title>Elektrik Çağı Yükleniyor</title></programme>
 <programme start="20261026063000 +0000" stop="20261026065500 +0000" channel="ntv.al@SD"><title>Geri Sayım</title></programme>
 <programme start="20261026063000 +0000" stop="20261026070000 +0000" channel="ntv.al@SD"><title>Jesse Stirling's Meetings With Remarkable People</title></programme>
-<programme start="20261026065000 +0000" stop="20261026065500 +0000" channel="ntv.al@SD"><title>Türkiye'nin Anıt Ağaçları</title></programme>
 <programme start="20261026065500 +0000" stop="20261026070000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
-<programme start="20261026070000 +0000" stop="20261026071500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
 <programme start="20261026070000 +0000" stop="20261026073000 +0000" channel="ntv.al@SD"><title>NTV Europe News</title></programme>
 <programme start="20261026070000 +0000" stop="20261026075000 +0000" channel="ntv.al@SD"><title>Haber Merkezi</title></programme>
-<programme start="20261026071500 +0000" stop="20261026075000 +0000" channel="ntv.al@SD"><title>Çevre İçin Takipte</title></programme>
 <programme start="20261026073000 +0000" stop="20261026080000 +0000" channel="ntv.al@SD"><title>30 X 60</title></programme>
 <programme start="20261026073000 +0000" stop="20261026083000 +0000" channel="ntv.al@SD"><title>Scenes of Newfoundland</title></programme>
-<programme start="20261026075000 +0000" stop="20261026075500 +0000" channel="ntv.al@SD"><title>Nasıl Azaltırım?</title></programme>
+<programme start="20261026075000 +0000" stop="20261026075500 +0000" channel="ntv.al@SD"><title>Paranın Nabzı</title></programme>
 <programme start="20261026075500 +0000" stop="20261026080000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
-<programme start="20261026080000 +0000" stop="20261026081500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
+<programme start="20261026080000 +0000" stop="20261026081500 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
 <programme start="20261026080000 +0000" stop="20261026082500 +0000" channel="ntv.al@SD"><title>Haber Merkezi</title></programme>
 <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="ntv.al@SD"><title>NTV NEWS- Sokaler Khobor</title></programme>
 <programme start="20261026081500 +0000" stop="20261026083000 +0000" channel="ntv.al@SD"><title>ntv Wirtschaft</title></programme>
-<programme start="20261026081500 +0000" stop="20261026085500 +0000" channel="ntv.al@SD"><title>Birol Güven İle Beyaz Perde</title></programme>
 <programme start="20261026082500 +0000" stop="20261026083000 +0000" channel="ntv.al@SD"><title>Piyasalar</title></programme>
 <programme start="20261026083000 +0000" stop="20261026084000 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
 <programme start="20261026083000 +0000" stop="20261026084500 +0000" channel="ntv.al@SD"><title>Yeşil Ekran</title></programme>
@@ -956,29 +934,68 @@
 <programme start="20261026084000 +0000" stop="20261026090000 +0000" channel="ntv.al@SD"><title>ntv Wirtschaft</title></programme>
 <programme start="20261026084500 +0000" stop="20261026085500 +0000" channel="ntv.al@SD"><title>Spor</title></programme>
 <programme start="20261026085500 +0000" stop="20261026090000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
-<programme start="20261026090000 +0000" stop="20261026091500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
+<programme start="20261026090000 +0000" stop="20261026091500 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
 <programme start="20261026090000 +0000" stop="20261026092000 +0000" channel="ntv.al@SD"><title>Haber Merkezi</title></programme>
 <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="ntv.al@SD"><title>NTV Early Morning News</title></programme>
 <programme start="20261026091500 +0000" stop="20261026093000 +0000" channel="ntv.al@SD"><title>ntv Wirtschaft</title></programme>
-<programme start="20261026091500 +0000" stop="20261026094500 +0000" channel="ntv.al@SD"><title>Anadoludakiler</title></programme>
 <programme start="20261026092000 +0000" stop="20261026092500 +0000" channel="ntv.al@SD"><title>Piyasalar</title></programme>
 <programme start="20261026092500 +0000" stop="20261026093000 +0000" channel="ntv.al@SD"><title>Nasıl Azaltırım?</title></programme>
 <programme start="20261026093000 +0000" stop="20261026094000 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
 <programme start="20261026093000 +0000" stop="20261026095000 +0000" channel="ntv.al@SD"><title>Piyasa Ekranı</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="ntv.al@SD"><title>NTV Entertainment News</title></programme>
 <programme start="20261026094000 +0000" stop="20261026100000 +0000" channel="ntv.al@SD"><title>ntv Wirtschaft</title></programme>
-<programme start="20261026094500 +0000" stop="20261026095500 +0000" channel="ntv.al@SD"><title>Spor</title></programme>
 <programme start="20261026095000 +0000" stop="20261026095500 +0000" channel="ntv.al@SD"><title>Paranın Nabzı</title></programme>
 <programme start="20261026095500 +0000" stop="20261026100000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
 <programme start="20261026100000 +0000" stop="20261026101500 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="ntv.al@SD"><title>ఫోకస్</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103500 +0000" channel="ntv.al@SD"><title>Öğle Bülteni</title></programme>
-<programme start="20261026100000 +0000" stop="20261026105500 +0000" channel="ntv.al@SD"><title>Haber Bülteni</title></programme>
 <programme start="20261026100000 +0000" stop="20261026110000 +0000" channel="ntv.al@SD"><title>Live: CTV Your Morning</title></programme>
 <programme start="20261026101500 +0000" stop="20261026103000 +0000" channel="ntv.al@SD"><title>ntv Wirtschaft</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
-<programme start="20261025143000 +0000" stop="20261025164500 +0000" channel="truTV.us@East"><title>Meg 2: The Trench</title></programme>
-<programme start="20261025164500 +0000" stop="20261025184500 +0000" channel="truTV.us@East"><title>Jaws the Revenge</title></programme>
+<programme start="20261026103000 +0000" stop="20261026104000 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="ntv.al@SD"><title>న్యూస్ ఆన్‌లైన్</title></programme>
+<programme start="20261026103500 +0000" stop="20261026104000 +0000" channel="ntv.al@SD"><title>Piyasalar</title></programme>
+<programme start="20261026104000 +0000" stop="20261026105500 +0000" channel="ntv.al@SD"><title>COP31'e Geri Sayım</title></programme>
+<programme start="20261026104000 +0000" stop="20261026110000 +0000" channel="ntv.al@SD"><title>ntv Wirtschaft</title></programme>
+<programme start="20261026105500 +0000" stop="20261026110000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
+<programme start="20261026110000 +0000" stop="20261026111500 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="ntv.al@SD"><title>NTV NEWS-Dupurer Khobor</title></programme>
+<programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="ntv.al@SD"><title>Live: CTV Your Morning</title></programme>
+<programme start="20261026111500 +0000" stop="20261026112000 +0000" channel="ntv.al@SD"><title>Piyasalar</title></programme>
+<programme start="20261026111500 +0000" stop="20261026113000 +0000" channel="ntv.al@SD"><title>ntv Wirtschaft</title></programme>
+<programme start="20261026112000 +0000" stop="20261026113000 +0000" channel="ntv.al@SD"><title>Spor</title></programme>
+<programme start="20261026113000 +0000" stop="20261026115000 +0000" channel="ntv.al@SD"><title>Finans Kafe</title></programme>
+<programme start="20261026113000 +0000" stop="20261026115400 +0000" channel="ntv.al@SD"><title>Valobashar LaL Golap</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="ntv.al@SD"><title>News Spezial</title></programme>
+<programme start="20261026115000 +0000" stop="20261026115500 +0000" channel="ntv.al@SD"><title>Paranın Nabzı</title></programme>
+<programme start="20261026115400 +0000" stop="20261026115900 +0000" channel="ntv.al@SD"><title>Adhan-e-Zuhr</title></programme>
+<programme start="20261026115500 +0000" stop="20261026120000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
+<programme start="20261026115900 +0000" stop="20261026130000 +0000" channel="ntv.al@SD"><title>Valobashar LaL Golap</title></programme>
+<programme start="20261026120000 +0000" stop="20261026121500 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
+<programme start="20261026120000 +0000" stop="20261026122500 +0000" channel="ntv.al@SD"><title>Öğle Bülteni</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="ntv.al@SD"><title>రీజినల్ ఎడిషన్</title></programme>
+<programme start="20261026120000 +0000" stop="20261026130000 +0000" channel="ntv.al@SD"><title>Live: CTV Your Morning</title></programme>
+<programme start="20261026121500 +0000" stop="20261026123000 +0000" channel="ntv.al@SD"><title>ntv Wirtschaft</title></programme>
+<programme start="20261026122500 +0000" stop="20261026123000 +0000" channel="ntv.al@SD"><title>Paranın Nabzı</title></programme>
+<programme start="20261026123000 +0000" stop="20261026125000 +0000" channel="ntv.al@SD"><title>Bakış</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="ntv.al@SD"><title>News Spezial</title></programme>
+<programme start="20261026125000 +0000" stop="20261026125500 +0000" channel="ntv.al@SD"><title>Nasıl Azaltırım?</title></programme>
+<programme start="20261026125500 +0000" stop="20261026130000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
+<programme start="20261026130000 +0000" stop="20261026130500 +0000" channel="ntv.al@SD"><title>Günün İçinden</title></programme>
+<programme start="20261026130000 +0000" stop="20261026131500 +0000" channel="ntv.al@SD"><title>Nachrichten</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="ntv.al@SD"><title>NTV Filler Programme</title></programme>
+<programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="ntv.al@SD"><title>The Morning Show</title></programme>
+<programme start="20261026130500 +0000" stop="20261026131000 +0000" channel="ntv.al@SD"><title>Piyasalar</title></programme>
+<programme start="20261026131000 +0000" stop="20261026135500 +0000" channel="ntv.al@SD"><title>Derbi Özel</title></programme>
+<programme start="20261026131500 +0000" stop="20261026133000 +0000" channel="ntv.al@SD"><title>ntv Wirtschaft</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="ntv.al@SD"><title>Desher Khobor</title></programme>
+<programme start="20261026135500 +0000" stop="20261026140000 +0000" channel="ntv.al@SD"><title>Hava Durumu</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="ntv.al@SD"><title>100 Huntley Street</title></programme>
+<programme start="20261026140000 +0000" stop="20261026153000 +0000" channel="ntv.al@SD"><title>Meye</title></programme>
+<programme start="20261026143000 +0000" stop="20261026143500 +0000" channel="ntv.al@SD"><title>Paranın Nabzı</title></programme>
+<programme start="20261026143000 +0000" stop="20261026144000 +0000" channel="ntv.al@SD"><title>ntv Wirtschaft</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="ntv.al@SD"><title>NTV Newsday</title></programme>
+<programme start="20261026143500 +0000" stop="20261026145500 +0000" channel="ntv.al@SD"><title>Gece Gündüz</title></programme>
+<programme start="20261026144000 +0000" stop="20261026150000 +0000" channel="ntv.al@SD"><title>ntv Startup</title></programme>
 <programme start="20261025184500 +0000" stop="20261025223000 +0000" channel="truTV.us@East"><title>The Batman</title></programme>
 <programme start="20261025223000 +0000" stop="20261025230000 +0000" channel="truTV.us@East"><title>Live: NHL on TNT Face Off</title></programme>
 <programme start="20261025230000 +0000" stop="20261026020000 +0000" channel="truTV.us@East"><title>Live: NHL Hockey</title></programme>
@@ -997,9 +1014,15 @@
 <programme start="20261026080000 +0000" stop="20261026090000 +0000" channel="truTV.us@East"><title>Paid Programming</title></programme>
 <programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="truTV.us@East"><title>Paid Programming</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
-<programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
-<programme start="20261025143000 +0000" stop="20261025164500 +0000" channel="truTV.us@West"><title>Meg 2: The Trench</title></programme>
-<programme start="20261025164500 +0000" stop="20261025184500 +0000" channel="truTV.us@West"><title>Jaws the Revenge</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="truTV.us@East"><title>Impractical Jokers</title></programme>
 <programme start="20261025184500 +0000" stop="20261025223000 +0000" channel="truTV.us@West"><title>The Batman</title></programme>
 <programme start="20261025223000 +0000" stop="20261025230000 +0000" channel="truTV.us@West"><title>Live: NHL on TNT Face Off</title></programme>
 <programme start="20261025230000 +0000" stop="20261026020000 +0000" channel="truTV.us@West"><title>Live: NHL Hockey</title></programme>
@@ -1022,4 +1045,15 @@
 <programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="truTV.us@West"><title>Paid Programming</title></programme>
 <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
 <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
+<programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
+<programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="truTV.us@West"><title>Paid Programming</title></programme>
+<programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
+<programme start="20261026120000 +0000" stop="20261026130000 +0000" channel="truTV.us@West"><title>Paid Programming</title></programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
+<programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
+<programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
+<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
+<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="truTV.us@West"><title>Impractical Jokers</title></programme>
 </tv>
