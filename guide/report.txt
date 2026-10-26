@@ -1,8 +1,8 @@
-COVERAGE: 1004 of 2419 channels have a guide (42%)
+COVERAGE: 1002 of 2419 channels have a guide (41%)
 
 BY COUNTRY (code: with guide / total)
-  us     704 / 1439  49%
-  in     145 / 267   54%
+  us     703 / 1439  49%
+  in     144 / 267   54%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               325 / 1030  32%
+  News               324 / 1030  31%
   General            117 / 285   41%
   Entertainment       78 / 132   59%
   Religious           18 / 130   14%
@@ -49,12 +49,12 @@ BY CATEGORY
   Business             7 / 22    32%
   Shop                 7 / 18    39%
   Outdoor              7 / 16    44%
-  Cooking              9 / 14    64%
+  Cooking              8 / 14    57%
   Travel               5 / 12    42%
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1004)
+WITH GUIDE (1002)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -107,7 +107,6 @@ WITH GUIDE (1004)
   ABP Asmita (1080p)   [ABPAsmita.in@SD]
   ABP Ganga (1080p)   [ABPGanga.in@SD]
   ABP Majha (576p)   [ABPMajha.in@SD]
-  ABP News (1080p)   [ABPNews.in@SD]
   Acapulco Shore US   [AcapulcoShore.us@US]
   ACC Digital Network (1080p)   [ACCDigitalNetwork.us@SD]
   ACC Network (720p)   [ACCNetwork.us@SD]
@@ -215,7 +214,6 @@ WITH GUIDE (1004)
   Bloomberg Originals SD (1080p)   [BloombergOriginals.us@SD]
   Bloomberg TV (1080p)   [BloombergTV.us@US]
   Blue Bloods   [BlueBloods.us@SD]
-  bon appetit (1080p)   [bonappetit.us@SD]
   Bonanza   [Bonanza.us@SD]
   Boomerang (720p)   [Boomerang.us@SD]
   Bounce (720p)   [Bounce.us@SD]
@@ -1060,7 +1058,7 @@ WITH GUIDE (1004)
   Zee Rajasthan (720p)   [ZeeRajasthan.in@SD]
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
 
-NO GUIDE (1415)
+NO GUIDE (1417)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1135,6 +1133,7 @@ NO GUIDE (1415)
   ABN News (1080p)   [ABNNews.pk@SD]
   ABN TV India (540p)   [ABNTVIndia.us@SD]
   ABN Urdu (540p)   [ABNUrdu.us@SD]
+  ABP News (1080p)   [ABPNews.in@SD]
   Absolute Reality by WE TV   [AbsoluteRealitybyWETV.us@SD]
   Access 19   [Access19.us@SD]
   Access 4 PAC   [Access4PAC.us@SD]
@@ -1324,6 +1323,7 @@ NO GUIDE (1415)
   BM&C News (720p)   [BMCNews.br@SD]
   BMC-HD TV (720p)   [BMCHDTV.us@SD]
   BN Channel (1080p)   [BNChannel.id@SD]
+  bon appetit (1080p)   [bonappetit.us@SD]
   Botflix Radioo (1080p)   [BotflixRadioo.us@HD]
   Botflix TV (1080p)   [BotflixTV.us@HD]
   BPTV (360p)   [BPTV.us@SD]
