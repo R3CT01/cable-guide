@@ -1,9 +1,9 @@
-COVERAGE: 1002 of 2417 channels have a guide (41%)
+COVERAGE: 1004 of 2419 channels have a guide (42%)
 
 BY COUNTRY (code: with guide / total)
-  us     703 / 1438  49%
+  us     704 / 1439  49%
   in     145 / 267   54%
-  fr      24 / 40    60%
+  fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
   ru       6 / 26    23%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               324 / 1029  31%
+  News               325 / 1030  32%
   General            117 / 285   41%
   Entertainment       78 / 132   59%
   Religious           18 / 130   14%
@@ -37,7 +37,7 @@ BY CATEGORY
   Undefined           56 / 110   51%
   Legislative          2 / 93    2%
   Sports              46 / 72    64%
-  Kids                37 / 67    55%
+  Kids                38 / 68    56%
   Music               29 / 65    45%
   Education           14 / 57    25%
   Documentary         32 / 44    73%
@@ -54,7 +54,7 @@ BY CATEGORY
   Family               7 / 9     78%
   Auto                 4 / 8     50%
 
-WITH GUIDE (1002)
+WITH GUIDE (1004)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -340,6 +340,7 @@ WITH GUIDE (1002)
   Discovery Channel (United States) (1080p) [Geo-blocked]   [DiscoveryChannel.us@East]
   Discovery Turbo (United States) (720p)   [DiscoveryTurbo.us@SD]
   Disney Junior (United States) (480p)   [DisneyJunior.us@East]
+  Disney XD (United States) (1080p)   [DisneyXD.us@East]
   Doctor Who Classic (1080p)   [DoctorWhoClassic.us@US]
   Documentary+ (1080p)   [DocumentaryPlus.us@US]
   Dog the Bounty Hunter (1080p)   [DogtheBountyHunter.us@US]
@@ -543,6 +544,7 @@ WITH GUIDE (1002)
   Laff (576p)   [Laff.us@SD]
   LATV (1080p) [Geo-blocked]   [LATV.us@SD]
   Law & Crime (720p)   [LawCrime.us@SD]
+  LCI   [LCI.fr@SD]
   LCI HD (1080p)   [LCI.fr@HD]
   LEGO Kids TV   [LEGOKidsTV.us@SD]
   Little Stars Universe   [LittleStarsUniverse.us@SD]
