@@ -1,7 +1,7 @@
-COVERAGE: 1045 of 2439 channels have a guide (43%)
+COVERAGE: 1044 of 2439 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     717 / 1450  49%
+  us     716 / 1450  49%
   in     172 / 277   62%
   fr      25 / 41    61%
   pk       1 / 32    3%
@@ -28,9 +28,9 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               358 / 1039  34%
+  News               357 / 1039  34%
   General            118 / 286   41%
-  Entertainment       81 / 135   60%
+  Entertainment       80 / 135   59%
   Religious           18 / 130   14%
   Series             106 / 124   85%
   Movies              82 / 114   72%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1045)
+WITH GUIDE (1044)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -474,7 +474,6 @@ WITH GUIDE (1045)
   HLN (720p)   [HLN.us@SD]
   HNN 24x7 (576p)   [HNN24x7.in@SD]
   Hogan's Heroes   [HogansHeroes.us@SD]
-  HollyWire (720p)   [HollyWire.us@SD]
   Home.Made.Nation (720p)   [HomeMadeNation.us@SD]
   Homeful US (1080p)   [Homeful.ca@US]
   Hornbill TV (576p)   [HornbillTV.in@SD]
@@ -1101,7 +1100,7 @@ WITH GUIDE (1045)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1394)
+NO GUIDE (1395)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1721,6 +1720,7 @@ NO GUIDE (1394)
   Hmong Star TV (720p) [Not 24/7]   [HmongStarTV.us@SD]
   Hmong TV Network (720p)   [HmongTVNetwork.us@SD]
   HMTV (India) (720p)   [HMTV.in@SD]
+  HollyWire (720p)   [HollyWire.us@SD]
   Hope Channel Inter-America   [HopeChannelInterAmerica.us@SD]
   Hope Channel Inter-America English (1080p)   [HopeChannelInterAmericaEnglish.us@SD]
   Hope Channel International (1080p)   [HopeChannelInternational.us@SD]
