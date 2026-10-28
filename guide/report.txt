@@ -1,8 +1,8 @@
-COVERAGE: 1044 of 2439 channels have a guide (43%)
+COVERAGE: 1043 of 2439 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
   us     716 / 1450  49%
-  in     172 / 277   62%
+  in     171 / 277   62%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               357 / 1039  34%
+  News               356 / 1039  34%
   General            118 / 286   41%
   Entertainment       80 / 135   59%
   Religious           18 / 130   14%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1044)
+WITH GUIDE (1043)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -800,7 +800,6 @@ WITH GUIDE (1044)
   PowerNation TV (1080p)   [PowerNationTV.us@SD]
   Prag News (576p)   [PragNews.in@SD]
   Prameya News7 (576p)   [PrameyaNews7.in@SD]
-  Pratham Khabar 24x7 (576p)   [PrathamKhabar24x7.in@SD]
   Pratidin Time (576p)   [PratidinTime.in@SD]
   Prima News   [PrimaNews.ro@SD]
   Prime News (1080p)   [PrimeNews.in@SD]
@@ -1100,7 +1099,7 @@ WITH GUIDE (1044)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1395)
+NO GUIDE (1396)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -2113,6 +2112,7 @@ NO GUIDE (1395)
   Popstar! TV (1080p) [Not 24/7]   [PopstarTV.us@SD]
   Potta-Divine TV USA (480p)   [PottaDivineTVUSA.us@SD]
   Pradesh24 Gujarati (1080p)   [Pradesh24Gujarati.in@SD]
+  Pratham Khabar 24x7 (576p)   [PrathamKhabar24x7.in@SD]
   Pratham News (576p)   [PrathamNews.in@SD]
   Prensa Latina TV (1080p)   [PrensaLatinaTV.cu@SD]
   Press TV (720p)   [PressTV.ir@SD]
