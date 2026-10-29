@@ -1,8 +1,8 @@
-COVERAGE: 1043 of 2439 channels have a guide (43%)
+COVERAGE: 1050 of 2447 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     716 / 1450  49%
-  in     171 / 277   62%
+  us     718 / 1448  50%
+  in     176 / 286   62%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -18,9 +18,9 @@ BY COUNTRY (code: with guide / total)
   cl       0 / 15    0%
   de       7 / 14    50%
   iq       1 / 14    7%
+  ro       8 / 14    57%
   gr       5 / 13    38%
   ar       2 / 13    15%
-  ro       8 / 13    62%
   pe       2 / 13    15%
   au       3 / 11    27%
   qa       4 / 11    36%
@@ -28,16 +28,16 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               356 / 1039  34%
-  General            118 / 286   41%
-  Entertainment       80 / 135   59%
+  News               362 / 1049  35%
+  General            119 / 287   41%
+  Entertainment       81 / 135   60%
   Religious           18 / 130   14%
   Series             106 / 124   85%
   Movies              82 / 114   72%
   Undefined           58 / 112   52%
   Legislative          2 / 93    2%
-  Sports              46 / 73    63%
-  Kids                38 / 68    56%
+  Sports              46 / 72    64%
+  Kids                38 / 66    58%
   Music               29 / 65    45%
   Education           14 / 57    25%
   Documentary         32 / 44    73%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1043)
+WITH GUIDE (1050)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -108,6 +108,7 @@ WITH GUIDE (1043)
   ABP Ganga (1080p)   [ABPGanga.in@SD]
   ABP Majha (576p)   [ABPMajha.in@SD]
   ABP News (1080p)   [ABPNews.in@SD]
+  ABP Sanjha (576p)   [ABPSanjha.in@SD]
   Acapulco Shore US   [AcapulcoShore.us@US]
   ACC Digital Network (1080p)   [ACCDigitalNetwork.us@SD]
   ACC Network (720p)   [ACCNetwork.us@SD]
@@ -151,7 +152,7 @@ WITH GUIDE (1043)
   Asian News (1080p)   [AsianNews.in@SD]
   AsianCrush (1080p)   [AsianCrush.us@SD]
   Asianet News (1080p)   [AsianetNews.in@SD]
-  Asianet Suvarna News (1080p) [Not 24/7]   [AsianetSuvarnaNews.in@SD]
+  Asianet Suvarna News (576p)   [AsianetSuvarnaNews.in@SD]
   Assam Talks (576p)   [AssamTalks.in@SD]
   Astra TV (1080p)   [AstraTV.gr@SD]
   At Home with Family Handyman (720p)   [AtHomewithFamilyHandyman.us@SD]
@@ -453,6 +454,7 @@ WITH GUIDE (1043)
   Grit Xtra (1080p)   [GritXtra.us@SD]
   Grjngo Western Movies (720p)   [GrjngoWesternMovies.de@SD]
   GS TV (576p)   [GSTV.in@SD]
+  Gulistan News (576p)   [GulistanNews.in@SD]
   Gunsmoke   [Gunsmoke.us@SD]
   Haber Global (720p) [Not 24/7]   [HaberGlobal.tr@SD]
   Halk TV SD (1080p)   [HalkTV.tr@SD]
@@ -474,6 +476,7 @@ WITH GUIDE (1043)
   HLN (720p)   [HLN.us@SD]
   HNN 24x7 (576p)   [HNN24x7.in@SD]
   Hogan's Heroes   [HogansHeroes.us@SD]
+  HollyWire (720p)   [HollyWire.us@SD]
   Home.Made.Nation (720p)   [HomeMadeNation.us@SD]
   Homeful US (1080p)   [Homeful.ca@US]
   Hornbill TV (576p)   [HornbillTV.in@SD]
@@ -494,13 +497,15 @@ WITH GUIDE (1043)
   Ind 24 (720p)   [Ind24.in@SD]
   India Daily Live (1080p)   [IndiaDailyLive.in@SD]
   India News (576p)   [IndiaNews.in@SD]
+  India News Haryana (576p)   [IndiaNewsHaryana.in@SD]
+  India News Rajasthan (576p)   [IndiaNewsRajasthan.in@SD]
   India Today (720p)   [IndiaToday.in@SD]
   India TV (720p)   [IndiaTV.in@SD]
   India TV Speed News (1080p)   [IndiaTVSpeedNews.in@HD]
   India Voice (576p)   [IndiaVoice.in@SD]
   INews (720p)   [INews.in@SD]
   INFAST (1080p)   [INFAST.nl@SD]
-  INH 24x7 (396p)   [INH24x7.in@SD]
+  INH 24x7 (576p)   [INH24x7.in@SD]
   Ink Master   [InkMaster.us@SD]
   INSP (720p)   [INSP.us@SD]
   Investiga US   [Investiga.us@US]
@@ -645,6 +650,7 @@ WITH GUIDE (1043)
   NBC WHEC-TV (1080p)   [NBC.us@WHECTV]
   NBC WJAC-TV (1080p)   [NBC.us@WJACTV]
   NBC WJAR (1080p)   [NBC.us@WJAR]
+  NBC WKYC (1080p)   [NBC.us@WKYC]
   NBC WLIO (720p) [Not 24/7]   [NBC.us@WLIO]
   NBC WMAQ-TV (1080p)   [NBC.us@WMAQTV]
   NBC WMGT-TV (720p)   [NBC.us@WMGTTV]
@@ -892,6 +898,7 @@ WITH GUIDE (1043)
   Stories by AMC   [StoriesbyAMC.us@SD]
   Story Television KPVM-LD   [StoryTelevision.us@KPVMLD]
   Story Television WCIU-TV   [StoryTelevision.us@WCIUTV]
+  STV Haryana News (576p)   [STVHaryanaNews.in@SD]
   Sudarshan News (1080p)   [SudarshanNews.in@SD]
   SUMtv Latino (1080p)   [SUMtvLatino.us@SD]
   Super Simple Songs (1080p)   [SuperSimpleSongs.us@SD]
@@ -1099,7 +1106,7 @@ WITH GUIDE (1043)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1396)
+NO GUIDE (1397)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1276,6 +1283,7 @@ NO GUIDE (1396)
   Anger Management Channel (1080p)   [AngerManagementChannel.us@SD]
   Animation+ (1080p) [Geo-blocked]   [AnimationPlus.us@SD]
   Anshun Comprehensive News Channel   [AnshunComprehensiveNewsChannel.cn@SD]
+  Antena 3 Constanta (576p)   [Antena3Constanta.ro@SD]
   Antik Info TV (1080p)   [AntikInfoTV.sk@HD]
   Anwar TV2 (720p)   [AnwarTV2.iq@SD]
   APA Tv (1080p)   [APATv.az@SD]
@@ -1542,7 +1550,7 @@ NO GUIDE (1396)
   DBC News (480p)   [DBCNews.bd@SD]
   DC Council Hearing Room 120 (1080p)   [DCCouncilHearingRoom120.us@SD]
   DCC (1080p)   [DCC.us@SD]
-  DD Mizoram (504p)   [DDMizoram.in@SD]
+  DD Mizoram (576p)   [DDMizoram.in@SD]
   De Pelicula US (720p)   [DePeliculaUS.us@SD]
   De Ultimo Minuto TV   [DeUltimoMinutoTV.do@SD]
   Dega TV (720p) [Not 24/7]   [DegaTV.us@SD]
@@ -1603,7 +1611,6 @@ NO GUIDE (1396)
   ESNE TV (1080p)   [ESNETV.us@SD]
   Espace TV (1080p)   [EspaceTV.gn@SD]
   Espreso TV (1080p)   [EspresoTV.ua@SD]
-  ESTV (United States) (720p)   [ESTV.us@SD]
   Etna Espresso Channel (720p)   [EtnaEspressoChannel.it@SD]
   eTv Marche (720p)   [eTvMarche.it@SD]
   ETV News (1080p)   [ETVNews.in@HD]
@@ -1719,7 +1726,6 @@ NO GUIDE (1396)
   Hmong Star TV (720p) [Not 24/7]   [HmongStarTV.us@SD]
   Hmong TV Network (720p)   [HmongTVNetwork.us@SD]
   HMTV (India) (720p)   [HMTV.in@SD]
-  HollyWire (720p)   [HollyWire.us@SD]
   Hope Channel Inter-America   [HopeChannelInterAmerica.us@SD]
   Hope Channel Inter-America English (1080p)   [HopeChannelInterAmericaEnglish.us@SD]
   Hope Channel International (1080p)   [HopeChannelInternational.us@SD]
@@ -1743,7 +1749,10 @@ NO GUIDE (1396)
   Iman TV (480p)   [ImanTV.us@SD]
   In the Kitchen (720p)   [IntheKitchen.us@SD]
   India Ahead (576p)   [IndiaAhead.in@SD]
+  India News Gujarati (576p)   [IndiaNewsGujarati.in@SD]
+  India News Madhya Pradesh/Chhattisgarh (576p)   [IndiaNewsMadhyaPradeshChhattisgarh.in@SD]
   India News Punjab/Himachal (576p)   [IndiaNewsPunjabHimachal.in@SD]
+  India News Uttar Pradesh (576p)   [IndiaNewsUttarPradesh.in@SD]
   Indywood TV (720p)   [IndywoodTV.in@SD]
   Info TV (1080p)   [InfoTV.lt@SD]
   Informatia TV   [InformatiaTV.ro@SD]
@@ -1951,6 +1960,7 @@ NO GUIDE (1396)
   Nation News (720p)   [NationNews.in@SD]
   Nation TV   [NationTV.th@SD]
   National Iranian Congress TV   [NationalIranianCongressTV.us@SD]
+  Naxatra News (576p)   [NaxatraNews.in@SD]
   NBC (1080p)   [NBC.us@East]
   NBC West (720p)   [NBC.us@West]
   NBCLX (1080p)   [NBCLX.us@SD]
@@ -2200,9 +2210,7 @@ NO GUIDE (1396)
   RVTV Grants Pass (720p)   [RVTVGrantsPass.us@SD]
   RVTV Prime (720p)   [RVTVPrime.us@SD]
   RVTV Voices (720p)   [RVTVVoices.us@SD]
-  S Corby TV (480p)   [SCorbyTV.us@HD]
   S Metro TV (360p)   [SMetroTV.us@HD]
-  S Play Event (1080p)   [SPlayEvent.us@HD]
   SABC Lehae [Geo-blocked]   [SABCLehae.za@SD]
   SABC News (720p) [Geo-blocked]   [SABCNews.za@SD]
   Sadhna News Madhya Pradesh/Chhattisgarh (576p)   [SadhnaNewsMadhyaPradeshChhattisgarh.in@SD]
