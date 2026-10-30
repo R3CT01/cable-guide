@@ -1,7 +1,7 @@
-COVERAGE: 1050 of 2447 channels have a guide (43%)
+COVERAGE: 1051 of 2449 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     718 / 1448  50%
+  us     719 / 1448  50%
   in     176 / 286   62%
   fr      25 / 41    61%
   pk       1 / 32    3%
@@ -11,7 +11,7 @@ BY COUNTRY (code: with guide / total)
   uk      14 / 23    61%
   ua       3 / 23    13%
   tr      13 / 23    57%
-  cn       1 / 22    5%
+  cn       1 / 23    4%
   it       4 / 19    21%
   do       1 / 18    6%
   ca       5 / 17    29%
@@ -28,15 +28,15 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               362 / 1049  35%
-  General            119 / 287   41%
-  Entertainment       81 / 135   60%
+  News               362 / 1051  34%
+  General            119 / 286   42%
+  Entertainment       81 / 134   60%
   Religious           18 / 130   14%
   Series             106 / 124   85%
-  Movies              82 / 114   72%
+  Movies              82 / 115   71%
   Undefined           58 / 112   52%
   Legislative          2 / 93    2%
-  Sports              46 / 72    64%
+  Sports              47 / 73    64%
   Kids                38 / 66    58%
   Music               29 / 65    45%
   Education           14 / 57    25%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1050)
+WITH GUIDE (1051)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -464,6 +464,7 @@ WITH GUIDE (1050)
   HappyKids (1080p)   [HappyKids.us@SD]
   Hasbro Legends (1080p) [Geo-blocked]   [HasbroLegends.us@SD]
   HauntTV (1080p)   [HauntTV.ca@SD]
+  HBCU-GO Sports (720p)   [HBCUGOSports.us@SD]
   HBO (United States) (720p)   [HBO.us@East]
   HBO Hits (720p)   [HBOHits.us@East]
   Heartland (720p)   [Heartland.us@Eastern]
@@ -1106,7 +1107,7 @@ WITH GUIDE (1050)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1397)
+NO GUIDE (1398)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1770,6 +1771,7 @@ NO GUIDE (1397)
   Jewelry TV (720p)   [JewelryTV.us@SD]
   Jewelry TV 2 (720p)   [JewelryTV2.us@SD]
   Jewish Life Television (1080p)   [JewishLifeTelevision.us@SD]
+  Jingmen Comprehensive News Channel   [JingmenComprehensiveNewsChannel.cn@SD]
   Jiuquan TV News Comprehensive Channel (576p)   [JiuquanTVNewsComprehensiveChannel.cn@SD]
   JKN 18 (1080p)   [JKN18.th@SD]
   Jus Hindi (1080p)   [JusHindi.us@SD]
@@ -1904,7 +1906,6 @@ NO GUIDE (1397)
   Merit Street (1080p)   [MeritStreet.us@SD]
   Metaleitor TV   [MetaleitorTV.us@SD]
   Metro1 News (576p)   [Metro1News.pk@SD]
-  MeTV (720p)   [MeTV.us@SD]
   Mh 1 News (576p)   [Mh1News.in@SD]
   Midpen Media Center Channel 26 (720p)   [MidpenMediaCenterChannel26.us@SD]
   Midpen Media Center Channel 28 (720p)   [MidpenMediaCenterChannel28.us@SD]
@@ -2210,7 +2211,6 @@ NO GUIDE (1397)
   RVTV Grants Pass (720p)   [RVTVGrantsPass.us@SD]
   RVTV Prime (720p)   [RVTVPrime.us@SD]
   RVTV Voices (720p)   [RVTVVoices.us@SD]
-  S Metro TV (360p)   [SMetroTV.us@HD]
   SABC Lehae [Geo-blocked]   [SABCLehae.za@SD]
   SABC News (720p) [Geo-blocked]   [SABCNews.za@SD]
   Sadhna News Madhya Pradesh/Chhattisgarh (576p)   [SadhnaNewsMadhyaPradeshChhattisgarh.in@SD]
@@ -2260,6 +2260,7 @@ NO GUIDE (1397)
   SNN TV [Not 24/7]   [SNNTV.ir@SD]
   Sochi24 (720p)   [Sochi24.ru@SD]
   Sony Canal Novelas   [SonyCanalNovelas.us@SD]
+  Sony Movies (United States) (720p)   [SonyMovies.us@SD]
   Sound View Community Media (480p)   [SoundViewCommunityMedia.us@SD]
   Spirit TV (720p) [Not 24/7]   [SpiritTV.us@SD]
   SPTV (360p)   [SPTV.us@SD]
@@ -2360,6 +2361,7 @@ NO GUIDE (1397)
   TSN TeleSondrio News (480p) [Not 24/7]   [TSNTeleSondrioNews.it@SD]
   TSTV (720p)   [TSTV.us@SD]
   TTN24 (720p)   [TTN24.in@SD]
+  TTV News   [TTVNews.tw@SD]
   Turismo HD (720p)   [TurismoHD.do@HD]
   Turno (720p)   [Turno.cl@SD]
   TUTV (1080p)   [TUTV.us@SD]
