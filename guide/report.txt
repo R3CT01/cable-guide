@@ -1,26 +1,26 @@
-COVERAGE: 1051 of 2449 channels have a guide (43%)
+COVERAGE: 1052 of 2447 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     719 / 1448  50%
+  us     719 / 1447  50%
   in     176 / 286   62%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
   ru       6 / 26    23%
+  uk      15 / 24    62%
   es       2 / 24    8%
-  uk      14 / 23    61%
   ua       3 / 23    13%
   tr      13 / 23    57%
   cn       1 / 23    4%
   it       4 / 19    21%
   do       1 / 18    6%
   ca       5 / 17    29%
-  cl       0 / 15    0%
   de       7 / 14    50%
   iq       1 / 14    7%
   ro       8 / 14    57%
   gr       5 / 13    38%
   ar       2 / 13    15%
+  cl       0 / 13    0%
   pe       2 / 13    15%
   au       3 / 11    27%
   qa       4 / 11    36%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               362 / 1051  34%
+  News               362 / 1048  35%
   General            119 / 286   42%
   Entertainment       81 / 134   60%
   Religious           18 / 130   14%
@@ -36,7 +36,7 @@ BY CATEGORY
   Movies              82 / 115   71%
   Undefined           58 / 112   52%
   Legislative          2 / 93    2%
-  Sports              47 / 73    64%
+  Sports              48 / 74    65%
   Kids                38 / 66    58%
   Music               29 / 65    45%
   Education           14 / 57    25%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1051)
+WITH GUIDE (1052)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -342,7 +342,7 @@ WITH GUIDE (1051)
   Discovery Channel (United States) (1080p) [Geo-blocked]   [DiscoveryChannel.us@East]
   Discovery Turbo (United States) (720p)   [DiscoveryTurbo.us@SD]
   Disney Junior (United States) (480p)   [DisneyJunior.us@East]
-  Disney XD (United States) (1080p)   [DisneyXD.us@East]
+  Disney XD (United States) (720p)   [DisneyXD.us@East]
   DNN (576p)   [DNN.in@SD]
   Doctor Who Classic (1080p)   [DoctorWhoClassic.us@US]
   Documentary+ (1080p)   [DocumentaryPlus.us@US]
@@ -354,7 +354,7 @@ WITH GUIDE (1051)
   DW English (1080p)   [DW.de@English]
   DW Espanol (1080p)   [DW.de@Espanol]
   DW Russian (1080p)   [DW.de@Russian]
-  DY 365 (576p)   [DY365.in@SD]
+  DY 365 (360p)   [DY365.in@SD]
   Dynasty   [Dynasty.us@SD]
   E! East (1080p)   [E.us@East]
   E! Keeping Up (1080p)   [EKeepingUp.us@SD]
@@ -981,6 +981,7 @@ WITH GUIDE (1051)
   TNP News (1080p)   [TNPNews.in@SD]
   TNT (United States) (720p) [Geo-blocked]   [TNT.us@East]
   TNT (United States) West (720p) [Geo-blocked]   [TNT.us@West]
+  TNT Sports 4   [TNTSports4.uk@SD]
   TODAY All Day (1080p)   [TODAYAllDay.us@SD]
   ToonGoggles (720p)   [ToonGoggles.us@SD]
   Tosh.0 (United States)   [Tosh0.us@SD]
@@ -1107,7 +1108,7 @@ WITH GUIDE (1051)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1398)
+NO GUIDE (1395)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1495,7 +1496,6 @@ NO GUIDE (1398)
   Cnews Bharat (720p)   [CnewsBharat.in@SD]
   CNEWS PRIME (1080p)   [CNEWSPRIME.fr@HD]
   CNN Brasil (1080p)   [CNNBrasil.br@SD]
-  CNN Chile (1080p)   [CNNChile.cl@SD]
   CNN en Espanol (1080p)   [CNNenEspanol.us@SD]
   CNN Indonesia   [CNNIndonesia.id@SD]
   CNN Portugal   [CNNPortugal.pt@SD]
@@ -1569,7 +1569,6 @@ NO GUIDE (1398)
   District of Columbia Network (1080p)   [DistrictofColumbiaNetwork.us@SD]
   Diya TV (1080p)   [DiyaTV.us@SD]
   DKN (1080p)   [DKN.us@SD]
-  DNews (720p)   [DNews.us@SD]
   Docurama (1080p)   [Docurama.us@SD]
   Don 24 (1080p)   [Don24.ru@SD]
   Donbass Online (1080p) [Not 24/7]   [DonbassOnline.ua@SD]
@@ -2300,7 +2299,6 @@ NO GUIDE (1398)
   Tele Boston (480p)   [TeleBoston.us@SD]
   Tele Pam (1080p)   [TelePam.us@SD]
   Telecanal (720p)   [Telecanal.cl@SD]
-  Telecanal Santa Cruz (720p)   [TelecanalSantaCruz.cl@SD]
   TeleCauquenes (720p)   [TeleCauquenes.cl@SD]
   Telegela 647   [Telegela647.it@SD]
   Telejato (720p)   [Telejato.it@SD]
