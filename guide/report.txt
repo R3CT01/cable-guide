@@ -1,4 +1,4 @@
-COVERAGE: 1052 of 2447 channels have a guide (43%)
+COVERAGE: 1052 of 2448 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
   us     719 / 1447  50%
@@ -15,9 +15,9 @@ BY COUNTRY (code: with guide / total)
   it       4 / 19    21%
   do       1 / 18    6%
   ca       5 / 17    29%
+  ro       8 / 15    53%
   de       7 / 14    50%
   iq       1 / 14    7%
-  ro       8 / 14    57%
   gr       5 / 13    38%
   ar       2 / 13    15%
   cl       0 / 13    0%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   pl       6 / 10    60%
 
 BY CATEGORY
-  News               362 / 1048  35%
+  News               362 / 1049  35%
   General            119 / 286   42%
   Entertainment       81 / 134   60%
   Religious           18 / 130   14%
@@ -1108,7 +1108,7 @@ WITH GUIDE (1052)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1395)
+NO GUIDE (1396)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1173,7 +1173,7 @@ NO GUIDE (1395)
   ABC News Live 7 (720p)   [ABCNewsLive7.us@SD]
   ABC News Live 8 (720p)   [ABCNewsLive8.us@SD]
   ABC News Live 9 (720p)   [ABCNewsLive9.us@SD]
-  ABC-TV Paraguay (1080p)   [ABCTVParaguay.py@SD]
+  ABC-TV Paraguay   [ABCTVParaguay.py@SD]
   ABHP TV (480p)   [ABHPTV.us@HD]
   ABN Afghanistan (540p)   [ABNAfghanistan.us@SD]
   ABN Africa (480p)   [ABNAfrica.us@SD]
@@ -1286,6 +1286,7 @@ NO GUIDE (1395)
   Animation+ (1080p) [Geo-blocked]   [AnimationPlus.us@SD]
   Anshun Comprehensive News Channel   [AnshunComprehensiveNewsChannel.cn@SD]
   Antena 3 Constanta (576p)   [Antena3Constanta.ro@SD]
+  Antena 3 Suceava (576i)   [Antena3Suceava.ro@SD]
   Antik Info TV (1080p)   [AntikInfoTV.sk@HD]
   Anwar TV2 (720p)   [AnwarTV2.iq@SD]
   APA Tv (1080p)   [APATv.az@SD]
