@@ -1,8 +1,8 @@
-COVERAGE: 1052 of 2448 channels have a guide (43%)
+COVERAGE: 1052 of 2451 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     719 / 1447  50%
-  in     176 / 286   62%
+  us     719 / 1448  50%
+  in     177 / 287   62%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -15,7 +15,7 @@ BY COUNTRY (code: with guide / total)
   it       4 / 19    21%
   do       1 / 18    6%
   ca       5 / 17    29%
-  ro       8 / 15    53%
+  ro       7 / 15    47%
   de       7 / 14    50%
   iq       1 / 14    7%
   gr       5 / 13    38%
@@ -24,17 +24,17 @@ BY COUNTRY (code: with guide / total)
   pe       2 / 13    15%
   au       3 / 11    27%
   qa       4 / 11    36%
+  pl       6 / 11    55%
   id       3 / 10    30%
-  pl       6 / 10    60%
 
 BY CATEGORY
-  News               362 / 1049  35%
+  News               362 / 1051  34%
   General            119 / 286   42%
-  Entertainment       81 / 134   60%
+  Entertainment       81 / 135   60%
   Religious           18 / 130   14%
   Series             106 / 124   85%
   Movies              82 / 115   71%
-  Undefined           58 / 112   52%
+  Undefined           57 / 111   51%
   Legislative          2 / 93    2%
   Sports              48 / 74    65%
   Kids                38 / 66    58%
@@ -49,7 +49,7 @@ BY CATEGORY
   Business             7 / 22    32%
   Shop                 7 / 18    39%
   Outdoor              7 / 16    44%
-  Cooking              8 / 14    57%
+  Cooking              9 / 15    60%
   Travel               5 / 13    38%
   Auto                 5 / 9     56%
   Family               6 / 8     75%
@@ -308,7 +308,7 @@ WITH GUIDE (1052)
   Cold Case Files (1080p)   [ColdCaseFiles.us@SD]
   Comedy Central Pluto TV   [ComedyCentralPlutoTV.us@US]
   Comedy Dynamics (1080p)   [ComedyDynamics.us@SD]
-  Comedy TV (United States) (720p)   [ComedyTV.us@SD]
+  Comedy.TV (720p)   [ComedyTV.us@SD]
   Comet (1080p)   [Comet.us@SD]
   Cooking Channel (720p)   [CookingChannel.us@SD]
   Cops (720p)   [Cops.us@SD]
@@ -528,7 +528,7 @@ WITH GUIDE (1052)
   Jus One (1080p)   [JusOne.us@SD]
   Jus Punjabi (1080p)   [JusPunjabi.us@SD]
   Just for Laughs Gags (1080p)   [JustforLaughsGags.us@SD]
-  Justice Central TV (720p)   [JusticeCentralTV.us@SD]
+  Justice Central.TV (720p)   [JusticeCentralTV.us@SD]
   K News India (720p)   [KNewsIndia.in@SD]
   Kairali News (720p)   [KairaliNews.in@SD]
   Kalaignar Seithigal (576p)   [KalaignarSeithigal.in@SD]
@@ -681,6 +681,7 @@ WITH GUIDE (1052)
   News J (720p) [Not 24/7]   [NewsJ.in@SD]
   News Live (576p)   [NewsLive.in@SD]
   News Live Bangla (576p)   [NewsLiveBangla.in@SD]
+  News Malayalam 24x7 (576p)   [NewsMalayalam24x7.in@SD]
   News Marathi 24x7 (720p)   [NewsMarathi24x7.in@SD]
   News Nation (1080p)   [NewsNation.in@SD]
   News State Punjab Haryana Himachal (1080p)   [NewsStatePunjabHaryanaHimachal.in@SD]
@@ -808,7 +809,6 @@ WITH GUIDE (1052)
   Prag News (576p)   [PragNews.in@SD]
   Prameya News7 (576p)   [PrameyaNews7.in@SD]
   Pratidin Time (576p)   [PratidinTime.in@SD]
-  Prima News   [PrimaNews.ro@SD]
   Prime News (1080p)   [PrimeNews.in@SD]
   Prime9 News (1080p)   [Prime9News.in@SD]
   PTC News (576p)   [PTCNews.in@SD]
@@ -832,7 +832,7 @@ WITH GUIDE (1052)
   Real America's Voice (1080p)   [RealAmericasVoice.us@SD]
   Real America's Voice KPVM-LD   [RealAmericasVoice.us@KPVMLD]
   Real Wild (1080p)   [RealWild.uk@SD]
-  Recipe TV (720p)   [RecipeTV.us@SD]
+  Recipe.TV (720p)   [RecipeTV.us@SD]
   Record News (720p)   [RecordNews.br@SD]
   Reporter (720p)   [Reporter.ua@SD]
   Reporter TV (576p)   [ReporterTV.in@SD]
@@ -1108,7 +1108,7 @@ WITH GUIDE (1052)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1396)
+NO GUIDE (1399)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1608,6 +1608,7 @@ NO GUIDE (1396)
   Entertainment Tonight (1080p)   [EntertainmentTonight.us@SD]
   EntrepreneurTV (720p)   [EntrepreneurTV.us@SD]
   ERT News HD (1080p)   [ERTNews.gr@HD]
+  ES.TV (720p)   [ESTV.us@SD]
   Escambia County TV (720p)   [EscambiaCountyTV.us@SD]
   ESNE TV (1080p)   [ESNETV.us@SD]
   Espace TV (1080p)   [EspaceTV.gn@SD]
@@ -2128,6 +2129,7 @@ NO GUIDE (1396)
   Prensa Latina TV (1080p)   [PrensaLatinaTV.cu@SD]
   Press TV (720p)   [PressTV.ir@SD]
   Press TV French (1080p)   [PressTVFrench.ir@SD]
+  Prima News   [PrimaNews.ro@SD]
   PRO TV Chisinau (576p)   [PROTVChisinau.md@SD]
   Probashi TV News (1080p)   [ProbashiTVNews.ca@SD]
   PROTV News   [PROTVNews.ro@SD]
@@ -2280,6 +2282,7 @@ NO GUIDE (1396)
   SUMtv English (1080p)   [SUMtvEnglish.us@SD]
   Suno News HD (1080p)   [SunoNewsHD.pk@SD]
   SunuLabel TV (480p) [Not 24/7]   [SunuLabelTV.sn@SD]
+  Super Express TV (1080p)   [SuperExpressTV.pl@FAST]
   Swamiji TV American (1080p) [Not 24/7]   [SwamijiTVAmerican.at@SD]
   Swaraj Express SMBC (576p)   [SwarajExpressSMBC.in@SD]
   Swatantra TV (1080p)   [SwatantraTV.in@SD]
