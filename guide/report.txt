@@ -1,7 +1,7 @@
-COVERAGE: 1052 of 2451 channels have a guide (43%)
+COVERAGE: 1054 of 2450 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     719 / 1448  50%
+  us     720 / 1448  50%
   in     177 / 287   62%
   fr      25 / 41    61%
   pk       1 / 32    3%
@@ -15,9 +15,9 @@ BY COUNTRY (code: with guide / total)
   it       4 / 19    21%
   do       1 / 18    6%
   ca       5 / 17    29%
-  ro       7 / 15    47%
-  de       7 / 14    50%
+  ro       8 / 15    53%
   iq       1 / 14    7%
+  de       7 / 13    54%
   gr       5 / 13    38%
   ar       2 / 13    15%
   cl       0 / 13    0%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   id       3 / 10    30%
 
 BY CATEGORY
-  News               362 / 1051  34%
+  News               363 / 1050  35%
   General            119 / 286   42%
   Entertainment       81 / 135   60%
   Religious           18 / 130   14%
@@ -37,15 +37,15 @@ BY CATEGORY
   Undefined           57 / 111   51%
   Legislative          2 / 93    2%
   Sports              48 / 74    65%
-  Kids                38 / 66    58%
+  Kids                39 / 66    59%
   Music               29 / 65    45%
   Education           14 / 57    25%
   Documentary         32 / 44    73%
   Comedy              24 / 39    62%
-  Culture              9 / 36    25%
+  Culture              9 / 35    26%
   Classic             15 / 35    43%
   Lifestyle           12 / 28    43%
-  Animation           13 / 23    57%
+  Animation           13 / 22    59%
   Business             7 / 22    32%
   Shop                 7 / 18    39%
   Outdoor              7 / 16    44%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1052)
+WITH GUIDE (1054)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -147,7 +147,7 @@ WITH GUIDE (1052)
   Arirang TV (1080p)   [ArirangTV.kr@SD]
   Arirang TV HD (1080p)   [ArirangTV.kr@HD]
   Armenia 1 America (1080p)   [Armenia1.am@America]
-  AS TV (900p)   [ASTV.tr@SD]
+  AS TV (Turkiye) (900p)   [ASTV.tr@SD]
   Asharq News (1080p)   [AsharqNews.sa@SD]
   Asian News (1080p)   [AsianNews.in@SD]
   AsianCrush (1080p)   [AsianCrush.us@SD]
@@ -341,6 +341,7 @@ WITH GUIDE (1052)
   Digi 24 (720p)   [Digi24.ro@SD]
   Discovery Channel (United States) (1080p) [Geo-blocked]   [DiscoveryChannel.us@East]
   Discovery Turbo (United States) (720p)   [DiscoveryTurbo.us@SD]
+  Disney Channel (United States) (720p)   [DisneyChannel.us@East]
   Disney Junior (United States) (480p)   [DisneyJunior.us@East]
   Disney XD (United States) (720p)   [DisneyXD.us@East]
   DNN (576p)   [DNN.in@SD]
@@ -809,6 +810,7 @@ WITH GUIDE (1052)
   Prag News (576p)   [PragNews.in@SD]
   Prameya News7 (576p)   [PrameyaNews7.in@SD]
   Pratidin Time (576p)   [PratidinTime.in@SD]
+  Prima News   [PrimaNews.ro@SD]
   Prime News (1080p)   [PrimeNews.in@SD]
   Prime9 News (1080p)   [Prime9News.in@SD]
   PTC News (576p)   [PTCNews.in@SD]
@@ -1108,7 +1110,7 @@ WITH GUIDE (1052)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1399)
+NO GUIDE (1396)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -2062,7 +2064,6 @@ NO GUIDE (1399)
   Oplot TV SD (1080p) [Geo-blocked]   [OplotTV.ru@SD]
   Ora News (720p)   [OraNews.al@SD]
   Orange Government Access TV (720p)   [OrangeGovernmentAccessTV.us@SD]
-  Ost West (576p)   [OstWest.de@SD]
   Ost West 24 (1080p)   [OstWest24.de@SD]
   Outdoor America (1080p)   [OutdoorAmerica.us@SD]
   Overcomers TV (720p)   [OvercomersTV.us@SD]
@@ -2129,7 +2130,6 @@ NO GUIDE (1399)
   Prensa Latina TV (1080p)   [PrensaLatinaTV.cu@SD]
   Press TV (720p)   [PressTV.ir@SD]
   Press TV French (1080p)   [PressTVFrench.ir@SD]
-  Prima News   [PrimaNews.ro@SD]
   PRO TV Chisinau (576p)   [PROTVChisinau.md@SD]
   Probashi TV News (1080p)   [ProbashiTVNews.ca@SD]
   PROTV News   [PROTVNews.ro@SD]
@@ -2351,7 +2351,6 @@ NO GUIDE (1399)
   Tonghua TV (1080p)   [TonghuaTV.cn@SD]
   Toonami Aftermath (480p)   [ToonamiAftermath.us@East]
   Toonami Aftermath West (480p)   [ToonamiAftermath.us@West]
-  Tooncast (1080p)   [Tooncast.us@SD]
   Top News (720p)   [TopNews.th@SD]
   Top News Marathi (1080p)   [TopNewsMarathi.in@SD]
   Top Stories by Newsy (720p)   [TopStoriesbyNewsy.us@SD]
