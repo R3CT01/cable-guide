@@ -1,7 +1,7 @@
-COVERAGE: 1054 of 2450 channels have a guide (43%)
+COVERAGE: 1054 of 2449 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     720 / 1448  50%
+  us     720 / 1447  50%
   in     177 / 287   62%
   fr      25 / 41    61%
   pk       1 / 32    3%
@@ -33,12 +33,12 @@ BY CATEGORY
   Entertainment       81 / 135   60%
   Religious           18 / 130   14%
   Series             106 / 124   85%
-  Movies              82 / 115   71%
+  Movies              81 / 114   71%
   Undefined           57 / 111   51%
   Legislative          2 / 93    2%
   Sports              48 / 74    65%
   Kids                39 / 66    59%
-  Music               29 / 65    45%
+  Music               30 / 65    46%
   Education           14 / 57    25%
   Documentary         32 / 44    73%
   Comedy              24 / 39    62%
@@ -422,7 +422,7 @@ WITH GUIDE (1054)
   Fox Deportes (720p)   [FoxDeportes.us@SD]
   Fox News Channel (1080p)   [FoxNewsChannel.us@SD]
   Fox Soul (1080p)   [FoxSoul.us@SD]
-  Fox Sports 2 (United States) (720p)   [FoxSports2.us@HD]
+  Fox Sports 2 (720p)   [FoxSports2.us@HD]
   Fox Sports News (1080p)   [FoxSportsNews.au@SD]
   Fox Weather (720p)   [FoxWeather.us@SD]
   France 24 (1080p)   [France24.fr@French]
@@ -898,6 +898,7 @@ WITH GUIDE (1054)
   Starz Cinema (720p)   [StarzCinema.us@East]
   Starz Comedy (1080p)   [StarzComedy.us@East]
   Starz West (720p)   [Starz.us@West]
+  Stingray Greatest Holiday Hits   [StingrayGreatestHolidayHits.us@SD]
   Stories by AMC   [StoriesbyAMC.us@SD]
   Story Television KPVM-LD   [StoryTelevision.us@KPVMLD]
   Story Television WCIU-TV   [StoryTelevision.us@WCIUTV]
@@ -956,7 +957,6 @@ WITH GUIDE (1054)
   The Conners   [TheConners.us@SD]
   The Design Network (1080p)   [TheDesignNetwork.us@SD]
   The Doctors (720p) [Geo-blocked]   [TheDoctors.us@HD]
-  The Film Detective (720p)   [TheFilmDetective.us@SD]
   The First TV (1080p)   [TheFirstTV.us@SD]
   The Graham Norton Show (1080p)   [TheGrahamNortonShow.uk@SD]
   The Jamie Oliver Channel (1080p)   [TheJamieOliverChannel.us@SD]
@@ -1110,7 +1110,7 @@ WITH GUIDE (1054)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1396)
+NO GUIDE (1395)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -2272,7 +2272,6 @@ NO GUIDE (1396)
   Starz Encore Spanish (720p)   [StarzEncoreSpanish.us@East]
   Starz Kids & Family (1080p)   [StarzKidsFamily.us@East]
   Sterk TV (1080p)   [SterkTV.be@SD]
-  Stingray Greatest Holiday Hits   [StingrayGreatestHolidayHits.us@SD]
   Stockton Gov TV (720p)   [StocktonGovTV.us@SD]
   Stryk TV (1080p)   [StrykTV.us@HD]
   STZ TV (1080p)   [STZTV.br@SD]
