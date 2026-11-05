@@ -1,7 +1,7 @@
-COVERAGE: 1053 of 2449 channels have a guide (43%)
+COVERAGE: 1056 of 2450 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     720 / 1447  50%
+  us     722 / 1448  50%
   in     177 / 287   62%
   fr      25 / 41    61%
   pk       1 / 32    3%
@@ -22,13 +22,13 @@ BY COUNTRY (code: with guide / total)
   ar       2 / 13    15%
   cl       0 / 13    0%
   pe       2 / 13    15%
-  au       2 / 11    18%
+  au       3 / 11    27%
   qa       4 / 11    36%
   pl       6 / 11    55%
   id       3 / 10    30%
 
 BY CATEGORY
-  News               362 / 1050  34%
+  News               363 / 1050  35%
   General            119 / 286   42%
   Entertainment       81 / 135   60%
   Religious           18 / 130   14%
@@ -36,14 +36,14 @@ BY CATEGORY
   Movies              81 / 114   71%
   Undefined           57 / 111   51%
   Legislative          2 / 93    2%
-  Sports              47 / 74    64%
+  Sports              49 / 75    65%
   Kids                39 / 66    59%
   Music               30 / 65    46%
   Education           14 / 57    25%
   Documentary         32 / 44    73%
   Comedy              24 / 39    62%
   Culture              9 / 35    26%
-  Classic             15 / 35    43%
+  Classic             16 / 35    46%
   Lifestyle           12 / 28    43%
   Animation           13 / 22    59%
   Business             7 / 22    32%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1053)
+WITH GUIDE (1056)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -179,6 +179,7 @@ WITH GUIDE (1053)
   BBC News North America (1080p)   [BBCNews.uk@NorthAmerica]
   BBC News South Asia (720p)   [BBCNews.uk@SouthAsia]
   BBC News UK HD (1080p)   [BBCNews.uk@UKHD]
+  beIN Sports USA (576p)   [beINSportsUSA.us@SD]
   beIN SPORTS XTRA (1080p)   [beINSPORTSXTRA.us@SD]
   Bellator MMA   [BellatorMMA.us@SD]
   BeritaSatu (1080p)   [BeritaSatu.id@SD]
@@ -423,6 +424,7 @@ WITH GUIDE (1053)
   Fox News Channel (1080p)   [FoxNewsChannel.us@SD]
   Fox Soul (1080p)   [FoxSoul.us@SD]
   Fox Sports 2 (720p)   [FoxSports2.us@HD]
+  Fox Sports News (1080p)   [FoxSportsNews.au@SD]
   Fox Weather (720p)   [FoxWeather.us@SD]
   France 24 (1080p)   [France24.fr@French]
   France 24 Arabic (1080p)   [France24.fr@Arabic]
@@ -949,6 +951,7 @@ WITH GUIDE (1053)
   The Addams Family   [TheAddamsFamily.us@SD]
   The Amazing Race   [TheAmazingRace.us@SD]
   The Andy Griffith Show   [TheAndyGriffithShow.us@SD]
+  The Archive (1080p)   [TheArchive.us@SD]
   The Asylum (1080p)   [TheAsylum.us@US]
   The Bob Ross Channel (720p)   [TheBobRossChannel.us@SD]
   The Carol Burnett Show (1080p)   [TheCarolBurnettShow.us@SD]
@@ -1109,7 +1112,7 @@ WITH GUIDE (1053)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1396)
+NO GUIDE (1394)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1651,7 +1654,6 @@ NO GUIDE (1396)
   Fox Business Network (576p)   [FoxBusinessNetwork.us@SD]
   Fox News Radio (720p)   [FoxNewsRadio.us@SD]
   Fox Sports 1 (720p)   [FoxSports1.us@HD]
-  Fox Sports News (1080p)   [FoxSportsNews.au@SD]
   Freebie TV (720p) [Not 24/7]   [FreebieTV.us@SD]
   Fresh News   [FreshNews.kh@SD]
   FTV Taiwan (720p) [Not 24/7]   [FTVTaiwan.tw@SD]
@@ -2316,7 +2318,6 @@ NO GUIDE (1396)
   Ternopil 1 (720p)   [Ternopil1.ua@SD]
   Terra Mater WILD English (1080p)   [TerraMaterWILD.de@English]
   Teve Vida Network (480p) [Not 24/7]   [TeveVidaNetwork.us@SD]
-  The Archive (1080p)   [TheArchive.us@SD]
   The Burbank Channel (720p)   [TheBurbankChannel.us@SD]
   The Chat Show Channel (1080p)   [TheChatShowChannel.uk@SD]
   The City of Marina (720p)   [TheCityofMarina.us@SD]
