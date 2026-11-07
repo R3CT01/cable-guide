@@ -1,8 +1,8 @@
-COVERAGE: 1056 of 2451 channels have a guide (43%)
+COVERAGE: 1059 of 2461 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     723 / 1449  50%
-  in     177 / 287   62%
+  us     725 / 1453  50%
+  in     179 / 293   61%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -15,7 +15,7 @@ BY COUNTRY (code: with guide / total)
   it       4 / 19    21%
   do       1 / 18    6%
   ca       5 / 17    29%
-  ro       8 / 15    53%
+  ro       9 / 16    56%
   iq       1 / 14    7%
   de       7 / 13    54%
   gr       5 / 13    38%
@@ -24,20 +24,20 @@ BY COUNTRY (code: with guide / total)
   pe       2 / 13    15%
   au       3 / 11    27%
   qa       4 / 11    36%
-  pl       6 / 11    55%
   id       3 / 10    30%
+  hn       1 / 10    10%
 
 BY CATEGORY
-  News               363 / 1050  35%
+  News               364 / 1054  35%
   General            120 / 286   42%
   Entertainment       81 / 135   60%
-  Religious           18 / 131   14%
+  Religious           18 / 133   14%
   Series             106 / 124   85%
   Movies              81 / 114   71%
   Undefined           57 / 111   51%
   Legislative          2 / 93    2%
-  Sports              49 / 75    65%
-  Kids                39 / 66    59%
+  Sports              51 / 77    66%
+  Kids                39 / 68    57%
   Music               30 / 65    46%
   Education           14 / 57    25%
   Documentary         31 / 44    70%
@@ -45,7 +45,7 @@ BY CATEGORY
   Culture              9 / 35    26%
   Classic             16 / 35    46%
   Lifestyle           12 / 28    43%
-  Animation           13 / 22    59%
+  Animation           14 / 25    56%
   Business             7 / 22    32%
   Shop                 7 / 18    39%
   Outdoor              7 / 16    44%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1056)
+WITH GUIDE (1059)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -136,10 +136,11 @@ WITH GUIDE (1056)
   American Heroes Channel (720p)   [AmericanHeroesChannel.us@SD]
   American Ninja Warrior (1080p)   [AmericanNinjaWarrior.us@SD]
   AMG TV (1080p)   [AMGTV.us@SD]
-  ANB News (720p)   [ANBNews.in@SD]
+  ANB News (1080p)   [ANBNews.in@SD]
   Animal Planet (United States) (720p)   [AnimalPlanet.us@East]
   Anime x HIDIVE   [AnimexHIDIVE.us@SD]
   Antena 3 CNN (1080p)   [Antena3CNN.ro@SD]
+  Antena 3 CNN HD (1080i)   [Antena3CNN.ro@HD]
   Antiques Road Trip (1080p)   [AntiquesRoadTrip.us@SD]
   Antiques Roadshow UK (1080p)   [AntiquesRoadshowUK.us@SD]
   Are We There Yet? (1080p)   [AreWeThereYet.us@SD]
@@ -204,7 +205,7 @@ WITH GUIDE (1056)
   Bharat Express (576p)   [BharatExpress.in@SD]
   Bharat Samachar (576p)   [BharatSamachar.in@SD]
   Bharat Update (576p)   [BharatUpdate.in@SD]
-  Bharat24 (720p)   [Bharat24.in@SD]
+  Bharat24 (1080p)   [Bharat24.in@SD]
   BHI Channel (720p)   [BHIChannel.in@SD]
   Big Brother   [BigBrother.us@SD]
   Big Ten Network (720p)   [BigTenNetwork.us@SD]
@@ -449,6 +450,7 @@ WITH GUIDE (1056)
   GEB Network KBPX-LD (1080p)   [GEBNetwork.us@KBPXLD]
   God's Learning Channel KPCB-DT (480p)   [GodsLearningChannel.us@KPCBDT]
   Golazo Network (720p)   [GolazoNetwork.us@SD]
+  Golf Channel (United States) (576p)   [GolfChannel.us@SD]
   Good News Today (720p)   [GoodNewsToday.in@SD]
   Gordon Ramsay's Hell's Kitchen (720p)   [GordonRamsaysHellsKitchen.us@SD]
   GoTraveler (720p) [Geo-blocked]   [GoTraveler.us@SD]
@@ -491,7 +493,7 @@ WITH GUIDE (1056)
   Hungry (720p)   [Hungry.us@SD]
   I Love Lucy   [ILoveLucy.us@SD]
   I News (1080p)   [INews.iq@SD]
-  IBC 24 (576p)   [IBC24.in@SD]
+  IBC 24 (1080p)   [IBC24.in@SD]
   iCarly (United States) SD   [iCarly.us@SD]
   Ici RDI (720p)   [IciRDI.ca@SD]
   IFC (1080p)   [IFC.us@East]
@@ -588,6 +590,7 @@ WITH GUIDE (1056)
   Malai Murasu TV (576p)   [MalaiMurasuTV.in@SD]
   Manorama News (1080p)   [ManoramaNews.in@SD]
   Mantavya News (576p)   [MantavyaNews.in@SD]
+  Marquee Sports Network (576p)   [MarqueeSportsNetwork.us@SD]
   Mathrubhumi News (576p)   [MathrubhumiNews.in@SD]
   Matlock (United States)   [Matlock.us@SD]
   Maverick Black Cinema (1080p)   [MaverickBlackCinema.us@SD]
@@ -598,6 +601,7 @@ WITH GUIDE (1056)
   Mega TV (Paraguay) (1080p)   [MegaTV.py@SD]
   Mega TV (United States) WSBS-TV (1080p)   [MegaTV.us@WSBSTV]
   Metro TV (Indonesia)   [MetroTV.id@SD]
+  MeTV Toons   [MeTVToons.us@SD]
   Midnight Pulp (1080p)   [MidnightPulp.us@SD]
   Midsomer Murders (1080p)   [MidsomerMurders.us@SD]
   Mirror Now (720p)   [MirrorNow.in@SD]
@@ -679,15 +683,15 @@ WITH GUIDE (1056)
   News 7 Tamil (576p)   [News7Tamil.in@SD]
   News Capital Gujarat (1080p)   [NewsCapitalGujarat.in@SD]
   News Hour (576p)   [NewsHour.in@SD]
-  News India 24x7 (576p)   [NewsIndia24x7.in@SD]
+  News India 24x7 (1080p)   [NewsIndia24x7.in@SD]
   News J (720p) [Not 24/7]   [NewsJ.in@SD]
   News Live (576p)   [NewsLive.in@SD]
-  News Live Bangla (576p)   [NewsLiveBangla.in@SD]
-  News Malayalam 24x7 (576p)   [NewsMalayalam24x7.in@SD]
-  News Marathi 24x7 (720p)   [NewsMarathi24x7.in@SD]
+  News Live Bangla (1080p)   [NewsLiveBangla.in@SD]
+  News Malayalam 24x7 (1080p)   [NewsMalayalam24x7.in@SD]
+  News Marathi 24x7 (1080p)   [NewsMarathi24x7.in@SD]
   News Nation (1080p)   [NewsNation.in@SD]
   News State Punjab Haryana Himachal (1080p)   [NewsStatePunjabHaryanaHimachal.in@SD]
-  News Tamil 24x7 (576p)   [NewsTamil24x7.in@SD]
+  News Tamil 24x7 (1080p)   [NewsTamil24x7.in@SD]
   News12 Bronx (1080p) [Geo-blocked]   [News12Bronx.us@SD]
   News12 Brooklyn (720p) [Geo-blocked]   [News12Brooklyn.us@SD]
   News12 Hudson Valley (1080p) [Geo-blocked]   [News12HudsonValley.us@SD]
@@ -720,7 +724,6 @@ WITH GUIDE (1056)
   NHRA TV (1080p)   [NHRATV.us@SD]
   Nick Jr. (United States) (720p)   [NickJr.us@East]
   Nick Jr. Pluto TV (720p)   [NickJrPlutoTV.us@US]
-  Nickelodeon (United States) (720p)   [Nickelodeon.us@East]
   Nickelodeon Pluto TV (720p)   [NickelodeonPlutoTV.us@SD]
   Nicktoons (United States) (720p)   [Nicktoons.us@East]
   Ninja Kidz TV (1080p)   [NinjaKidzTV.us@SD]
@@ -809,7 +812,7 @@ WITH GUIDE (1056)
   Power TV (India) (576p)   [PowerTV.in@SD]
   PowerNation TV (1080p)   [PowerNationTV.us@SD]
   Prag News (576p)   [PragNews.in@SD]
-  Prameya News7 (576p)   [PrameyaNews7.in@SD]
+  Prameya News7 (720p)   [PrameyaNews7.in@SD]
   Pratidin Time (576p)   [PratidinTime.in@SD]
   Prima News   [PrimaNews.ro@SD]
   Prime News (1080p)   [PrimeNews.in@SD]
@@ -864,7 +867,7 @@ WITH GUIDE (1056)
   Russia-24 HD (1080p)   [Russia24.ru@HD]
   Ryan and Friends (1080p)   [RyanandFriends.us@SD]
   Sach Bedhadak (576p)   [SachBedhadak.in@SD]
-  Sakshi TV (576p)   [SakshiTV.in@SD]
+  Sakshi TV (1080p)   [SakshiTV.in@SD]
   Salaam TV (720p)   [SalaamTV.in@SD]
   Salem News Channel (1080p)   [SalemNewsChannel.us@SD]
   Samsung Wildlife (720p) [Geo-blocked]   [SamsungWildlife.us@SD]
@@ -891,6 +894,7 @@ WITH GUIDE (1056)
   Spike Pluto TV   [SpikePlutoTV.us@SD]
   SportsGrid (1080p)   [SportsGrid.us@SD]
   Stadium (720p)   [Stadium.us@SD]
+  Star Bharat (India) HD (1080p)   [StarBharat.in@HD]
   Star Trek US   [StarTrek.us@US]
   Star Trek: Deep Space Nine   [StarTrekDeepSpaceNine.us@SD]
   Star Trek: The Next Generation (United States)   [StarTrekTheNextGeneration.us@SD]
@@ -909,6 +913,7 @@ WITH GUIDE (1056)
   Super Simple Songs (1080p)   [SuperSimpleSongs.us@SD]
   Supernatural Drama   [SupernaturalDrama.us@SD]
   Survivor (1080p)   [Survivor.us@SD]
+  Surya Samachar (576p)   [SuryaSamachar.in@SD]
   Suvarna News SD (576p)   [SuvarnaNews.in@SD]
   Swadesh News (720p)   [SwadeshNews.in@SD]
   Swerve Combat (1080p)   [SwerveCombat.us@SD]
@@ -1008,7 +1013,7 @@ WITH GUIDE (1056)
   TV Land Drama   [TVLandDrama.us@SD]
   TV Land Sitcoms   [TVLandSitcoms.us@SD]
   TV Zoom (720p)   [TVZoom.br@SD]
-  TV27 News (360p)   [TV27News.in@SD]
+  TV27 News (1080p)   [TV27News.in@SD]
   TV4 (United States) (360p)   [TV4.us@SD]
   TV45 (1080p)   [TV45.in@SD]
   TV5 Kannada (576p)   [TV5Kannada.in@SD]
@@ -1019,7 +1024,6 @@ WITH GUIDE (1056)
   TV9 Marathi (720p)   [TV9Marathi.in@SD]
   TV9 Telugu (720p)   [TV9Telugu.in@SD]
   TVN24 (720p) [Not 24/7]   [TVN24.do@SD]
-  TVP Wilno   [TVPWilno.pl@SD]
   TVP World   [TVPWorld.pl@SD]
   TVR Info (1440p)   [TVRInfo.ro@SD]
   Unbeaten (1080p)   [Unbeaten.us@SD]
@@ -1085,7 +1089,6 @@ WITH GUIDE (1056)
   Wu Tang Collection (720p)   [WuTangCollection.us@SD]
   WVVH-CD 18.1 (720p)   [WVVHCD181.us@HD]
   WWE Network (1080p)   [WWENetwork.us@SD]
-  Wydarzenia 24 (576i)   [Wydarzenia24.pl@SD]
   XITE 90's Throwback (1080p)   [XITE90sThrowback.us@SD]
   XITE Classic Country (720p)   [XITEClassicCountry.nl@SD]
   XITE Just Chill (1080p)   [XITEJustChill.nl@US]
@@ -1112,7 +1115,7 @@ WITH GUIDE (1056)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1395)
+NO GUIDE (1402)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1164,6 +1167,7 @@ NO GUIDE (1395)
   A24 (1080p)   [A24.ar@SD]
   Aagaaz Times (1080p)   [AagaazTimes.in@SD]
   Aaj News (576p)   [AajNews.pk@SD]
+  Aastha International (576p)   [AasthaInternational.in@SD]
   Abante TV (1080p)   [AbanteTV.ph@HD]
   Abb Takk (576p)   [AbbTakk.pk@SD]
   ABC News (720p)   [ABCNews.au@Sydney]
@@ -1388,6 +1392,7 @@ NO GUIDE (1395)
   BRK News (720p)   [BRKNews.in@SD]
   BT TV (720p)   [BTTV.in@SD]
   BTB Info (1080p)   [BTBInfo.pl@SD]
+  BTL TV (Netherlands) (1080p)   [BTLTV.nl@SD]
   BTV News (720p)   [BTVNews.kh@SD]
   Buendia TV   [BuendiaTV.hn@SD]
   Bulgaria On Air   [BulgariaOnAir.bg@SD]
@@ -1578,6 +1583,7 @@ NO GUIDE (1395)
   Donbass Online (1080p) [Not 24/7]   [DonbassOnline.ua@SD]
   Dong Nai TV 1 (1080p)   [DongNaiTV1.vn@SD]
   Dongguan Comprehensive News Channel   [DongguanComprehensiveNewsChannel.cn@SD]
+  Doraemon (720p)   [Doraemon.us@SD]
   Dotto TV (1080p)   [DottoTV.ro@SD]
   Dr. Gene Scott (1080p)   [DrGeneScott.us@SD]
   Dry Bar Comedy+ (720p)   [DryBarComedyPlus.us@SD]
@@ -1994,6 +2000,7 @@ NO GUIDE (1395)
   News of the World Spanish (1080p)   [NewsoftheWorld.us@Spanish]
   News of the World USA (1080p)   [NewsoftheWorld.us@USA]
   News One (720p)   [NewsOne.pk@SD]
+  News Only (1080p)   [NewsOnly.in@SD]
   News State MP & CHG (1080p)   [NewsStateMPCHG.in@SD]
   News State UP & UK (1080p)   [NewsStateUPUK.in@SD]
   News1 (576p)   [News1.th@SD]
@@ -2058,6 +2065,7 @@ NO GUIDE (1395)
   ON News HD (576p)   [ONNewsHD.pk@SD]
   Onda 15 TV (224p)   [Onda15TV.es@SD]
   Onda Valencia TV (720p)   [OndaValenciaTV.es@SD]
+  Onkar News (1080p)   [OnkarNews.in@SD]
   Online TV Nusantara (720p) [Not 24/7]   [OnlineTVNusantara.id@SD]
   Only Bharat (576p)   [OnlyBharat.in@SD]
   Ontario Public Access Channel (360p)   [OntarioPublicAccessChannel.us@SD]
@@ -2244,6 +2252,7 @@ NO GUIDE (1395)
   Shabakeh 7   [Shabakeh7.us@SD]
   Shalom America (720p) [Not 24/7]   [ShalomAmerica.us@SD]
   Shams TV (Iraq) (1080p)   [ShamsTV.iq@SD]
+  Shin-chan (720p)   [Shinchan.us@SD]
   Shout! Factory TV (1080p)   [ShoutFactoryTV.us@SD]
   SIC Noticias (1080p) [Geo-blocked]   [SICNoticias.pt@SD]
   Silverbird News 24 (576p)   [SilverbirdNews24.ng@SD]
@@ -2385,11 +2394,12 @@ NO GUIDE (1395)
   TV13 Gujarati (480p)   [TV13Gujarati.in@SD]
   TV30 India (1080p)   [TV30India.in@SD]
   TV5 News (576p)   [TV5News.in@SD]
-  TV5Monde Info (1080p) [Geo-blocked]   [TV5MondeInfo.fr@SD]
+  TV5Monde Info (1080p)   [TV5MondeInfo.fr@SD]
   TV7 Bharat (576p)   [TV7Bharat.in@SD]
+  TV7 National (1080p)   [TV7National.in@SD]
   tv9 Telemaremma (576p)   [tv9Telemaremma.it@HD]
   TVBS News [Geo-blocked]   [TVBSNews.tw@SD]
-  TVE Internacional America   [TVEInternacionalAmerica.es@SD]
+  TVE Internacional America (720p)   [TVEInternacionalAmerica.es@SD]
   TVE Internacional America HD (1080p) [Geo-blocked]   [TVEInternacionalAmerica.es@HD]
   TVideoNews (720p) [Not 24/7]   [TVideoNews.br@SD]
   TVK Stella (576p)   [TVKStella.pl@SD]
