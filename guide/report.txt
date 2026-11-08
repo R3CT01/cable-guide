@@ -1,14 +1,14 @@
-COVERAGE: 1059 of 2461 channels have a guide (43%)
+COVERAGE: 1060 of 2464 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     725 / 1453  50%
+  us     726 / 1456  50%
   in     179 / 293   61%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
   ru       6 / 26    23%
-  uk      15 / 24    62%
   es       1 / 24    4%
+  uk      14 / 23    61%
   ua       3 / 23    13%
   tr      13 / 23    57%
   cn       1 / 23    4%
@@ -28,16 +28,16 @@ BY COUNTRY (code: with guide / total)
   hn       1 / 10    10%
 
 BY CATEGORY
-  News               364 / 1054  35%
+  News               365 / 1056  35%
   General            120 / 286   42%
-  Entertainment       81 / 135   60%
+  Entertainment       82 / 136   60%
   Religious           18 / 133   14%
   Series             106 / 124   85%
   Movies              81 / 114   71%
   Undefined           57 / 111   51%
   Legislative          2 / 93    2%
-  Sports              51 / 77    66%
-  Kids                39 / 68    57%
+  Sports              50 / 76    66%
+  Kids                39 / 69    57%
   Music               30 / 65    46%
   Education           14 / 57    25%
   Documentary         31 / 44    70%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1059)
+WITH GUIDE (1060)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -175,7 +175,6 @@ WITH GUIDE (1059)
   BBC Food (1080p)   [BBCFood.us@SD]
   BBC Home & Garden (1080p)   [BBCHomeGarden.us@SD]
   BBC News Africa (1080p)   [BBCNews.uk@Africa]
-  BBC News Asia Pacific (576p)   [BBCNews.uk@AsiaPacific]
   BBC News Europe (576p)   [BBCNews.uk@Europe]
   BBC News North America (1080p)   [BBCNews.uk@NorthAmerica]
   BBC News South Asia (720p)   [BBCNews.uk@SouthAsia]
@@ -305,6 +304,7 @@ WITH GUIDE (1059)
   CNN International (1080p)   [CNNInternational.us@Europe]
   CNN International Latin America (1080p)   [CNNInternational.us@LatinAmerica]
   CNN International North America (1080p)   [CNNInternational.us@NorthAmerica]
+  CNN International South Asia   [CNNInternational.us@SouthAsia]
   CNN News 18 (1080p)   [CNNNews18.in@SD]
   CNN Originals (1080p)   [CNNOriginals.us@SD]
   Cold Case Files (1080p)   [ColdCaseFiles.us@SD]
@@ -567,6 +567,7 @@ WITH GUIDE (1059)
   LCI (1080p)   [LCI.fr@SD]
   LCI HD (1080p)   [LCI.fr@HD]
   LEGO Kids TV   [LEGOKidsTV.us@SD]
+  Lifetime   [Lifetime.us@East]
   Little Stars Universe   [LittleStarsUniverse.us@SD]
   Live Music   [LiveMusic.us@SD]
   Live Times (720p)   [LiveTimes.in@SD]
@@ -883,6 +884,7 @@ WITH GUIDE (1059)
   Showtime Family Zone (720p)   [ShowtimeFamilyZone.us@East]
   Sitcom Legends   [SitcomLegends.us@SD]
   Sketchy AF   [SketchyAF.us@SD]
+  Sky News   [SkyNews.ie@SD]
   Sky News Arabia (1080p)   [SkyNewsArabia.ae@HD]
   Sky News Arabia SD (1080p) [Not 24/7]   [SkyNewsArabia.ae@SD]
   Slopes TV (720p)   [SlopesTV.us@SD]
@@ -1088,7 +1090,6 @@ WITH GUIDE (1059)
   WSOC Now (1080p) [Geo-blocked]   [WSOCNow.us@SD]
   Wu Tang Collection (720p)   [WuTangCollection.us@SD]
   WVVH-CD 18.1 (720p)   [WVVHCD181.us@HD]
-  WWE Network (1080p)   [WWENetwork.us@SD]
   XITE 90's Throwback (1080p)   [XITE90sThrowback.us@SD]
   XITE Classic Country (720p)   [XITEClassicCountry.nl@SD]
   XITE Just Chill (1080p)   [XITEJustChill.nl@US]
@@ -1115,7 +1116,7 @@ WITH GUIDE (1059)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1402)
+NO GUIDE (1404)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1653,10 +1654,12 @@ NO GUIDE (1402)
   First Channel News (1080p)   [FirstChannelNews.am@SD]
   FITE 24/7 (1080p)   [FITE247.us@SD]
   Flowers TV USA (396p)   [FlowersTVUSA.us@SD]
+  FMH Kids (720p)   [FMHKids.us@SD]
   FNX (1080p)   [FNX.us@SD]
   For You TV   [ForYouTV.cm@SD]
   Formula (1080p)   [Formula.ge@SD]
   Fox Business Network (576p)   [FoxBusinessNetwork.us@SD]
+  Fox News International   [FoxNewsInternational.us@SD]
   Fox News Radio (720p)   [FoxNewsRadio.us@SD]
   Fox Sports 1 (720p)   [FoxSports1.us@HD]
   Freebie TV (720p) [Not 24/7]   [FreebieTV.us@SD]
@@ -2364,7 +2367,6 @@ NO GUIDE (1402)
   Top News (720p)   [TopNews.th@SD]
   Top News Marathi (1080p)   [TopNewsMarathi.in@SD]
   Top Stories by Newsy (720p)   [TopStoriesbyNewsy.us@SD]
-  Tra Vinh TV (1080p)   [TraVinhTV.vn@SD]
   Trailers UK (1080p)   [Trailers.es@UK]
   Tribuna TV (720p) [Not 24/7]   [TribunaTV.sv@SD]
   True Crime Network (1080p) [Geo-blocked]   [TrueCrimeNetwork.us@SD]
@@ -2467,6 +2469,7 @@ NO GUIDE (1402)
   Vida Mejor TV (480p)   [VidaMejorTV.us@SD]
   Video Mix TV (1080p)   [VideoMixTV.us@SD]
   Vinh Long TV 1 (720p)   [VinhLongTV1.vn@SD]
+  Vinh Long TV 5 (1080p)   [VinhLongTV5.vn@SD]
   Vision Latina Network (1080p)   [VisionLatinaNetwork.us@SD]
   Visir (1080p)   [Visir.is@SD]
   VIVE TV (1080p)   [VIVETV.ar@HD]
