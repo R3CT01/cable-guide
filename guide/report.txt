@@ -1,7 +1,7 @@
-COVERAGE: 1059 of 2463 channels have a guide (43%)
+COVERAGE: 1058 of 2463 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     726 / 1455  50%
+  us     725 / 1455  50%
   in     179 / 293   61%
   fr      25 / 41    61%
   pk       1 / 32    3%
@@ -37,7 +37,7 @@ BY CATEGORY
   Undefined           57 / 110   52%
   Legislative          2 / 93    2%
   Sports              50 / 76    66%
-  Kids                39 / 69    57%
+  Kids                38 / 69    55%
   Music               30 / 65    46%
   Education           14 / 57    25%
   Documentary         31 / 44    70%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1059)
+WITH GUIDE (1058)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -399,7 +399,6 @@ WITH GUIDE (1059)
   FNX KVCR-DT [Geo-blocked]   [FNX.us@KVCRDT]
   Food Network (United States) (720p)   [FoodNetwork.us@East]
   Forensic Files   [ForensicFiles.us@SD]
-  Forever Kids   [ForeverKids.us@SD]
   Fox (United States) KBSI (720p) [Not 24/7]   [Fox.us@KBSI]
   Fox (United States) KCPQ (720p)   [Fox.us@KCPQ]
   Fox (United States) KDFW (1080p)   [Fox.us@KDFW]
@@ -1115,7 +1114,7 @@ WITH GUIDE (1059)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1404)
+NO GUIDE (1405)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1658,6 +1657,7 @@ NO GUIDE (1404)
   FMH Kids (720p)   [FMHKids.us@SD]
   FNX (1080p)   [FNX.us@SD]
   For You TV   [ForYouTV.cm@SD]
+  Forever Kids   [ForeverKids.us@SD]
   Formula (1080p)   [Formula.ge@SD]
   Fox Business Network (576p)   [FoxBusinessNetwork.us@SD]
   Fox News International   [FoxNewsInternational.us@SD]
