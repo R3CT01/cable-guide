@@ -1,13 +1,13 @@
-COVERAGE: 1058 of 2463 channels have a guide (43%)
+COVERAGE: 1054 of 2465 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     725 / 1455  50%
+  us     726 / 1457  50%
   in     179 / 293   61%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
   ru       5 / 26    19%
-  es       1 / 24    4%
+  es       0 / 24    0%
   tr      13 / 24    54%
   uk      14 / 23    61%
   ua       3 / 23    13%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   hn       1 / 10    10%
 
 BY CATEGORY
-  News               364 / 1057  34%
+  News               359 / 1057  34%
   General            120 / 285   42%
   Entertainment       82 / 137   60%
   Religious           18 / 133   14%
@@ -38,7 +38,7 @@ BY CATEGORY
   Legislative          2 / 93    2%
   Sports              50 / 76    66%
   Kids                38 / 69    55%
-  Music               30 / 65    46%
+  Music               31 / 67    46%
   Education           14 / 57    25%
   Documentary         31 / 44    70%
   Comedy              24 / 39    62%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1058)
+WITH GUIDE (1054)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -62,7 +62,6 @@ WITH GUIDE (1058)
   24 TV (720p)   [24TV.tr@SD]
   360 (720p) [Not 24/7]   [360.tr@SD]
   3ABN Proclaim! Network (720p)   [3ABNProclaimNetwork.us@SD]
-  3CatInfo (1080p)   [3CatInfo.es@SD]
   48 Hours (1080p)   [48Hours.us@US]
   50 Cent Action (720p)   [50CentAction.us@SD]
   70s Cinema   [70sCinema.us@SD]
@@ -942,10 +941,6 @@ WITH GUIDE (1058)
   Telemundo WCAU (1080p)   [Telemundo.us@WCAU]
   Telemundo West (720p)   [Telemundo.us@West]
   Telemundo WTMO-CD (720p)   [Telemundo.us@WTMOCD]
-  Telesur (1080p)   [Telesur.ve@SD]
-  Telesur English (480p)   [Telesur.ve@English]
-  Telesur English HD (1080p)   [Telesur.ve@EnglishHD]
-  Telesur HD (1080p)   [Telesur.ve@HD]
   Tennis Channel (1080p)   [TennisChannel.us@SD]
   Tennis Channel +2 (720p)   [TennisChannel.us@Plus2]
   Tennis Channel 2 (1080p)   [TennisChannel2.us@SD]
@@ -1055,6 +1050,7 @@ WITH GUIDE (1058)
   Vevo Pop (1080p)   [VevoPop.us@SD]
   Vevo R&B (1080p)   [VevoRB.us@SD]
   Vevo True School Hip-Hop   [VevoTrueSchoolHipHop.us@SD]
+  VH1 (1080p)   [VH1.us@East]
   VH1 Queens of Reality   [VH1QueensofReality.us@SD]
   VICE TV (1080p)   [VICETV.us@SD]
   VIP News (360p)   [VIPNews.in@SD]
@@ -1114,7 +1110,7 @@ WITH GUIDE (1058)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1405)
+NO GUIDE (1411)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1152,6 +1148,7 @@ NO GUIDE (1405)
   3Cat Exclusiu 1 (1080p) [Geo-blocked]   [3CatExclusiu1.es@SD]
   3Cat Exclusiu 2 (1080p) [Geo-blocked]   [3CatExclusiu2.es@SD]
   3Cat Exclusiu 3 (1080p) [Geo-blocked]   [3CatExclusiu3.es@SD]
+  3CatInfo (1080p)   [3CatInfo.es@SD]
   4 SiDES TV (1080p)   [4SiDESTV.in@SD]
   4Dmas Noticias TV (1080p) [Not 24/7]   [4DmasNoticiasTV.py@SD]
   4TV News (576p)   [4TVNews.in@SD]
@@ -2073,7 +2070,7 @@ NO GUIDE (1405)
   Online TV Nusantara (720p) [Not 24/7]   [OnlineTVNusantara.id@SD]
   Only Bharat (576p)   [OnlyBharat.in@SD]
   Ontario Public Access Channel (360p)   [OntarioPublicAccessChannel.us@SD]
-  OnTV4U (1080p) [Geo-blocked]   [OnTV4U.us@SD]
+  OnTV4U (1080p)   [OnTV4U.us@SD]
   Opinionsur (720p)   [Opinionsur.cl@SD]
   Oplot TV (1080p) [Geo-blocked]   [OplotTV.ru@Khartsyzsk]
   Oplot TV SD (1080p) [Geo-blocked]   [OplotTV.ru@SD]
@@ -2325,6 +2322,10 @@ NO GUIDE (1405)
   Telemundo Corpus Christi (720p)   [TelemundoCorpusChristi.us@SD]
   Telemundo Telenovelas Clasicas   [TelemundoTelenovelasClasicas.us@SD]
   Telenews TV   [TelenewsTV.do@SD]
+  Telesur (1080p)   [Telesur.ve@SD]
+  Telesur English (480p)   [Telesur.ve@English]
+  Telesur English HD (1080p)   [Telesur.ve@EnglishHD]
+  Telesur HD (1080p)   [Telesur.ve@HD]
   Television del Este (1080p) [Not 24/7]   [TelevisiondelEste.do@SD]
   TeleXitos (1080p)   [TeleXitos.us@SD]
   Temecula TV (1080p)   [TemeculaTV.us@SD]
@@ -2504,6 +2505,7 @@ NO GUIDE (1405)
   WLNG Radio (410p) [Not 24/7]   [WLNGRadio.us@SD]
   World Harvest TV (360p)   [WorldHarvestTV.us@SD]
   World Punjabi TV (1080p)   [WorldPunjabiTV.in@SD]
+  WOX TV (1080p)   [WOXTV.us@SD]
   WPS-TV (360p)   [WPSTV.us@SD]
   WVCU-LP (1080p)   [WVCULP.us@SD]
   WWON-TV Channel 48   [WWONTVChannel48.us@SD]
