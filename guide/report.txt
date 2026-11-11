@@ -1,7 +1,7 @@
-COVERAGE: 1054 of 2465 channels have a guide (43%)
+COVERAGE: 1045 of 2453 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     726 / 1457  50%
+  us     717 / 1447  50%
   in     179 / 293   61%
   fr      25 / 41    61%
   pk       1 / 32    3%
@@ -14,8 +14,8 @@ BY COUNTRY (code: with guide / total)
   cn       1 / 23    4%
   it       4 / 19    21%
   do       1 / 18    6%
-  ca       5 / 17    29%
   ro       9 / 16    56%
+  ca       5 / 15    33%
   iq       1 / 14    7%
   de       7 / 13    54%
   gr       5 / 13    38%
@@ -29,22 +29,22 @@ BY COUNTRY (code: with guide / total)
 
 BY CATEGORY
   News               359 / 1057  34%
-  General            120 / 285   42%
-  Entertainment       82 / 137   60%
-  Religious           18 / 133   14%
+  General            117 / 282   41%
+  Entertainment       80 / 135   59%
+  Religious           18 / 132   14%
   Series             106 / 124   85%
   Movies              81 / 114   71%
-  Undefined           57 / 110   52%
+  Undefined           55 / 107   51%
   Legislative          2 / 93    2%
-  Sports              50 / 76    66%
-  Kids                38 / 69    55%
-  Music               31 / 67    46%
+  Sports              49 / 75    65%
+  Kids                38 / 68    56%
+  Music               31 / 66    47%
   Education           14 / 57    25%
   Documentary         31 / 44    70%
   Comedy              24 / 39    62%
   Culture              9 / 35    26%
   Classic             16 / 35    46%
-  Lifestyle           12 / 28    43%
+  Lifestyle           11 / 27    41%
   Animation           14 / 25    56%
   Business             7 / 22    32%
   Shop                 7 / 18    39%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1054)
+WITH GUIDE (1045)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -71,7 +71,6 @@ WITH GUIDE (1054)
   90s Throwback   [90sThrowback.us@SD]
   :24 (1080p)   [24.sk@SD]
   A Haber (1080p)   [AHaber.tr@SD]
-  A&E (720p)   [AE.us@East]
   Aaj Ki Khabar (1080p)   [AajKiKhabar.in@SD]
   Aaj Tak (1080p)   [AajTak.in@SD]
   Aaj Tak HD (1080p)   [AajTak.in@HD]
@@ -110,7 +109,6 @@ WITH GUIDE (1054)
   ABP Sanjha (576p)   [ABPSanjha.in@SD]
   Acapulco Shore US   [AcapulcoShore.us@US]
   ACC Digital Network (1080p)   [ACCDigitalNetwork.us@SD]
-  ACC Network (720p)   [ACCNetwork.us@SD]
   AccuWeather NOW (1080p)   [AccuWeatherNOW.us@SD]
   ACE Country Radio KPVM-LD (480p)   [ACECountryRadio.us@KPVMLD]
   Ace TV (480p)   [AceTV.us@SD]
@@ -127,7 +125,7 @@ WITH GUIDE (1054)
   All Weddings WE tv (1080p)   [AllWeddingsWEtv.us@SD]
   ALLBLK Gems (720p)   [ALLBLKGems.us@SD]
   Always Funny Videos (720p)   [AlwaysFunnyVideos.us@SD]
-  AMC (United States) (720p)   [AMC.us@EastHD]
+  AMC (United States) (1080p) [Geo-blocked]   [AMC.us@EastHD]
   America's Next Top Model   [AmericasNextTopModel.us@SD]
   America's Test Kitchen (720p)   [AmericasTestKitchen.us@SD]
   America's Voice (720p)   [AmericasVoice.us@SD]
@@ -158,7 +156,7 @@ WITH GUIDE (1054)
   At Home with Family Handyman (720p)   [AtHomewithFamilyHandyman.us@SD]
   AWE Plus (720p)   [AWEPlus.us@SD]
   AWE Plus KPVM-LD (484p)   [AWEPlus.us@KPVMLD]
-  AXS TV (720p)   [AXSTV.us@SD]
+  AXS TV (576p)   [AXSTV.us@SD]
   B1   [B1.ro@SD]
   Baby Shark TV (1080p)   [BabySharkTV.us@SD]
   BabyFirst (720p)   [BabyFirst.us@US]
@@ -169,7 +167,6 @@ WITH GUIDE (1054)
   Bar Rescue   [BarRescue.us@SD]
   Battlestar Galactica   [BattlestarGalactica.us@SD]
   Baywatch (1080p)   [Baywatch.us@US]
-  BBC America (720p)   [BBCAmerica.us@East]
   BBC Earth US (1080p)   [BBCEarth.uk@US]
   BBC Food (1080p)   [BBCFood.us@SD]
   BBC Home & Garden (1080p)   [BBCHomeGarden.us@SD]
@@ -415,7 +412,6 @@ WITH GUIDE (1054)
   Fox (United States) WITI (1080p)   [Fox.us@WITI]
   Fox (United States) WJBK (1080p)   [Fox.us@WJBK]
   Fox (United States) WNYW (1080p)   [Fox.us@WNYW]
-  Fox (United States) WSVN (1080p)   [Fox.us@WSVN]
   Fox (United States) WTTG (1080p)   [Fox.us@WTTG]
   Fox (United States) WTVT (1080p)   [Fox.us@WTVT]
   Fox (United States) WTXF-TV (1080p)   [Fox.us@WTXFTV]
@@ -583,7 +579,6 @@ WITH GUIDE (1054)
   Made In Hollywood (720p)   [MadeInHollywood.us@SD]
   Madhimugam TV (576p)   [MadhimugamTV.in@SD]
   MagellanTV Now (1080p)   [MagellanTVNow.us@SD]
-  Magnolia Network (720p)   [MagnoliaNetwork.us@East]
   Mahaa News (1080p)   [MahaaNews.in@SD]
   Mahua Khabar (1080p)   [MahuaKhabar.in@SD]
   Malai Murasu TV (576p)   [MalaiMurasuTV.in@SD]
@@ -665,7 +660,6 @@ WITH GUIDE (1054)
   NBC WPTV-TV (720p)   [NBC.us@WPTVTV]
   NBC WPXI (1080p)   [NBC.us@WPXI]
   NBC WRDE-LD (720p) [Not 24/7]   [NBC.us@WRDELD]
-  NBC WTLV (1080p)   [NBC.us@WTLV]
   NBC WTMJ-TV (720p)   [NBC.us@WTMJTV]
   NBC WTOV-TV (1080p)   [NBC.us@WTOVTV]
   NBC WTVJ (1080p)   [NBC.us@WTVJ]
@@ -934,7 +928,6 @@ WITH GUIDE (1054)
   Teen Mom (United States)   [TeenMom.us@SD]
   TeenNick (United States) (432p)   [TeenNick.us@East]
   TeleMoldova + [Geo-blocked]   [TeleMoldovaPlus.ro@SD]
-  Telemundo (720p)   [Telemundo.us@East]
   Telemundo Al Dia (720p)   [TelemundoAlDia.us@HD]
   Telemundo East HD (1080p)   [Telemundo.us@EastHD]
   Telemundo KNSD (1080p) [Not 24/7]   [Telemundo.us@KNSD]
@@ -1023,11 +1016,9 @@ WITH GUIDE (1054)
   TVR Info (1440p)   [TVRInfo.ro@SD]
   Unbeaten (1080p)   [Unbeaten.us@SD]
   Unidentified (1080p)   [Unidentified.us@SD]
-  UniMas Central (720p)   [UniMas.us@Central]
   UniMas KFTR-DT (1080p) [Geo-blocked]   [UniMas.us@KFTRDT]
   UniMas KUVN-DT (1080p)   [UniMas.us@KUVNDT]
   UniMas Mountain (1080p)   [UniMas.us@Mountain]
-  UniMas WAMI-DT (1080p)   [UniMas.us@WAMIDT]
   UniMas WFUT-DT (720p) [Geo-blocked]   [UniMas.us@WFUTDT]
   UniMas WXTV-DT (1080p)   [UniMas.us@WXTVDT]
   Universal Crime (1080p)   [UniversalCrime.us@East]
@@ -1110,7 +1101,7 @@ WITH GUIDE (1054)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1411)
+NO GUIDE (1408)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1608,7 +1599,6 @@ NO GUIDE (1411)
   El Nuevo Diario TV (480p)   [ElNuevoDiarioTV.do@SD]
   El Pinguino TV (720p)   [ElPinguinoTV.cl@SD]
   El Rey   [ElRey.us@SD]
-  El Sembrador Nueva Evangelizacion ESNE   [ElSembradorNuevaEvangelizacionESNE.us@SD]
   Elbeshara GTV (1080p) [Not 24/7]   [ElbesharaGTV.us@SD]
   Elevation Church Network (1080p)   [ElevationChurchNetwork.us@HD]
   Elyssa TV (1080p)   [ElyssaTV.tn@HD]
@@ -1617,7 +1607,7 @@ NO GUIDE (1411)
   ERT News HD (1080p)   [ERTNews.gr@HD]
   ES.TV (720p)   [ESTV.us@SD]
   Escambia County TV (720p)   [EscambiaCountyTV.us@SD]
-  ESNE TV (1080p)   [ESNETV.us@SD]
+  ESNE TV (720p)   [ESNETV.us@SD]
   Espace TV (1080p)   [EspaceTV.gn@SD]
   Espreso TV (1080p)   [EspresoTV.ua@SD]
   Etna Espresso Channel (720p)   [EtnaEspressoChannel.it@SD]
@@ -1987,8 +1977,6 @@ NO GUIDE (1411)
   NDTV Madhya Pradesh Chhattisgarh (1080p)   [NDTVMadhyaPradeshChhattisgarh.in@SD]
   NDTV Rajasthan (1080p)   [NDTVRajasthan.in@SD]
   Neo News (1080p)   [NeoNews.pk@SD]
-  New Channel (480p)   [NewChannel.ca@SD]
-  New Channel Pop! (480p)   [NewChannelPop.ca@SD]
   News 1st (576p)   [News1st.in@SD]
   News 21 Bangla TV (1080p)   [News21BanglaTV.bd@SD]
   News 24 MP & Chhattisgarh (576p)   [News24MPChhattisgarh.in@SD]
@@ -2327,7 +2315,6 @@ NO GUIDE (1411)
   Telesur English HD (1080p)   [Telesur.ve@EnglishHD]
   Telesur HD (1080p)   [Telesur.ve@HD]
   Television del Este (1080p) [Not 24/7]   [TelevisiondelEste.do@SD]
-  TeleXitos (1080p)   [TeleXitos.us@SD]
   Temecula TV (1080p)   [TemeculaTV.us@SD]
   Tempe 11   [Tempe11.us@SD]
   Ternopil 1 (720p)   [Ternopil1.ua@SD]
@@ -2363,6 +2350,7 @@ NO GUIDE (1411)
   Tolk (720p)   [Tolk.ru@HD]
   TOLOnews (720p)   [TOLOnews.af@SD]
   Tom And Jerry (720p)   [TomAndJerry.do@HD]
+  Tom Sings TV (1080p)   [TomSingsTV.us@HD]
   Tonghua TV (1080p)   [TonghuaTV.cn@SD]
   Toonami Aftermath (480p)   [ToonamiAftermath.us@East]
   Toonami Aftermath West (480p)   [ToonamiAftermath.us@West]
@@ -2447,13 +2435,13 @@ NO GUIDE (1411)
   UCTV (720p) [Not 24/7]   [UCTV.us@SD]
   UMSA TVU LP (720p)   [UMSATVULP.bo@SD]
   UN Web TV (540p)   [UNWebTV.us@SD]
-  UNE TV (720p)   [UNETV.hn@SD]
+  UNE TV (1080p)   [UNETV.hn@SD]
   UNews (1080p)   [UNews.lb@SD]
   Unicanal   [Unicanal.py@SD]
   Unifranz (720p)   [Unifranz.bo@HD]
   Universal Cinema (1080p)   [UniversalCinema.us@SD]
   Universal Comedy (1080p)   [UniversalComedy.us@SD]
-  Univision (1080p)   [Univision.us@East]
+  Univision (1080p) [Geo-blocked]   [Univision.us@East]
   Univision West (1080p) [Geo-blocked]   [Univision.us@West]
   UP NOW (720p)   [UPNOW.in@SD]
   UzReport TV (1080p)   [UzReportTV.uz@SD]
