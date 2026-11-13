@@ -1,8 +1,8 @@
-COVERAGE: 1050 of 2464 channels have a guide (43%)
+COVERAGE: 1051 of 2467 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
   us     719 / 1449  50%
-  in     180 / 301   60%
+  in     181 / 304   60%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   hn       1 / 10    10%
 
 BY CATEGORY
-  News               362 / 1066  34%
+  News               363 / 1069  34%
   General            117 / 282   41%
   Entertainment       80 / 135   59%
   Religious           18 / 132   14%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1050)
+WITH GUIDE (1051)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -215,7 +215,7 @@ WITH GUIDE (1050)
   Bloomberg TV (1080p)   [BloombergTV.us@US]
   Blue Bloods   [BlueBloods.us@SD]
   Bonanza   [Bonanza.us@SD]
-  Boomerang (720p)   [Boomerang.us@SD]
+  Boomerang (United States) (720p)   [Boomerang.us@SD]
   Bounce (720p)   [Bounce.us@SD]
   Bounce XL (1080p)   [BounceXL.us@SD]
   Brat TV (1080p)   [BratTV.us@SD]
@@ -519,6 +519,7 @@ WITH GUIDE (1050)
   Jantantra TV (576p)   [JantantraTV.in@SD]
   JBS (720p)   [JBS.us@SD]
   Jersey Shore (United States)   [JerseyShore.us@SD]
+  JK 24x7 News (576p)   [JK24x7News.in@SD]
   Joel Osteen Network (1080p)   [JoelOsteenNetwork.us@HD]
   Johnny Carson TV (720p)   [JohnnyCarsonTV.us@SD]
   Journy (720p)   [Journy.us@SD]
@@ -1106,7 +1107,7 @@ WITH GUIDE (1050)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1414)
+NO GUIDE (1416)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1791,6 +1792,7 @@ NO GUIDE (1414)
   Kajou TV (720p) [Not 24/7]   [KajouTV.us@SD]
   Kaloopy TV (1080p)   [KaloopyTV.us@SD]
   Kapaz TV   [KapazTV.az@SD]
+  Karnataka News Beat (1080p)   [KarnatakaNewsBeat.in@SD]
   KBEV (1080p)   [KBEV.us@SD]
   KBP Times (1080p)   [KBPTimes.in@SD]
   KBRI-8 (720p)   [KBRI8.us@SD]
@@ -1819,7 +1821,7 @@ NO GUIDE (1414)
   L'altro Corriere TV (720p)   [LaltroCorriereTV.it@SD]
   LA CityView 35 (1080p)   [LACityView35.us@SD]
   La Que Buena Atlanta   [LaQueBuenaAtlanta.us@SD]
-  La Voz de Jesus HD (720p)   [LaVozdeJesusHD.do@HD]
+  La Voz de Jesus HD (720p) [Not 24/7]   [LaVozdeJesusHD.do@HD]
   LA36 (1080p)   [LA36.us@SD]
   LaC News 24 (720p)   [LaCNews24.it@SD]
   Lacrosse TV (720p)   [LacrosseTV.us@SD]
@@ -2027,6 +2029,7 @@ NO GUIDE (1414)
   Nickelodeon en espanol   [Nickelodeonenespanol.us@SD]
   NK TV 24x7 (1080p)   [NKTV24x7.in@SD]
   NMBTV (720p)   [NMBTV.us@SD]
+  Non Stop Bharat (576p)   [NonStopBharat.in@SD]
   Nopola News (1080p) [Not 24/7]   [NopolaNews.fi@SD]
   NorCast Weather (1080p)   [NorCastWeather.us@HD]
   Norte Informativo TV (240p)   [NorteInformativoTV.cr@SD]
@@ -2358,7 +2361,7 @@ NO GUIDE (1414)
   TOI Global (1080p)   [TOIGlobal.in@SD]
   Tolk (720p)   [Tolk.ru@HD]
   TOLOnews (720p)   [TOLOnews.af@SD]
-  Tom And Jerry (720p)   [TomAndJerry.do@HD]
+  Tom And Jerry (720p) [Not 24/7]   [TomAndJerry.do@HD]
   Tom Sings TV (1080p)   [TomSingsTV.us@HD]
   Tonghua TV (1080p)   [TonghuaTV.cn@SD]
   Toonami Aftermath (480p)   [ToonamiAftermath.us@East]
@@ -2375,7 +2378,7 @@ NO GUIDE (1414)
   TSTV (720p)   [TSTV.us@SD]
   TTN24 (720p)   [TTN24.in@SD]
   TTV News   [TTVNews.tw@SD]
-  Turismo HD (720p)   [TurismoHD.do@HD]
+  Turismo HD (720p) [Not 24/7]   [TurismoHD.do@HD]
   TurkHaber TV (720p)   [TurkHaberTV.tr@SD]
   Turno (720p)   [Turno.cl@SD]
   TUTV (1080p)   [TUTV.us@SD]
@@ -2398,7 +2401,7 @@ NO GUIDE (1414)
   TV30 India (1080p)   [TV30India.in@SD]
   TV5 News (576p)   [TV5News.in@SD]
   TV5Monde Info (1080p)   [TV5MondeInfo.fr@SD]
-  TV7 Bharat (576p)   [TV7Bharat.in@SD]
+  TV7 Bharat (1080p)   [TV7Bharat.in@SD]
   TV7 National (1080p)   [TV7National.in@SD]
   tv9 Telemaremma (576p)   [tv9Telemaremma.it@HD]
   TVBS News [Geo-blocked]   [TVBSNews.tw@SD]
