@@ -1,7 +1,7 @@
-COVERAGE: 1053 of 2468 channels have a guide (43%)
+COVERAGE: 1053 of 2472 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     721 / 1452  50%
+  us     721 / 1453  50%
   in     181 / 302   60%
   fr      25 / 41    61%
   pk       1 / 32    3%
@@ -28,9 +28,9 @@ BY COUNTRY (code: with guide / total)
   hn       1 / 10    10%
 
 BY CATEGORY
-  News               363 / 1066  34%
-  General            117 / 282   41%
-  Entertainment       80 / 135   59%
+  News               363 / 1069  34%
+  General            117 / 283   41%
+  Entertainment       81 / 136   60%
   Religious           18 / 132   14%
   Series             106 / 124   85%
   Movies              82 / 116   71%
@@ -41,7 +41,7 @@ BY CATEGORY
   Music               31 / 66    47%
   Education           14 / 57    25%
   Documentary         31 / 44    70%
-  Comedy              25 / 40    62%
+  Comedy              24 / 39    62%
   Culture              9 / 35    26%
   Classic             16 / 35    46%
   Lifestyle           11 / 27    41%
@@ -72,8 +72,9 @@ WITH GUIDE (1053)
   90s Throwback   [90sThrowback.us@SD]
   :24 (1080p)   [24.sk@SD]
   A Haber (1080p)   [AHaber.tr@SD]
+  A&E (1080p)   [AE.us@East]
   Aaj Ki Khabar (1080p)   [AajKiKhabar.in@SD]
-  Aaj Tak (1080p)   [AajTak.in@SD]
+  Aaj Tak (720p)   [AajTak.in@SD]
   Aaj Tak HD (1080p)   [AajTak.in@HD]
   ABC KAAL (1080p)   [ABC.us@KAAL]
   ABC KERO-TV (720p)   [ABC.us@KEROTV]
@@ -232,7 +233,7 @@ WITH GUIDE (1053)
   Capital TV   [CapitalTV.pk@SD]
   Car Chase (United States) (720p)   [CarChase.us@SD]
   Cars.TV (720p)   [CarsTV.us@SD]
-  Cartoon Network (United States) (1080p)   [CartoonNetwork.us@East]
+  Cartoon Network (United States) [Not 24/7;Geo-blocked]   [CartoonNetwork.us@East]
   Cartoon Network (United States) West (1080p) [Geo-blocked]   [CartoonNetwork.us@West]
   CBC News Network (1080p)   [CBCNewsNetwork.ca@SD]
   CBS KCCI (720p)   [CBS.us@KCCI]
@@ -305,7 +306,6 @@ WITH GUIDE (1053)
   CNN News 18 (1080p)   [CNNNews18.in@SD]
   CNN Originals (1080p)   [CNNOriginals.us@SD]
   Cold Case Files (1080p)   [ColdCaseFiles.us@SD]
-  Comedy Central (United States) (1080p)   [ComedyCentral.us@East]
   Comedy Central Pluto TV   [ComedyCentralPlutoTV.us@US]
   Comedy Dynamics (1080p)   [ComedyDynamics.us@SD]
   Comedy.TV (720p)   [ComedyTV.us@SD]
@@ -343,7 +343,7 @@ WITH GUIDE (1053)
   Discovery Channel (United States) (1080p) [Geo-blocked]   [DiscoveryChannel.us@East]
   Discovery Turbo (United States) (720p)   [DiscoveryTurbo.us@SD]
   Disney Channel (United States) (720p)   [DisneyChannel.us@East]
-  Disney Junior (United States) (720p)   [DisneyJunior.us@East]
+  Disney Junior (United States) (480p)   [DisneyJunior.us@East]
   Disney XD (United States) (720p)   [DisneyXD.us@East]
   DNN (576p)   [DNN.in@SD]
   Doctor Who Classic (1080p)   [DoctorWhoClassic.us@US]
@@ -717,11 +717,11 @@ WITH GUIDE (1053)
   NHK World-Japan HD (1080p)   [NHKWorldJapan.jp@HD]
   NHL Network (1080p)   [NHLNetwork.us@SD]
   NHRA TV (1080p)   [NHRATV.us@SD]
-  Nick Jr. (United States) (1080p)   [NickJr.us@East]
+  Nick Jr. (United States) (720p)   [NickJr.us@East]
   Nick Jr. Pluto TV (720p)   [NickJrPlutoTV.us@US]
-  Nickelodeon (United States) (1080p)   [Nickelodeon.us@East]
+  Nickelodeon (United States)   [Nickelodeon.us@East]
   Nickelodeon Pluto TV (720p)   [NickelodeonPlutoTV.us@SD]
-  Nicktoons (United States) (1080p)   [Nicktoons.us@East]
+  Nicktoons (United States) (720p)   [Nicktoons.us@East]
   Ninja Kidz TV (1080p)   [NinjaKidzTV.us@SD]
   NK TV Bangla (1080p)   [NKTVBangla.in@SD]
   Nosey (1080p)   [Nosey.us@US]
@@ -1109,7 +1109,7 @@ WITH GUIDE (1053)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1415)
+NO GUIDE (1419)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1159,12 +1159,13 @@ NO GUIDE (1415)
   99TV (720p)   [99TV.in@SD]
   A2 CNN   [A2CNN.al@SD]
   A24 (1080p)   [A24.ar@SD]
-  A24 Paraguay   [A24Paraguay.py@SD]
+  A24 Paraguay (1080p)   [A24Paraguay.py@SD]
   Aagaaz Times (1080p)   [AagaazTimes.in@SD]
   Aaj News (576p)   [AajNews.pk@SD]
   Aastha International (576p)   [AasthaInternational.in@SD]
   Abante TV (1080p)   [AbanteTV.ph@HD]
   Abb Takk (576p)   [AbbTakk.pk@SD]
+  ABC (1080p)   [ABC.us@East]
   ABC News (720p)   [ABCNews.au@Sydney]
   ABC News Live 1 (720p)   [ABCNewsLive1.us@SD]
   ABC News Live 10 (720p)   [ABCNewsLive10.us@SD]
@@ -1196,6 +1197,7 @@ NO GUIDE (1415)
   AccessVision Channel 16 (720p)   [AccessVisionChannel16.us@SD]
   AccessVision Channel 17 (720p)   [AccessVisionChannel17.us@SD]
   Acento TV   [AcentoTV.do@SD]
+  ACN TV (1080p)   [ACNTV.cm@SD]
   Actualidad 360   [Actualidad360.es@SD]
   ACTV (United States) (720p)   [ACTV.us@SD]
   Acustik TV (720p)   [AcustikTV.mx@SD]
@@ -1767,6 +1769,7 @@ NO GUIDE (1415)
   Indywood TV (720p)   [IndywoodTV.in@SD]
   Info TV (1080p)   [InfoTV.lt@SD]
   Informatia TV   [InformatiaTV.ro@SD]
+  Informer TV (720p)   [InformerTV.rs@SD]
   Instant Saga   [InstantSaga.us@US]
   InTouch+ (1080p) [Geo-blocked]   [InTouchPlus.us@HD]
   INWILD (1080p)   [INWILD.nl@SD]
@@ -1889,6 +1892,7 @@ NO GUIDE (1415)
   Makan 33 (1080p)   [Makan33.il@SD]
   Maria Vision USA (1080p)   [MariaVisionUSA.us@SD]
   Mario Pinto TV (720p) [Not 24/7]   [MarioPintoTV.ec@SD]
+  Markiza TN Live   [MarkizaTNLive.sk@SD]
   Martin County TV (720p)   [MartinCountyTV.us@SD]
   Mas adrenalina   [Masadrenalina.us@SD]
   Mas Noticias Television (720p)   [MasNoticiasTelevision.hn@SD]
@@ -2324,7 +2328,7 @@ NO GUIDE (1415)
   TeleMIX (720p)   [TeleMIX.us@SD]
   Telemundo Corpus Christi (720p)   [TelemundoCorpusChristi.us@SD]
   Telemundo Telenovelas Clasicas   [TelemundoTelenovelasClasicas.us@SD]
-  Telenews TV   [TelenewsTV.do@SD]
+  Telenews TV (1080p)   [TelenewsTV.do@SD]
   Television del Este (1080p) [Not 24/7]   [TelevisiondelEste.do@SD]
   Temecula TV (1080p)   [TemeculaTV.us@SD]
   Tempe 11   [Tempe11.us@SD]
