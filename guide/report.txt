@@ -1,12 +1,12 @@
-COVERAGE: 1053 of 2472 channels have a guide (43%)
+COVERAGE: 1054 of 2472 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     721 / 1453  50%
-  in     181 / 302   60%
+  us     723 / 1455  50%
+  in     181 / 301   60%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
-  ru       6 / 26    23%
+  ru       5 / 26    19%
   es       1 / 24    4%
   tr       9 / 24    38%
   uk      14 / 23    61%
@@ -28,11 +28,11 @@ BY COUNTRY (code: with guide / total)
   hn       1 / 10    10%
 
 BY CATEGORY
-  News               363 / 1069  34%
+  News               362 / 1067  34%
   General            117 / 283   41%
   Entertainment       81 / 136   60%
   Religious           18 / 132   14%
-  Series             106 / 124   85%
+  Series             107 / 125   86%
   Movies              82 / 116   71%
   Undefined           55 / 108   51%
   Legislative          2 / 93    2%
@@ -40,7 +40,7 @@ BY CATEGORY
   Kids                40 / 70    57%
   Music               31 / 66    47%
   Education           14 / 57    25%
-  Documentary         31 / 44    70%
+  Documentary         32 / 45    71%
   Comedy              24 / 39    62%
   Culture              9 / 35    26%
   Classic             16 / 35    46%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 5 / 9     56%
   Family               6 / 8     75%
 
-WITH GUIDE (1053)
+WITH GUIDE (1054)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   22Scope News (1080p)   [22ScopeNews.in@SD]
@@ -530,7 +530,7 @@ WITH GUIDE (1053)
   Jus Punjabi (1080p)   [JusPunjabi.us@SD]
   Just for Laughs Gags (1080p)   [JustforLaughsGags.us@SD]
   Justice Central.TV (720p)   [JusticeCentralTV.us@SD]
-  K News India (720p)   [KNewsIndia.in@SD]
+  K News India (576p)   [KNewsIndia.in@SD]
   Kairali News (720p)   [KairaliNews.in@SD]
   Kalaignar Seithigal (576p)   [KalaignarSeithigal.in@SD]
   Kalinga TV (720p)   [KalingaTV.in@SD]
@@ -731,7 +731,8 @@ WITH GUIDE (1053)
   NTN24 (1080p)   [NTN24.co@SD]
   ntv (720p)   [ntv.al@SD]
   OAN Plus (1080p)   [OANPlus.us@SD]
-  OAN Plus KPVM-LD   [OANPlus.us@KPVMLD]
+  OAN Plus KPVM-LD (1080p)   [OANPlus.us@KPVMLD]
+  On Patrol: Live (720p)   [OnPatrolLive.us@HD]
   One America News Network (720p)   [OneAmericaNewsNetwork.us@SD]
   One Piece   [OnePiece.us@US]
   OTV (Croatia) (720p) [Not 24/7]   [OTV.hr@SD]
@@ -837,6 +838,7 @@ WITH GUIDE (1053)
   Real Wild (1080p)   [RealWild.uk@SD]
   Recipe.TV (720p)   [RecipeTV.us@SD]
   Record News (720p)   [RecordNews.br@SD]
+  Reelz Famous & Infamous (1080p)   [ReelzFamousInfamous.us@HD]
   Reporter (720p)   [Reporter.ua@SD]
   Reporter TV (576p)   [ReporterTV.in@SD]
   Republic Bharat (1080p)   [RepublicBharat.in@SD]
@@ -857,7 +859,6 @@ WITH GUIDE (1053)
   Roar WSBT-TV (1080p)   [Roar.us@WSBTTV]
   RPP TV (1080p)   [RPPTV.pe@SD]
   RT (720p)   [RT.ru@SD]
-  RT Arabic (1080p) [Geo-blocked]   [RTArabic.ru@SD]
   RT HD (1080p)   [RT.ru@HD]
   RTR-Planeta US (720p) [Geo-blocked]   [RTRPlaneta.ru@US]
   Russia-24 (1080p)   [Russia24.ru@SD]
@@ -1109,7 +1110,7 @@ WITH GUIDE (1053)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1419)
+NO GUIDE (1418)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1285,7 +1286,6 @@ NO GUIDE (1419)
   AMX Noticias (720p) [Not 24/7]   [AMXNoticias.mx@SD]
   Ananda Barta (720p)   [AnandaBarta.in@SD]
   Aneflix Live (720p)   [AneflixLive.us@HD]
-  AnewZ TV   [AnewZTV.az@SD]
   Anger Management Channel (1080p)   [AngerManagementChannel.us@SD]
   Animation+ (1080p) [Geo-blocked]   [AnimationPlus.us@SD]
   Anshun Comprehensive News Channel   [AnshunComprehensiveNewsChannel.cn@SD]
@@ -1967,7 +1967,6 @@ NO GUIDE (1419)
   Nabaa TV (720p) [Not 24/7]   [NabaaTV.lb@SD]
   Nablus TV (720p) [Not 24/7]   [NablusTV.ps@SD]
   Nachrichten 360 (1080p) [Geo-blocked]   [Nachrichten360.de@HD]
-  Nagaland TV (576p)   [NagalandTV.in@SD]
   NAN TV (720p)   [NANTV.bd@SD]
   Nanduti (1080p)   [Nanduti.py@SD]
   Naruto en espanol   [Narutoenespanol.us@SD]
@@ -2115,7 +2114,7 @@ NO GUIDE (1419)
   PCTV 28 (480p)   [PCTV28.us@SD]
   Pershiy XTV Media (576p)   [PershiyXTVMedia.ua@SD]
   Perviy Informationniy HD (1080p)   [PerviyInformationniy.by@HD]
-  Pervyy Respublikanskiy   [PervyyRespublikanskiy.ru@SD]
+  Pervyy Respublikanskiy (576p)   [PervyyRespublikanskiy.ru@SD]
   PhillyCAM (720p)   [PhillyCAM.us@SD]
   PHLgovTV (720p)   [PHLgovTV.us@SD]
   Phoenix InfoNews Channel (720p)   [PhoenixInfoNewsChannel.hk@SD]
@@ -2207,6 +2206,7 @@ NO GUIDE (1419)
   Rozana Spokesman (1080p)   [RozanaSpokesman.in@SD]
   Roze News (576p)   [RozeNews.pk@SD]
   RSelvaTV (720p)   [RSelvaTV.pe@SD]
+  RT Arabic (1080p) [Geo-blocked]   [RTArabic.ru@SD]
   RT Balkan (1080p)   [RTBalkan.ru@SD]
   RT DE (1080p) [Not 24/7]   [RTDE.de@SD]
   RT en Espanol (1080p)   [RTenEspanol.ru@SD]
@@ -2230,7 +2230,7 @@ NO GUIDE (1419)
   RVTV Grants Pass (720p)   [RVTVGrantsPass.us@SD]
   RVTV Prime (720p)   [RVTVPrime.us@SD]
   RVTV Voices (720p)   [RVTVVoices.us@SD]
-  SABC Lehae [Geo-blocked]   [SABCLehae.za@SD]
+  SABC Lehae (1080p) [Geo-blocked]   [SABCLehae.za@SD]
   SABC News (720p) [Geo-blocked]   [SABCNews.za@SD]
   Sadhna News Madhya Pradesh/Chhattisgarh (576p)   [SadhnaNewsMadhyaPradeshChhattisgarh.in@SD]
   Sadhna Plus News (720p)   [SadhnaPlusNews.in@SD]
@@ -2314,7 +2314,7 @@ NO GUIDE (1419)
   TAP TV Channel 25 (720p)   [TAPTVChannel25.us@SD]
   Tapesh 2   [Tapesh2.us@SD]
   TBCN (480p)   [TBCN.us@SD]
-  TBN Armenia   [TBNArmenia.us@SD]
+  TBN Armenia (1080p)   [TBNArmenia.us@SD]
   TBN Ukraine (720p)   [TBNUkraine.us@SD]
   TCM 10 HD (1080p)   [TCM10HD.br@SD]
   TDM Information (720p) [Not 24/7]   [TDMInformation.mo@SD]
@@ -2367,7 +2367,7 @@ NO GUIDE (1419)
   Tolk (720p)   [Tolk.ru@HD]
   TOLOnews (720p)   [TOLOnews.af@SD]
   Tom And Jerry (720p) [Not 24/7]   [TomAndJerry.do@HD]
-  Tom Sings TV (1080p)   [TomSingsTV.us@HD]
+  Tom Sings TV (576p)   [TomSingsTV.us@HD]
   Tonghua TV (1080p)   [TonghuaTV.cn@SD]
   Toonami Aftermath (480p)   [ToonamiAftermath.us@East]
   Toonami Aftermath West (480p)   [ToonamiAftermath.us@West]
