@@ -1,19 +1,19 @@
-COVERAGE: 1116 of 2537 channels have a guide (44%)
+COVERAGE: 1116 of 2527 channels have a guide (44%)
 
 BY COUNTRY (code: with guide / total)
-  us     783 / 1516  52%
+  us     783 / 1515  52%
   in     182 / 303   60%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 27    11%
   ru       6 / 26    23%
   uk      14 / 24    58%
-  es       1 / 24    4%
   tr       9 / 24    38%
   ua       3 / 23    13%
   cn       1 / 23    4%
+  es       1 / 19    5%
   it       4 / 19    21%
-  do       1 / 18    6%
+  do       1 / 17    6%
   ro       9 / 16    56%
   ca       5 / 15    33%
   iq       1 / 14    7%
@@ -28,10 +28,10 @@ BY COUNTRY (code: with guide / total)
   hn       1 / 10    10%
 
 BY CATEGORY
-  News               367 / 1073  34%
-  General            156 / 323   48%
+  News               367 / 1067  34%
+  General            156 / 320   49%
   Entertainment       82 / 137   60%
-  Religious           18 / 132   14%
+  Religious           18 / 131   14%
   Series             110 / 129   85%
   Movies              84 / 119   71%
   Undefined           59 / 112   53%
@@ -44,8 +44,8 @@ BY CATEGORY
   Comedy              25 / 40    62%
   Classic             17 / 36    47%
   Culture              9 / 35    26%
-  Lifestyle           11 / 27    41%
   Animation           15 / 26    58%
+  Lifestyle           11 / 26    42%
   Business             7 / 22    32%
   Shop                 7 / 18    39%
   Outdoor              7 / 16    44%
@@ -1172,9 +1172,8 @@ WITH GUIDE (1116)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1421)
+NO GUIDE (1411)
   100% NEWS (576p)   [100NEWS.ua@SD]
-  101tv Malaga   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
   24 Horas (720p)   [24Horas.es@SD]
   24 Horas Canarias (1080p)   [24HorasCanarias.es@SD]
@@ -1388,7 +1387,6 @@ NO GUIDE (1421)
   AWE International (720p)   [AWEInternational.us@SD]
   Aznews TV (720p) [Not 24/7]   [AznewsTV.se@SD]
   Backstage (1080p)   [Backstage.us@SD]
-  Baku.TV   [BakuTV.az@SD]
   Balafon TV [Geo-blocked]   [BalafonTV.cm@SD]
   BandNews (1080p)   [BandNews.br@SD]
   Bangla Jago (720p)   [BanglaJago.in@SD]
@@ -1469,7 +1467,6 @@ NO GUIDE (1421)
   CAN TV21 (1080p)   [CANTV21.us@SD]
   CAN TV27 (1080p)   [CANTV27.us@SD]
   CAN TV36 (1080p)   [CANTV36.us@SD]
-  Canal 1 Mar Menor Torre Pacheco (1080p)   [Canal1MarMenorTorrePacheco.es@SD]
   Canal 26 (Argentina) (1080p)   [Canal26.ar@SD]
   Canal 33 Tijuana (720p)   [Canal33Tijuana.mx@SD]
   Canal 38 (720p)   [Canal38.br@SD]
@@ -1503,7 +1500,7 @@ NO GUIDE (1421)
   CFM TV Channel 98 (360p)   [CFMTVChannel98.us@SD]
   CGTN Arabic   [CGTNArabic.cn@SD]
   CGTN French (1080p)   [CGTNFrench.cn@SD]
-  CGTN Russian (1080p)   [CGTNRussian.cn@SD]
+  CGTN Russian (576p)   [CGTNRussian.cn@SD]
   CGTN Spanish (1080p)   [CGTNSpanish.cn@SD]
   CGTV (720p)   [CGTV.us@SD]
   Channel 10 (United States) (720p)   [Channel10.us@SD]
@@ -1771,7 +1768,6 @@ NO GUIDE (1421)
   Guatevision (1080p)   [Guatevision.gt@SD]
   Gugbang TV (1080p) [Not 24/7]   [GugbangTV.kr@SD]
   Gujarat First (1080p)   [GujaratFirst.in@SD]
-  GunAz TV   [GunAzTV.us@SD]
   Guneydogu TV (720p)   [GuneydoguTV.tr@SD]
   Haber61 TV (720p) [Not 24/7]   [Haber61TV.tr@SD]
   Haberturk TV (720p) [Not 24/7]   [HaberturkTV.tr@SD]
@@ -1857,7 +1853,6 @@ NO GUIDE (1421)
   Kadak (1080p)   [Kadak.in@SD]
   Kajou TV (720p) [Not 24/7]   [KajouTV.us@SD]
   Kaloopy TV (1080p)   [KaloopyTV.us@SD]
-  Kapaz TV [Geo-blocked]   [KapazTV.az@SD]
   Karnataka News Beat (1080p)   [KarnatakaNewsBeat.in@SD]
   KBEV (1080p)   [KBEV.us@SD]
   KBP Times (1080p)   [KBPTimes.in@SD]
@@ -1938,9 +1933,7 @@ NO GUIDE (1421)
   Logos TV (Spain) (1080p) [Not 24/7]   [LogosTV.es@SD]
   Logos TV (United States) (1080p) [Not 24/7]   [LogosTV.us@SD]
   Logos TV English (1080p) [Not 24/7]   [LogosTVEnglish.us@SD]
-  Logos TV Estudio (720p) [Not 24/7]   [LogosTVEstudio.es@SD]
   Logos TV Kids (720p) [Not 24/7]   [LogosTVKids.es@SD]
-  Logos TV Salud (720p) [Not 24/7]   [LogosTVSalud.es@SD]
   Lolwe TV (576p) [Not 24/7]   [LolweTV.ke@SD]
   Love Nature en Espanol (1080p)   [LoveNatureenEspanol.us@SD]
   Love The Planet (1080p)   [LoveThePlanet.es@EN]
@@ -2003,7 +1996,6 @@ NO GUIDE (1421)
   Ministerio La Voz De Un Remanente TV   [MinisterioLaVozDeUnRemanenteTV.us@SD]
   Mir 24 (1080p)   [Mir24.ru@SD]
   Miracle Channel (1080p)   [MiracleChannel.se@SD]
-  Mirame TV (360p) [Not 24/7]   [MirameTV.es@SD]
   Mission TV (1080p) [Not 24/7]   [MissionTV.us@SD]
   MLB Strike Zone (720p)   [MLBStrikeZone.us@SD]
   MMA TV (576p)   [MMATV.us@SD]
@@ -2121,7 +2113,6 @@ NO GUIDE (1421)
   NW Info 2 (576p)   [NWInfo2.tg@SD]
   NYXT (1080p)   [NYXT.us@SD]
   O'zbekiston 24 (1080p)   [Ozbekiston24.uz@SD]
-  Obieqtivi TV   [ObieqtiviTV.ge@SD]
   Obozrevatel TV   [ObozrevatelTV.ua@SD]
   Observator News (360p)   [ObservatorNews.ro@SD]
   Obshchestvennoe Nezavisimoe Televidenie (576p)   [ObshchestvennoeNezavisimoeTelevidenie.ua@SD]
@@ -2455,7 +2446,6 @@ NO GUIDE (1421)
   TV A Folha (720p)   [TVAFolha.br@SD]
   TV Arta (720p)   [TVArta.xk@SD]
   TV Brusque (720p)   [TVBrusque.br@SD]
-  TV Daja (1080p) [Not 24/7]   [TVDaja.do@SD]
   TV Hispanic [Not 24/7]   [TVHispanic.us@SD]
   TV Jadran (720p) [Not 24/7]   [TVJadran.hr@SD]
   TV Natal (1080p)   [TVNatal.br@SD]
