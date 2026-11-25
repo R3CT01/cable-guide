@@ -1,4 +1,4 @@
-COVERAGE: 1094 of 2499 channels have a guide (44%)
+COVERAGE: 1091 of 2499 channels have a guide (44%)
 
 BY COUNTRY (code: with guide / total)
   us     766 / 1494  51%
@@ -6,9 +6,9 @@ BY COUNTRY (code: with guide / total)
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 28    11%
-  ru       6 / 26    23%
-  uk      15 / 25    60%
-  tr       9 / 24    38%
+  ru       5 / 26    19%
+  uk      14 / 24    58%
+  tr       8 / 24    33%
   ua       3 / 23    13%
   cn       1 / 23    4%
   es       1 / 19    5%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   hn       1 / 10    10%
 
 BY CATEGORY
-  News               362 / 1059  34%
+  News               359 / 1059  34%
   General            141 / 307   46%
   Entertainment       82 / 137   60%
   Religious           18 / 132   14%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 6 / 10    60%
   Weather              8 / 10    80%
 
-WITH GUIDE (1094)
+WITH GUIDE (1091)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   24 Hour Free Movies (720p)   [24HourFreeMovies.us@SD]
@@ -172,7 +172,6 @@ WITH GUIDE (1094)
   BBC Food (1080p)   [BBCFood.us@SD]
   BBC Home & Garden (1080p)   [BBCHomeGarden.us@SD]
   BBC News Africa (1080p)   [BBCNews.uk@Africa]
-  BBC News Asia Pacific (480p)   [BBCNews.uk@AsiaPacific]
   BBC News Europe (576p)   [BBCNews.uk@Europe]
   BBC News North America (1080p)   [BBCNews.uk@NorthAmerica]
   BBC News South Asia (720p)   [BBCNews.uk@SouthAsia]
@@ -483,7 +482,6 @@ WITH GUIDE (1094)
   GS TV (576p)   [GSTV.in@SD]
   Gulistan News (1080p)   [GulistanNews.in@SD]
   Gunsmoke   [Gunsmoke.us@SD]
-  Haber Global (720p) [Not 24/7]   [HaberGlobal.tr@SD]
   Hallmark Movies & More (1080p)   [HallmarkMoviesMore.us@SD]
   Hallmark Mystery (720p) [Geo-blocked]   [HallmarkMystery.us@East]
   Happy Days   [HappyDays.us@SD]
@@ -899,7 +897,6 @@ WITH GUIDE (1094)
   Roar WTVF (1080p)   [Roar.us@WTVF]
   RPP TV (1080p)   [RPPTV.pe@SD]
   RT (720p)   [RT.ru@SD]
-  RT Arabic (1080p) [Geo-blocked]   [RTArabic.ru@SD]
   RT HD (1080p)   [RT.ru@HD]
   RTR-Planeta US (720p) [Geo-blocked]   [RTRPlaneta.ru@US]
   Russia-24 (1080p)   [Russia24.ru@SD]
@@ -1150,7 +1147,7 @@ WITH GUIDE (1094)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1405)
+NO GUIDE (1408)
   100% NEWS (576p)   [100NEWS.ua@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
   24 Horas (720p)   [24Horas.es@SD]
@@ -1748,6 +1745,7 @@ NO GUIDE (1405)
   Gugbang TV (1080p) [Not 24/7]   [GugbangTV.kr@SD]
   Gujarat First (1080p)   [GujaratFirst.in@SD]
   Guneydogu TV (720p)   [GuneydoguTV.tr@SD]
+  Haber Global (720p) [Not 24/7]   [HaberGlobal.tr@SD]
   Haber61 TV (720p) [Not 24/7]   [Haber61TV.tr@SD]
   Haberturk TV (720p) [Not 24/7]   [HaberturkTV.tr@SD]
   Haiti News Channel (1080p) [Not 24/7]   [HaitiNewsChannel.ht@SD]
@@ -2237,6 +2235,7 @@ NO GUIDE (1405)
   Rozana Spokesman (1080p)   [RozanaSpokesman.in@SD]
   Roze News (576p)   [RozeNews.pk@SD]
   RSelvaTV (720p)   [RSelvaTV.pe@SD]
+  RT Arabic (1080p) [Geo-blocked]   [RTArabic.ru@SD]
   RT Balkan (1080p)   [RTBalkan.ru@SD]
   RT DE (1080p) [Not 24/7]   [RTDE.de@SD]
   RT en Espanol (1080p)   [RTenEspanol.ru@SD]
@@ -2490,6 +2489,7 @@ NO GUIDE (1405)
   Universal Comedy (1080p)   [UniversalComedy.us@SD]
   Univision (1080p) [Geo-blocked]   [Univision.us@East]
   Univision West (1080p) [Geo-blocked]   [Univision.us@West]
+  UNU TV (1080p)   [UNUTV.md@SD]
   UP NOW (720p)   [UPNOW.in@SD]
   UzReport TV (1080p)   [UzReportTV.uz@SD]
   Vallenato Internacional (720p) [Not 24/7]   [VallenatoInternacional.us@SD]
