@@ -1,17 +1,17 @@
-COVERAGE: 1093 of 2499 channels have a guide (44%)
+COVERAGE: 1090 of 2501 channels have a guide (44%)
 
 BY COUNTRY (code: with guide / total)
-  us     766 / 1494  51%
-  in     176 / 293   60%
+  us     763 / 1491  51%
+  in     176 / 301   58%
   fr      25 / 41    61%
   pk       1 / 32    3%
   br       3 / 28    11%
   ru       6 / 26    23%
   uk      14 / 24    58%
-  tr       9 / 24    38%
+  tr      13 / 24    54%
   ua       3 / 23    13%
   cn       1 / 23    4%
-  es       1 / 19    5%
+  es       1 / 20    5%
   it       4 / 19    21%
   do       1 / 18    6%
   ro       9 / 16    56%
@@ -28,7 +28,7 @@ BY COUNTRY (code: with guide / total)
   hn       1 / 10    10%
 
 BY CATEGORY
-  News               361 / 1059  34%
+  News               365 / 1068  34%
   General            141 / 307   46%
   Entertainment       82 / 137   60%
   Religious           18 / 132   14%
@@ -38,7 +38,7 @@ BY CATEGORY
   Legislative          2 / 93    2%
   Sports              51 / 75    68%
   Kids                41 / 70    59%
-  Music               30 / 66    45%
+  Music               23 / 59    39%
   Education           14 / 57    25%
   Documentary         30 / 42    71%
   Comedy              25 / 40    62%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 6 / 10    60%
   Weather              8 / 10    80%
 
-WITH GUIDE (1093)
+WITH GUIDE (1090)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   24 Hour Free Movies (720p)   [24HourFreeMovies.us@SD]
@@ -403,6 +403,7 @@ WITH GUIDE (1093)
   Feel Good Drama   [FeelGoodDrama.us@SD]
   FilmRise Forensic Files (720p) [Geo-blocked]   [FilmRiseForensicFiles.us@SD]
   First India News (576p)   [FirstIndiaNews.in@SD]
+  Flash Haber TV (1080p)   [FlashHaberTV.tr@SD]
   Flicks of Fury   [FlicksofFury.us@SD]
   FNX KVCR-DT [Geo-blocked]   [FNX.us@KVCRDT]
   Food Network (United States) (720p)   [FoodNetwork.us@East]
@@ -483,6 +484,7 @@ WITH GUIDE (1093)
   Gulistan News (1080p)   [GulistanNews.in@SD]
   Gunsmoke   [Gunsmoke.us@SD]
   Haber Global (720p) [Not 24/7]   [HaberGlobal.tr@SD]
+  Halk TV SD (1080p)   [HalkTV.tr@SD]
   Hallmark Movies & More (1080p)   [HallmarkMoviesMore.us@SD]
   Hallmark Mystery (720p) [Geo-blocked]   [HallmarkMystery.us@East]
   Happy Days   [HappyDays.us@SD]
@@ -1037,6 +1039,7 @@ WITH GUIDE (1093)
   Transformers TV (720p)   [TransformersTV.us@SD]
   Tribeca Channel (1080p) [Geo-blocked]   [TribecaChannel.us@SD]
   TRT (Greece) (720p)   [TRT.gr@SD]
+  TRT Arabi (1080p) [Not 24/7]   [TRTArabi.tr@SD]
   TRT Haber (720p)   [TRTHaber.tr@SD]
   TRT World (720p)   [TRTWorld.tr@SD]
   TRT World HD   [TRTWorld.tr@HD]
@@ -1046,6 +1049,7 @@ WITH GUIDE (1093)
   truTV (720p) [Geo-blocked]   [truTV.us@East]
   truTV West (720p) [Geo-blocked]   [truTV.us@West]
   TUDN (United States) (1080p) [Geo-blocked]   [TUDN.us@SD]
+  TurkHaber TV (720p)   [TurkHaberTV.tr@SD]
   TV Land Drama   [TVLandDrama.us@SD]
   TV Land Sitcoms   [TVLandSitcoms.us@SD]
   TV Zoom (720p)   [TVZoom.br@SD]
@@ -1123,13 +1127,6 @@ WITH GUIDE (1093)
   WSOC Now (1080p) [Geo-blocked]   [WSOCNow.us@SD]
   Wu Tang Collection (720p)   [WuTangCollection.us@SD]
   WVVH-CD 18.1 (720p)   [WVVHCD181.us@HD]
-  XITE 90's Throwback (1080p)   [XITE90sThrowback.us@SD]
-  XITE Classic Country (720p)   [XITEClassicCountry.nl@SD]
-  XITE Just Chill (1080p)   [XITEJustChill.nl@US]
-  XITE Nuevo Latino (1080p)   [XITENuevoLatino.us@SD]
-  XITE Reggae Vibes (1080p)   [XITEReggaeVibes.nl@HD]
-  XITE Rock x Metal (1080p)   [XITERockxMetal.nl@US]
-  XITE Siempre Latino (1080p)   [XITESiempreLatino.us@SD]
   Xplore TV (1080p)   [XploreTV.us@SD]
   Yahoo! Finance (1080p)   [YahooFinance.us@SD]
   Yes Network (720p)   [YesNetwork.us@SD]
@@ -1149,8 +1146,9 @@ WITH GUIDE (1093)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1406)
+NO GUIDE (1411)
   100% NEWS (576p)   [100NEWS.ua@SD]
+  101tv Malaga (720p) [Geo-blocked]   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
   24 Horas (720p)   [24Horas.es@SD]
   24 Horas Canarias (1080p)   [24HorasCanarias.es@SD]
@@ -1203,7 +1201,8 @@ NO GUIDE (1406)
   Abante TV (1080p)   [AbanteTV.ph@HD]
   Abb Takk (576p)   [AbbTakk.pk@SD]
   ABC (1080p)   [ABC.us@East]
-  ABC News (720p)   [ABCNews.au@Sydney]
+  ABC News (Australia) (720p)   [ABCNews.au@Sydney]
+  ABC News (India) (1080p)   [ABCNews.in@SD]
   ABC News Live 1 (720p)   [ABCNewsLive1.us@SD]
   ABC News Live 10 (720p)   [ABCNewsLive10.us@SD]
   ABC News Live 2 (720p)   [ABCNewsLive2.us@SD]
@@ -1686,7 +1685,6 @@ NO GUIDE (1406)
   Finans Turk TV (720p)   [FinansTurkTV.tr@SD]
   First Channel News (1080p)   [FirstChannelNews.am@SD]
   FITE 24/7 (1080p)   [FITE247.us@SD]
-  Flash Haber TV (1080p)   [FlashHaberTV.tr@SD]
   Flowers TV USA (396p)   [FlowersTVUSA.us@SD]
   FMH Kids (720p)   [FMHKids.us@SD]
   FMH Movies (1080p)   [FMHMovies.us@SD]
@@ -1751,7 +1749,6 @@ NO GUIDE (1406)
   Haberturk TV (720p) [Not 24/7]   [HaberturkTV.tr@SD]
   Haiti News Channel (1080p) [Not 24/7]   [HaitiNewsChannel.ht@SD]
   Halab Today TV (1080p)   [HalabTodayTV.sy@SD]
-  Halk TV SD (1080p)   [HalkTV.tr@SD]
   Hamdard TV (1080p)   [HamdardTV.ca@SD]
   Harbin Comprehensive News Channel   [HarbinComprehensiveNewsChannel.cn@SD]
   Harmony Gospel Music TV (1080p)   [HarmonyGospelMusicTV.us@SD]
@@ -1798,6 +1795,7 @@ NO GUIDE (1406)
   ICN Digital   [ICNDigital.hn@SD]
   ICONE TV   [ICONETV.bj@SD]
   Iman TV (480p)   [ImanTV.us@SD]
+  IN 24 News (1080p)   [IN24News.in@SD]
   In the Kitchen (720p)   [IntheKitchen.us@SD]
   India Ahead (576p)   [IndiaAhead.in@SD]
   India News Gujarati (576p)   [IndiaNewsGujarati.in@SD]
@@ -1912,6 +1910,7 @@ NO GUIDE (1406)
   Logos TV (United States) (1080p) [Not 24/7]   [LogosTV.us@SD]
   Logos TV English (1080p) [Not 24/7]   [LogosTVEnglish.us@SD]
   Logos TV Kids (720p) [Not 24/7]   [LogosTVKids.es@SD]
+  Lokmat Bharat (1080p)   [LokmatBharat.in@SD]
   Lolwe TV (576p) [Not 24/7]   [LolweTV.ke@SD]
   Love Nature en Espanol (1080p)   [LoveNatureenEspanol.us@SD]
   Love The Planet (1080p)   [LoveThePlanet.es@EN]
@@ -2021,8 +2020,10 @@ NO GUIDE (1406)
   NDTV (1080p)   [NDTV.in@SD]
   NDTV Madhya Pradesh Chhattisgarh (1080p)   [NDTVMadhyaPradeshChhattisgarh.in@SD]
   NDTV Rajasthan (1080p)   [NDTVRajasthan.in@SD]
+  NE Bharat24 (1080p)   [NEBharat24.in@SD]
   Neo News (1080p)   [NeoNews.pk@SD]
   News 1st (576p)   [News1st.in@SD]
+  News 21 (1080p)   [News21.in@SD]
   News 21 Bangla TV (1080p)   [News21BanglaTV.bd@SD]
   News 24 MP & Chhattisgarh (576p)   [News24MPChhattisgarh.in@SD]
   News Central (720p)   [NewsCentral.ng@SD]
@@ -2189,6 +2190,7 @@ NO GUIDE (1406)
   PTV (Ukraine) (720p)   [PTV.ua@SD]
   PTV News (1080p)   [PTVNews.pk@SD]
   Public News (1080p)   [PublicNews.pk@SD]
+  Pulse 24 (1080p)   [Pulse24.in@SD]
   Puranoticia TV (720p)   [PuranoticiaTV.cl@SD]
   Pure Flix TV (1080p) [Geo-blocked]   [PureFlixTV.us@SD]
   Puthiya Thalaimurai Express (720p)   [PuthiyaThalaimuraiExpress.in@SD]
@@ -2342,6 +2344,7 @@ NO GUIDE (1406)
   TAP TV Channel 24 (720p)   [TAPTVChannel24.us@SD]
   TAP TV Channel 25 (720p)   [TAPTVChannel25.us@SD]
   Tapesh 2   [Tapesh2.us@SD]
+  Tara TV (720p)   [TaraTV.in@SD]
   TBCN (480p)   [TBCN.us@SD]
   TBN Armenia (1080p)   [TBNArmenia.us@SD]
   TBN Ukraine (720p)   [TBNUkraine.us@SD]
@@ -2404,14 +2407,12 @@ NO GUIDE (1406)
   Top Stories by Newsy (720p)   [TopStoriesbyNewsy.us@SD]
   Trailers UK (1080p)   [Trailers.es@UK]
   Tribuna TV (720p) [Not 24/7]   [TribunaTV.sv@SD]
-  TRT Arabi (1080p) [Not 24/7]   [TRTArabi.tr@SD]
   True Crime Network (1080p) [Geo-blocked]   [TrueCrimeNetwork.us@SD]
   TSi   [TSi.hn@SD]
   TSN TeleSondrio News (480p) [Not 24/7]   [TSNTeleSondrioNews.it@SD]
   TSTV (720p)   [TSTV.us@SD]
   TTV News   [TTVNews.tw@SD]
   Turismo HD (720p) [Not 24/7]   [TurismoHD.do@HD]
-  TurkHaber TV (720p)   [TurkHaberTV.tr@SD]
   Turno (720p)   [Turno.cl@SD]
   TUTV (1080p)   [TUTV.us@SD]
   TV A Folha (720p)   [TVAFolha.br@SD]
@@ -2493,6 +2494,7 @@ NO GUIDE (1406)
   UP NOW (720p)   [UPNOW.in@SD]
   UzReport TV (1080p)   [UzReportTV.uz@SD]
   Vallenato Internacional (720p) [Not 24/7]   [VallenatoInternacional.us@SD]
+  Vande Bharat News (1080p)   [VandeBharatNews.in@SD]
   VBC News (1080p)   [VBCNews.in@SD]
   VBS TV (480p) [Not 24/7]   [VBSTV.us@SD]
   VCAT (480p)   [VCAT.us@SD]
