@@ -1,7 +1,7 @@
-COVERAGE: 1090 of 2501 channels have a guide (44%)
+COVERAGE: 1089 of 2501 channels have a guide (44%)
 
 BY COUNTRY (code: with guide / total)
-  us     763 / 1491  51%
+  us     762 / 1491  51%
   in     176 / 301   58%
   fr      25 / 41    61%
   pk       1 / 32    3%
@@ -29,7 +29,7 @@ BY COUNTRY (code: with guide / total)
 
 BY CATEGORY
   News               365 / 1068  34%
-  General            141 / 307   46%
+  General            140 / 307   46%
   Entertainment       82 / 137   60%
   Religious           18 / 132   14%
   Series             110 / 129   85%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 6 / 10    60%
   Weather              8 / 10    80%
 
-WITH GUIDE (1090)
+WITH GUIDE (1089)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   24 Hour Free Movies (720p)   [24HourFreeMovies.us@SD]
@@ -320,7 +320,6 @@ WITH GUIDE (1090)
   Comedy Central Pluto TV   [ComedyCentralPlutoTV.us@US]
   Comedy Dynamics (1080p)   [ComedyDynamics.us@SD]
   Comedy.TV (720p)   [ComedyTV.us@SD]
-  Comercio TV (1080p)   [ComercioTV.us@SD]
   Comet (1080p)   [Comet.us@SD]
   Cooking Channel (720p)   [CookingChannel.us@SD]
   Cops (720p)   [Cops.us@SD]
@@ -1146,7 +1145,7 @@ WITH GUIDE (1090)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1411)
+NO GUIDE (1412)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga (720p) [Geo-blocked]   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1545,6 +1544,7 @@ NO GUIDE (1411)
   Collier TV (720p)   [CollierTV.us@SD]
   Comedy Central Animation   [ComedyCentralAnimation.us@SD]
   Comedy Central en Espanol   [ComedyCentralenEspanol.us@SD]
+  Comercio TV (1080p)   [ComercioTV.us@SD]
   Community 12TV (720p)   [Community12TV.us@SD]
   CommunityTV Channel 189 (1080p) [Geo-blocked]   [CommunityTVChannel189.us@SD]
   Concert Channel (720p)   [ConcertChannel.us@SD]
