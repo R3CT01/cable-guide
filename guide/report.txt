@@ -1,17 +1,17 @@
-COVERAGE: 1069 of 2484 channels have a guide (43%)
+COVERAGE: 1070 of 2489 channels have a guide (43%)
 
 BY COUNTRY (code: with guide / total)
-  us     743 / 1470  51%
+  us     744 / 1474  50%
   in     177 / 304   58%
   fr      23 / 41    56%
   pk       1 / 32    3%
-  br       3 / 28    11%
+  br       3 / 27    11%
   ru       6 / 26    23%
   uk      14 / 24    58%
   tr      13 / 24    54%
   cn       1 / 24    4%
   ua       3 / 23    13%
-  es       1 / 20    5%
+  es       1 / 22    5%
   it       4 / 19    21%
   do       1 / 18    6%
   ro       9 / 16    56%
@@ -28,9 +28,9 @@ BY COUNTRY (code: with guide / total)
   hn       1 / 10    10%
 
 BY CATEGORY
-  News               364 / 1072  34%
-  General            124 / 290   43%
-  Entertainment       82 / 137   60%
+  News               364 / 1073  34%
+  General            124 / 289   43%
+  Entertainment       82 / 136   60%
   Religious           18 / 132   14%
   Series             109 / 128   85%
   Movies              83 / 118   70%
@@ -38,15 +38,15 @@ BY CATEGORY
   Legislative          2 / 93    2%
   Sports              51 / 75    68%
   Kids                41 / 70    59%
-  Music               23 / 59    39%
+  Music               24 / 59    41%
   Education           14 / 57    25%
-  Documentary         30 / 42    71%
+  Documentary         30 / 43    70%
   Comedy              25 / 39    64%
   Culture              9 / 35    26%
   Classic             16 / 35    46%
   Animation           15 / 26    58%
   Lifestyle           11 / 26    42%
-  Business             6 / 21    29%
+  Business             6 / 22    27%
   Shop                 7 / 18    39%
   Outdoor              7 / 16    44%
   Cooking              9 / 15    60%
@@ -54,7 +54,7 @@ BY CATEGORY
   Auto                 6 / 10    60%
   Weather              8 / 10    80%
 
-WITH GUIDE (1069)
+WITH GUIDE (1070)
   00s Replay   [00sReplay.us@SD]
   10 TV (720p)   [10TV.in@SD]
   24 Hour Free Movies (720p)   [24HourFreeMovies.us@SD]
@@ -647,6 +647,7 @@ WITH GUIDE (1069)
   MTV (United States) (1080p)   [MTV.us@East]
   MTV Biggest Pop (1080p)   [MTVBiggestPop.us@US]
   MTV Flow Latino (720p)   [MTVFlowLatino.us@SD]
+  MTV Live (1080p)   [MTVLive.us@SD]
   MTV Pluto TV   [MTVPlutoTV.us@US]
   MTV Spankin' New (1080p)   [MTVSpankinNew.us@US]
   Munsif TV (1080p)   [MunsifTV.in@SD]
@@ -1125,7 +1126,7 @@ WITH GUIDE (1069)
   Zee Telugu News (720p)   [ZeeTeluguNews.in@SD]
   Zee Uttar Pradesh/Uttarakhand (720p)   [ZeeUttarPradeshUttarakhand.in@SD]
 
-NO GUIDE (1415)
+NO GUIDE (1419)
   100% NEWS (576p)   [100NEWS.ua@SD]
   101tv Malaga (720p) [Geo-blocked]   [101tvMalaga.es@SD]
   13 Siam Thai (1080p)   [13SiamThai.th@SD]
@@ -1325,6 +1326,7 @@ NO GUIDE (1415)
   Atacama Noticias (720p) [Not 24/7]   [AtacamaNoticias.cl@SD]
   ATL 26   [ATL26.us@SD]
   Atlanta Channel (720p)   [AtlantaChannel.us@SD]
+  Atlantico Television (1080p)   [AtlanticoTelevision.es@HD]
   Atlas (480p)   [Atlas.us@SD]
   ATN Samachar (1080p)   [ATNSamachar.in@SD]
   ATV+ (1080p)   [ATVPlus.pe@SD]
@@ -1662,6 +1664,7 @@ NO GUIDE (1415)
   FilAmTV Network (1080p)   [FilAmTVNetwork.us@HD]
   Filinfo TV (1080p)   [FilinfoTV.bf@SD]
   Finans Turk TV (720p)   [FinansTurkTV.tr@SD]
+  FINTECH.TV (1080p)   [FINTECHTV.us@HD]
   First Channel News (1080p)   [FirstChannelNews.am@SD]
   FITE 24/7 (1080p)   [FITE247.us@SD]
   Flowers TV USA (396p)   [FlowersTVUSA.us@SD]
@@ -1954,6 +1957,7 @@ NO GUIDE (1415)
   Ministerio La Voz De Un Remanente TV   [MinisterioLaVozDeUnRemanenteTV.us@SD]
   Mir 24 (1080p)   [Mir24.ru@SD]
   Miracle Channel (1080p)   [MiracleChannel.se@SD]
+  Mirame TV (1080p)   [MirameTV.es@SD]
   Mission TV (1080p) [Not 24/7]   [MissionTV.us@SD]
   MMA TV (576p)   [MMATV.us@SD]
   Mohabat TV (United States) (540p)   [MohabatTV.us@SD]
@@ -2198,6 +2202,7 @@ NO GUIDE (1415)
   RCTV3 (480p)   [RCTV3.us@SD]
   RCV TV (712p)   [RCVTV.hn@SD]
   RDN (1080p) [Not 24/7]   [RDN.do@SD]
+  Real Life Network (1080p)   [RealLifeNetwork.us@HD]
   Real News Kerala (1080p) [Not 24/7]   [RealNewsKerala.in@SD]
   Realitatea TV (406p)   [RealitateaTV.md@SD]
   Red Apple 21 (480p) [Not 24/7]   [RedApple21.us@SD]
@@ -2205,6 +2210,7 @@ NO GUIDE (1415)
   Red TV Lebanon (1080p)   [RedTVLebanon.lb@HD]
   Red+ (1080p)   [RedPlus.co@SD]
   RedADvenir TV KSCE (360p)   [RedADvenirTV.bo@KSCE]
+  Reelz (720p)   [Reelz.us@SD]
   Report TV (720p)   [ReportTV.al@SD]
   Republic Bangla (576p)   [RepublicBangla.in@SD]
   Republic Kannada (720p)   [RepublicKannada.in@SD]
@@ -2400,7 +2406,6 @@ NO GUIDE (1415)
   TV A Folha (720p)   [TVAFolha.br@SD]
   TV Arta (720p)   [TVArta.xk@SD]
   TV Brusque (720p)   [TVBrusque.br@SD]
-  TV CAJUI WEB (720p)   [TVCAJUIWEB.br@HD]
   TV Hispanic [Not 24/7]   [TVHispanic.us@SD]
   TV Jadran (720p) [Not 24/7]   [TVJadran.hr@SD]
   TV Natal (1080p)   [TVNatal.br@SD]
